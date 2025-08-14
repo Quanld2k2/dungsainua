@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level20_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 0c6ae511d297f1742866bfb8887afedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12043874304
+    m_Localized: Deixe a panela quente mais picante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16229789696
+    m_Localized: "Este chili \xE9 realmente picante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18985447424
+    m_Localized: "Molho de pimenta \xE9 normal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21900488704
+    m_Localized: "A mostarda j\xE1 foi comida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27004956672
+    m_Localized: "Pimenta em p\xF3 tamb\xE9m serve."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30087770112
+    m_Localized: Alho faz meus olhos arderem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33778757632
+    m_Localized: "O gar\xE7om tamb\xE9m \xE9 gostoso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37100646400
+    m_Localized: "O hot pot de hoje est\xE1 delicioso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36366643200
+    m_Localized: "Beba a \xE1gua com pimenta diretamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35590696960
+    m_Localized: "Posso colocar \xE1lcool?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720172412928
+    m_Localized: "Esta cadeira \xE9 pesada o suficiente para bloquear a porta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720973524992
+    m_Localized: "Quebre a mesa velha para pegar os peda\xE7os quebrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722080821248
+    m_Localized: Reforce a janela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722819018752
+    m_Localized: "Feche a caixa, \xE9 perigoso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724131835904
+    m_Localized: "O helic\xF3ptero salvou o beb\xEA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723490107392
+    m_Localized: "N\xF3s podemos sair desse buraco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724765175808
+    m_Localized: "As cortinas s\xE3o um pouco finas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725440458752
+    m_Localized: "Gato, por favor, me d\xEA um pouco do seu pelo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726811996160
+    m_Localized: "Esta roupa pode ser usada como uma cobertura tempor\xE1ria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727554387968
+    m_Localized: "Conhecimento \xE9 poder"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728321945600
+    m_Localized: Tricotar um cobertor quente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729026588672
+    m_Localized: "Agora tenho 2 p\xE3es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729764786176
+    m_Localized: "N\xE3o est\xE1 quente o suficiente, precisa de mais p\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8284549345280
+    m_Localized: Cobertor na foto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8285316902912
+    m_Localized: "Tenha uma vis\xE3o geral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8286654885888
+    m_Localized: "A caixa tamb\xE9m pode ser usada temporariamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8287426637824
+    m_Localized: "Tapetes tamb\xE9m podem ser usados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288101920768
+    m_Localized: Pegue emprestado o cobertor do gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288735260672
+    m_Localized: "\xC1rvores tamb\xE9m podem ser constru\xEDdas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8289444098048
+    m_Localized: "doutor, n\xE3o consigo ouvir nada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290115186688
+    m_Localized: oh que doutor milagroso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290786275328
+    m_Localized: "Doutor, minha boca d\xF3i muito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291419615232
+    m_Localized: Um beijo e melhora na hora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292124258304
+    m_Localized: Misture um pouco de vermelho no azul e tudo volta ao normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292698877952
+    m_Localized: "Doutor, meu cora\xE7\xE3o d\xF3i por causa de um amor n\xE3o correspondido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8293202194432
+    m_Localized: "Vou dan\xE7ar para voc\xEA, t\xE1 bom?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159457762996224
+    m_Localized: "N\xE3o, j\xE1 estou bem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159458559913984
+    m_Localized: Doutor, estou tonto(a)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159459436523520
+    m_Localized: "Doutor, n\xE3o estou me sentindo bem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159460141166592
+    m_Localized: Doutor, estou com muito frio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160213433970688
+    m_Localized: "Vem c\xE1, me d\xE1 um abra\xE7o!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160214205722624
+    m_Localized: "Eu sou o m\xE9dico aqui, quem \xE9 voc\xEA?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160215044583424
+    m_Localized: Hehehe, fui descoberto!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175270402322432
+    m_Localized: " Doutor, o que h\xE1 de errado com a minha pele?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536507615145984
+    m_Localized: "Tenho que cuidar do beb\xEA de novo, mas eu quero sair para brincar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536508646944768
+    m_Localized: "Tamb\xE9m \xE9 muito macio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536509552914432
+    m_Localized: Minha cama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536510425329664
+    m_Localized: "At\xE9 o cachorro tem que cuidar da crian\xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536512136605696
+    m_Localized: "Eu n\xE3o consigo cuidar de mais ningu\xE9m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536513248096256
+    m_Localized: Ah, o papai voltou!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536514149871616
+    m_Localized: "Por que est\xE3o me fazendo cuidar de crian\xE7a?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536515190059008
+    m_Localized: "N\xE3o, o beb\xEA foi roubado!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

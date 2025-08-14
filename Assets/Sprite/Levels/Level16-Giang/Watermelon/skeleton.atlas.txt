@@ -1,0 +1,6 @@
+skeleton.png
+size:120,158
+filter:Linear,Linear
+pma:true
+Watermelon
+bounds:2,2,116,154

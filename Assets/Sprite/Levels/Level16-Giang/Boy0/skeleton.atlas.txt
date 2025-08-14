@@ -1,0 +1,6 @@
+skeleton.png
+size:489,764
+filter:Linear,Linear
+pma:true
+lv15_boy
+bounds:2,2,485,760

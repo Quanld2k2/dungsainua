@@ -1,0 +1,14 @@
+skeleton.png
+size:515,431
+filter:Linear,Linear
+pma:true
+Group 45
+bounds:2,2,488,283
+Layer 8
+bounds:89,287,142,211
+rotate:90
+Layer 9
+bounds:302,287,142,211
+rotate:90
+Stone
+bounds:2,366,85,63

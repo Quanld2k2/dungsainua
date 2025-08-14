@@ -1,0 +1,6 @@
+skeleton.png
+size:596,370
+filter:Linear,Linear
+pma:true
+bucket
+bounds:2,2,592,366

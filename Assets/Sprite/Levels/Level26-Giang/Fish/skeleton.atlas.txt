@@ -1,0 +1,6 @@
+skeleton.png
+size:165,93
+filter:Linear,Linear
+pma:true
+Fish
+bounds:2,2,161,89

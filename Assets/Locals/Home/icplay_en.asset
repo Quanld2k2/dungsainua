@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: icplay_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 076b2f1091ffd5a43a970f0aa9f686b2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6796800000
+    m_Localized: Poverty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9443405824
+    m_Localized: Flirting with girls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5734131494912
+    m_Localized: Go home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5736492888064
+    m_Localized: Queue up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222040388071424
+    m_Localized: My stomach hurts so much
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222043231809536
+    m_Localized: Raising pets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222048701181952
+    m_Localized: My father
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051049992192
+    m_Localized: Zombie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051955961856
+    m_Localized: Ghost bride
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222052660604928
+    m_Localized: Enjoyment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222053436551168
+    m_Localized: It's on fire!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222054812282880
+    m_Localized: Zombie 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222055680503808
+    m_Localized: Cross the bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222056586473472
+    m_Localized: Flood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222190468657152
+    m_Localized: Property / Asset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222191307517952
+    m_Localized: Be Alert / Stay Alert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192045715456
+    m_Localized: Beauty / Makeover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192951685120
+    m_Localized: Spicy Challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222241739829248
+    m_Localized: Strange Doctor / Weird Doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222242616438784
+    m_Localized: Zombie 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473516516798464
+    m_Localized: Responsibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473517691203584
+    m_Localized: Sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473518664282112
+    m_Localized: Grim Reaper / Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473519536697344
+    m_Localized: Stay Alert / Stay Awake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610133663744
+    m_Localized: Stuck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610938970112
+    m_Localized: Mess / Chaos / Clutter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473611706527744
+    m_Localized: Breakfast / Dim Sum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473612344061952
+    m_Localized: Training / Practice / Exercise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45191622960279552
+    m_Localized: Pamper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473647546855424
+    m_Localized: Sneaky
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

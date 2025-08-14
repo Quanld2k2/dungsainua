@@ -1,0 +1,6 @@
+skeleton.png
+size:254,386
+filter:Linear,Linear
+pma:true
+girl1
+bounds:2,2,250,382

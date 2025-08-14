@@ -1,0 +1,6 @@
+skeleton.png
+size:269,1018
+filter:Linear,Linear
+pma:true
+GirlDance
+bounds:2,2,265,1014

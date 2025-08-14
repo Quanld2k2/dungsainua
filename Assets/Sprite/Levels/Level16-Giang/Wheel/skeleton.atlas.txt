@@ -1,0 +1,6 @@
+skeleton.png
+size:949,270
+filter:Linear,Linear
+pma:true
+wheel
+bounds:2,2,945,266

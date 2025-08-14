@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level12_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fbb6ac7c389d14140963d4fe63e5d88a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12698034176
+    m_Localized: "A bit dangerous, but it works.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17018167296
+    m_Localized: Will it break?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199205376
+    m_Localized: This stick is too small to step on.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21241831424
+    m_Localized: "Oh no, there aren\u2019t enough steps!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23494172672
+    m_Localized: Luckily, there's a rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771679744
+    m_Localized: It's hot, no need to wear too much
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28195987456
+    m_Localized: No need for a wig when going to sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30716764160
+    m_Localized: Hey, give it back to me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073222764425216
+    m_Localized: Oh my God, there's a pervert!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073223603286016
+    m_Localized: meo meo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073224505061376
+    m_Localized: Let me use it for a bit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226048565248
+    m_Localized: Really nice broom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226858065920
+    m_Localized: Please help me a bit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073455569268736
+    m_Localized: Why did you take my towel?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073456366186496
+    m_Localized: I'm angry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073457137938432
+    m_Localized: Great, I got away!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145370749136896
+    m_Localized: The house is in such bad condition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145371516694528
+    m_Localized: The pipe is old so it leaks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145372254892032
+    m_Localized: The floor is full of holes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145373261524992
+    m_Localized: Pump out some of the water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145374498844672
+    m_Localized: The door is too tight, need to use a hammer to open it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927043870720
+    m_Localized: Thank you, now I can go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927815622656
+    m_Localized: Just clean up properly and it will be fine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145928486711296
+    m_Localized: Thank you for your help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146382775971840
+    m_Localized: The fried fish smells so good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146383652581376
+    m_Localized: First time seeing dragon fruit in instant noodles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046626530488320
+    m_Localized: Hiding really well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046127613833216
+    m_Localized: There's also here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126829498368
+    m_Localized: Must check every nook and cranny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126019997696
+    m_Localized: Trying to hide but giving oneself away
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046125298577408
+    m_Localized: "Didn\u2019t expect you to be hiding here too"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046124535214080
+    m_Localized: "I feel like there\u2019s still more"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046123780239360
+    m_Localized: "There\u2019s also some in the trash bin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046122949767168
+    m_Localized: There's someone hiding in the painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504840372224
+    m_Localized: "You still dare say you didn\u2019t hide the money?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504035065856
+    m_Localized: "I believe you, you didn\u2019t hide anything"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147503259119616
+    m_Localized: You dare to hide secret funds to spend wastefully?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147502525116416
+    m_Localized: I'll eat it after I finish exercising
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501753364480
+    m_Localized: It's a bit heavy too
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501044527104
+    m_Localized: I can easily lift ten more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147500310523904
+    m_Localized: This still isn't heavy enough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146898176241664
+    m_Localized: Waaah (crying sound)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146897467404288
+    m_Localized: I like eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146396302602240
+    m_Localized: The mushrooms are so fresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146395526656000
+    m_Localized: The door is made of chocolate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146386668285952
+    m_Localized: The watermelon is cool and refreshing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385833619456
+    m_Localized: Cucumber helps with weight loss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385128976384
+    m_Localized: Eating a lot of green vegetables is good for digestion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146384386584576
+    m_Localized: Fresh and delicious carrots are here
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

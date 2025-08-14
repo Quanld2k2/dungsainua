@@ -1,0 +1,6 @@
+skeleton.png
+size:238,215
+filter:Linear,Linear
+pma:true
+boxzom2
+bounds:2,2,234,211

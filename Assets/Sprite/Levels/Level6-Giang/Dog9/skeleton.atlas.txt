@@ -1,0 +1,9 @@
+skeleton.png
+size:206,129
+filter:Linear,Linear
+pma:true
+Dog9
+bounds:2,5,122,159
+rotate:90
+broom
+bounds:163,2,41,125

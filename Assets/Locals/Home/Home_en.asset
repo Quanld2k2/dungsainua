@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Home_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 14feba25a74fa314fa11b51fba268e28, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10592645120
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14006808576
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004473460420608
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004476413210624
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004478896238592
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006895595483136
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007599135453184
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009736175284224
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014208238678016
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014853897252864
+    m_Localized: Unlock all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295045362413568
+    m_Localized: Arabic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295477438640128
+    m_Localized: Chinese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295657659494400
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295870461702144
+    m_Localized: Japanese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296031757856768
+    m_Localized: Korean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296221575278592
+    m_Localized: Portuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296379214000128
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296555873890304
+    m_Localized: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40578585326448640
+    m_Localized: Best Benefit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45325740918370304
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327233549529088
+    m_Localized: Term of service
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327453456887808
+    m_Localized: Privacy policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47474479950917632
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475259965632512
+    m_Localized: VIP Member
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475260796104704
+    m_Localized: No Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475261702074368
+    m_Localized: Unlock Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475262641598464
+    m_Localized: 10 hints per day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47477867514097664
+    m_Localized: Remove Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479418056011776
+    m_Localized: Early Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419142336512
+    m_Localized: Watch 3 videos to unlock all levels for 24 hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419985391616
+    m_Localized: Watch Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47482779971022848
+    m_Localized: Later
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757392022794240
+    m_Localized: 50% Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757391288791040
+    m_Localized: Watch a video to unlock the level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389845950464
+    m_Localized: Unlock early
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389103558656
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755080260841472
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755079619112960
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078948024320
+    m_Localized: Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078247575552
+    m_Localized: Add more time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755077475823616
+    m_Localized: Watch video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076771180544
+    m_Localized: Add hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076016205824
+    m_Localized: "Time\u2019s up"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

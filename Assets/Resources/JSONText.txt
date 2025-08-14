@@ -1,0 +1,18 @@
+{
+	"player": [
+		{
+			"name": "dev1",
+			"position": 100
+		},
+		{
+			"name": "dev1",
+			"position": 100
+		},
+		{
+			"name": "dev1",
+			"position": 100
+		},
+	]
+
+
+}

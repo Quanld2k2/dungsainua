@@ -1,0 +1,10 @@
+skeleton.png
+size:380,179
+filter:Linear,Linear
+pma:true
+Layer 52 copy
+bounds:2,2,208,175
+Layer 55
+bounds:212,4,173,166
+offsets:0,0,174,167
+rotate:90

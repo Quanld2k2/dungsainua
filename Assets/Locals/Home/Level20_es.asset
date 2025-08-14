@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level20_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0c6ae511d297f1742866bfb8887afedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12043874304
+    m_Localized: "Haz que la olla caliente sea m\xE1s picante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16229789696
+    m_Localized: Este chile es realmente picante.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18985447424
+    m_Localized: La salsa de chile es normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21900488704
+    m_Localized: "La mostaza ya est\xE1 comida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27004956672
+    m_Localized: "El chile en polvo tambi\xE9n est\xE1 bien."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30087770112
+    m_Localized: El ajo me hace picar los ojos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33778757632
+    m_Localized: "El camarero tambi\xE9n est\xE1 buen\xEDsimo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37100646400
+    m_Localized: "La olla caliente de hoy est\xE1 deliciosa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36366643200
+    m_Localized: Bebe el agua de chile directamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35590696960
+    m_Localized: "\xBFEst\xE1 bien verter alcohol?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720172412928
+    m_Localized: Esta silla es lo suficientemente pesada para bloquear la puerta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720973524992
+    m_Localized: "Quebre a mesa velha para pegar os peda\xE7os quebrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722080821248
+    m_Localized: Reforzar la ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722819018752
+    m_Localized: Sella la caja, es peligroso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724131835904
+    m_Localized: "El helic\xF3ptero salv\xF3 al beb\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723490107392
+    m_Localized: Podemos salir de este agujero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724765175808
+    m_Localized: Las cortinas son un poco delgadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725440458752
+    m_Localized: Gato, por favor dame un poco de tu pelaje.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726811996160
+    m_Localized: Esta prenda se puede utilizar como cubierta temporal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727554387968
+    m_Localized: El conocimiento es poder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728321945600
+    m_Localized: "Tejer una manta c\xE1lida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729026588672
+    m_Localized: Ahora tengo dos panes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729764786176
+    m_Localized: "No hace suficiente calor, necesito m\xE1s pan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8284549345280
+    m_Localized: "\xBFManta en la foto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8285316902912
+    m_Localized: Obtenga la imagen completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8286654885888
+    m_Localized: "La caja tambi\xE9n se puede utilizar temporalmente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8287426637824
+    m_Localized: "Tambi\xE9n se pueden utilizar alfombras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288101920768
+    m_Localized: Toma prestada la manta del gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288735260672
+    m_Localized: "Tambi\xE9n se pueden construir \xE1rboles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8289444098048
+    m_Localized: Doctor, no oigo nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290115186688
+    m_Localized: "Oh, qu\xE9 milagroso doctor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290786275328
+    m_Localized: Doctor, me duele mucho la boca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291419615232
+    m_Localized: Un beso y te curas al instante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292124258304
+    m_Localized: Mezcla un poco de rojo con azul y todo se normaliza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292698877952
+    m_Localized: "Doctor, me duele el coraz\xF3n por un desamor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8293202194432
+    m_Localized: "Voy a bailar para ti, \xBFs\xED?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159457762996224
+    m_Localized: No, ya estoy bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159458559913984
+    m_Localized: Doctor, me siento mareado(a)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159459436523520
+    m_Localized: Doctor, no me siento bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159460141166592
+    m_Localized: "Doctor, tengo mucho fr\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160213433970688
+    m_Localized: "\xA1Vamos, dame un abrazo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160214205722624
+    m_Localized: "Yo soy el m\xE9dico aqu\xED, \xBFqui\xE9n eres t\xFA?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160215044583424
+    m_Localized: "Jejeje, \xA1me han pillado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175270402322432
+    m_Localized: "Doctor, \xBFqu\xE9 le pasa a mi piel?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536507615145984
+    m_Localized: "Tengo que cuidar al beb\xE9 otra vez, pero quiero salir a jugar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536508646944768
+    m_Localized: "Tambi\xE9n es muy suave."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536509552914432
+    m_Localized: Mi cama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536510425329664
+    m_Localized: "Hasta el perro tiene que cuidar al ni\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536512136605696
+    m_Localized: "No puedo cuidar de m\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536513248096256
+    m_Localized: "\xA1Ah, pap\xE1 ha vuelto!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536514149871616
+    m_Localized: "\xBFPor qu\xE9 me hacen cuidar ni\xF1os?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536515190059008
+    m_Localized: "\xA1No, el beb\xE9 ha sido robado!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

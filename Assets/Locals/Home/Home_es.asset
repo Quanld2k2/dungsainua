@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Home_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 14feba25a74fa314fa11b51fba268e28, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10592645120
+    m_Localized: "Configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14006808576
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004473460420608
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004476413210624
+    m_Localized: Lengua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004478896238592
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006895595483136
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007599135453184
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009736175284224
+    m_Localized: Inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014208238678016
+    m_Localized: Pista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014853897252864
+    m_Localized: Desbloquear todo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295045362413568
+    m_Localized: "\xC1rabe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295477438640128
+    m_Localized: Chino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295657659494400
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295870461702144
+    m_Localized: "Japon\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296031757856768
+    m_Localized: Coreano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296221575278592
+    m_Localized: "Portugu\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296379214000128
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296555873890304
+    m_Localized: Vietnamita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40578585326448640
+    m_Localized: Mejor beneficio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45325740918370304
+    m_Localized: 'jugar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327233549529088
+    m_Localized: "T\xE9rminos del servicio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327453456887808
+    m_Localized: "Pol\xEDtica de Privacidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47474479950917632
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475259965632512
+    m_Localized: Miembro VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475260796104704
+    m_Localized: Sin anuncios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475261702074368
+    m_Localized: Desbloquear niveles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475262641598464
+    m_Localized: "10 pistas por d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47477867514097664
+    m_Localized: "Eliminar anuncios\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479418056011776
+    m_Localized: Desbloqueo anticipado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419142336512
+    m_Localized: Mira 3 videos para desbloquear todos los niveles por 24 horas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419985391616
+    m_Localized: Ver video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47482779971022848
+    m_Localized: "M\xE1s tarde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757392022794240
+    m_Localized: 50% de descuento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757391288791040
+    m_Localized: Mira un video para desbloquear el nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389845950464
+    m_Localized: Desbloquear antes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389103558656
+    m_Localized: Intentar de nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755080260841472
+    m_Localized: Fin del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755079619112960
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078948024320
+    m_Localized: Completar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078247575552
+    m_Localized: "A\xF1ade m\xE1s tiempo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755077475823616
+    m_Localized: Ver video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076771180544
+    m_Localized: "A\xF1adir pista"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076016205824
+    m_Localized: "Se acab\xF3 el tiempo"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

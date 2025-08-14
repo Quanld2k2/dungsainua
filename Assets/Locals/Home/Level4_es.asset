@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level4_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 92bbda2ffe4735a4c9115ae1e47ce2a8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31698382848
+    m_Localized: no pudieron verme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33938141184
+    m_Localized: Toca la flauta para llamar a la serpiente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35951407104
+    m_Localized: ayuda no puedo ver nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40112156672
+    m_Localized: "\xBFDe qui\xE9n es esto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42561630208
+    m_Localized: 'huele tan mal '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44612644864
+    m_Localized: El olor es asqueroso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46693019648
+    m_Localized: "s\xE1lvame\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48408489984
+    m_Localized: "Usar esto reducir\xE1 el olor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1075836809216
+    m_Localized: "Esta botella vac\xEDa es muy \xFAtil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076876996608
+    m_Localized: "Lo siento mu\xF1eco de nieve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077749411840
+    m_Localized: "No s\xE9 de qui\xE9n es, pero lo usar\xE9 temporalmente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1078525358080
+    m_Localized: este es mi perfume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497079148544
+    m_Localized: Ventilador para quitar el olor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497884454912
+    m_Localized: "\xBFDe qui\xE9n es ese par?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498656206848
+    m_Localized: "\xBFDe qui\xE9n es ese par?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378642699841536
+    m_Localized: "\xA1Que no se entere el mariscal!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177462202986496
+    m_Localized: "Trabaja, d\xE9jame ayudarte "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177463167676416
+    m_Localized: 'Hola di algo '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177464174309376
+    m_Localized: "D\xE9jame limpiar la casa por ti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177465050918912
+    m_Localized: He vuelto del mercado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177466221129728
+    m_Localized: "El armario est\xE1 demasiado desordenado para reorganizarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177467936600064
+    m_Localized: "D\xE9jame ir a entreg\xE1rtelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177469073256448
+    m_Localized: " Yo tambi\xE9n puedo ayudar con esto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177470054723584
+    m_Localized: "te ayudar\xE9 a limpiar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178287360995328
+    m_Localized: Los libros deben colocarse en el lugar correcto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178288707366912
+    m_Localized: "\xBFPor qu\xE9 me haces estudiar? "
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

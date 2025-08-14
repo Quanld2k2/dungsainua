@@ -1,0 +1,6 @@
+skeleton.png
+size:84,65
+filter:Linear,Linear
+pma:true
+phone
+bounds:2,2,80,61

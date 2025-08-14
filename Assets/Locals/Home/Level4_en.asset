@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level4_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 92bbda2ffe4735a4c9115ae1e47ce2a8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31698382848
+    m_Localized: They couldn't see me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33938141184
+    m_Localized: Play the flute to call out the snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35951407104
+    m_Localized: Help I can't see anything
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40112156672
+    m_Localized: Whose is this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42561630208
+    m_Localized: 'it smells so bad '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44612644864
+    m_Localized: The smell is disgusting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46693019648
+    m_Localized: save me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48408489984
+    m_Localized: Using this will reduce the odor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1075836809216
+    m_Localized: This empty bottle is very useful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076876996608
+    m_Localized: Sorry snowman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077749411840
+    m_Localized: I don't know whose it is, but I'll use it temporarily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1078525358080
+    m_Localized: This is my perfume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497079148544
+    m_Localized: Fan to remove the smell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497884454912
+    m_Localized: Whose pair is that?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498656206848
+    m_Localized: Whose pair is that?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378642699841536
+    m_Localized: "Don't let the marshal know!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177462202986496
+    m_Localized: 'Work, let me help you '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177463167676416
+    m_Localized: 'Hello, say something '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177464174309376
+    m_Localized: Let me clean the house for you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177465050918912
+    m_Localized: I'm back from the market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177466221129728
+    m_Localized: The wardrobe is too messy for me to rearrange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177467936600064
+    m_Localized: Let me go deliver it to you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177469073256448
+    m_Localized: ' I can also help with this'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177470054723584
+    m_Localized: I'll help you clean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178287360995328
+    m_Localized: Books must be placed in the right place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178288707366912
+    m_Localized: 'Why do you make me study? '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

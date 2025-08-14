@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level8_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 48c744b2682ce4f43befff6425e01f93, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 186044575744
+    m_Localized: Here are more tickets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188556963840
+    m_Localized: What's in this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192952594432
+    m_Localized: Doing this will not be detected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195104272384
+    m_Localized: Hurry up, dad is about to come home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707874713600
+    m_Localized: This is very expensive but it has to be changed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 712069017600
+    m_Localized: 'Hide this '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805167554560
+    m_Localized: Hope there are enough tickets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808288116736
+    m_Localized: This can last for a while
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3407454597120
+    m_Localized: ' Hope it doesn''t make any noise'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3408264097792
+    m_Localized: I feel like I should plant more trees in the future
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3408998100992
+    m_Localized: A bit smelly but better than nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3410273169408
+    m_Localized: This is so good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3412215132160
+    m_Localized: ' I never thought waste would help me'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4084989882368
+    m_Localized: What does this contain?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4085858103296
+    m_Localized: Come on, you're about to escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636801455026176
+    m_Localized: Why do you want to harm me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636802423910400
+    m_Localized: I love wealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636803594121216
+    m_Localized: My lord has arrived to escort me; I must now take my leave.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636805372506112
+    m_Localized: "\u305D\u308C\u3092\u305A\u3063\u3068\u63A2\u3057\u3066\u3044\u307E\u3057\u305F\u3002\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636806546911232
+    m_Localized: "I\u2019m late for the appointment, I have to go now.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636807759065088
+    m_Localized: Your beauty is beyond words, like a vision from another world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636809063493632
+    m_Localized: This peace is so profound, as though all burdens have lifted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646553970995200
+    m_Localized: I am drawn to things that sparkle, like stars lighting my way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646556357554176
+    m_Localized: It seems to be clean now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648688099979264
+    m_Localized: Oh no, everything is dirty now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648688934645760
+    m_Localized: "The pool is so clean I can see the bottom now!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648689739952128
+    m_Localized: "I am a swimming instructor.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648690713030656
+    m_Localized: "I can do this too, it\u2019s a piece of cake!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648691887435776
+    m_Localized: "The pet should look clean too.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648694169137152
+    m_Localized: "This is comfortable now.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650877484724224
+    m_Localized: "Sunscreen helps prevent sunburn.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650878319390720
+    m_Localized: "Oh no, I was secretly photographed!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650879795785728
+    m_Localized: "The most relaxing moment is when you have lots of money.\t"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

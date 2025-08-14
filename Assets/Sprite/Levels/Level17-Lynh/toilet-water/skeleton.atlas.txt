@@ -1,0 +1,6 @@
+skeleton.png
+size:161,148
+filter:Linear,Linear
+pma:true
+toilet-water
+bounds:2,2,157,144

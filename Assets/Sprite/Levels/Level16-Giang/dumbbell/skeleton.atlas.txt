@@ -1,0 +1,9 @@
+skeleton.png
+size:879,489
+filter:Linear,Linear
+pma:true
+dumbbell
+bounds:764,294,113,193
+lv15_boy
+bounds:2,2,485,760
+rotate:90

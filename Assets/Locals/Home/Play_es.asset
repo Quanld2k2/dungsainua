@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Play_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: f6afe05a50e6b7a41996d680befc8826, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32545632256
+    m_Localized: "Ay\xFAdales a tener una vida mejor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34948968448
+    m_Localized: Encuentra una forma de abrir la puerta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37155172352
+    m_Localized: Ayuda a la chica a cruzar el camino.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39495593984
+    m_Localized: Ahuyenta a los que se cruzan en la fila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5760913023889408
+    m_Localized: "\xA1Que no se entere el mariscal!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198205069520896
+    m_Localized: "Tengo mucho sue\xF1o, \xBFpuedo pedirle a los perros que hagan
+      alg\xFAn trabajo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198215794356224
+    m_Localized: "Pap\xE1 viene a visitarnos, por favor ay\xFAdame."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198219317571584
+    m_Localized: "Ayuda a la ni\xF1a a mantener la respiraci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198221641216000
+    m_Localized: "Ayuda a la chica a salir de aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198223746756608
+    m_Localized: Ayudando a las celebridades a relajarse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198224484954112
+    m_Localized: Escapar del fuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225160237056
+    m_Localized: Escapar de los zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225898434560
+    m_Localized: Venga conmigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198226603077632
+    m_Localized: Ayuda a drenar la casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198227907506176
+    m_Localized: "Ayuda a la ni\xF1a a llenar su est\xF3mago."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198354680344576
+    m_Localized: Gymer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198355384987648
+    m_Localized: Encuentra el fondo secreto de tu marido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198356085436416
+    m_Localized: "Ay\xFAdame, siento que hay algo peligroso en la habitaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199918518202368
+    m_Localized: "Limpiar la habitaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199919629692928
+    m_Localized: Grinalda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479183877140480
+    m_Localized: Quiero comer algo muy picante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479184720195584
+    m_Localized: Trata cientos de enfermedades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479191326224384
+    m_Localized: "Rescatar al ni\xF1o de los zombis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479239174844416
+    m_Localized: "Ayuda a mam\xE1 a cuidar al beb\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479240651239424
+    m_Localized: "Ayuda a la ni\xF1a a dormir m\xE1s abrigada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377855741952
+    m_Localized: Pela camarones para tu novia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377184653312
+    m_Localized: Recupera el objeto antes de ser descubierto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838338328621056
+    m_Localized: Rescata a las chicas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838336046919680
+    m_Localized: "Encuentra al hombre lobo disfrazado y atr\xE1palo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838334880903168
+    m_Localized: Salva a la chica
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

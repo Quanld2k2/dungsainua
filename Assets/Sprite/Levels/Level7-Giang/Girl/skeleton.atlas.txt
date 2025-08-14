@@ -1,0 +1,6 @@
+skeleton.png
+size:254,638
+filter:Linear,Linear
+pma:true
+Girllv7
+bounds:2,2,250,634

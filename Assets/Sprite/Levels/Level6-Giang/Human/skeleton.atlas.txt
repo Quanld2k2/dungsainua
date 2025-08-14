@@ -1,0 +1,6 @@
+skeleton.png
+size:173,235
+filter:Linear,Linear
+pma:true
+sleep
+bounds:2,2,169,231

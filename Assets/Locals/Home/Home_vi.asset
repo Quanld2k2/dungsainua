@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Home_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 14feba25a74fa314fa11b51fba268e28, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10592645120
+    m_Localized: "C\xE0i \u0111\u1EB7t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14006808576
+    m_Localized: "\xC2m thanh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004473460420608
+    m_Localized: "\xC2m nh\u1EA1c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004476413210624
+    m_Localized: "Ng\xF4n ng\u1EEF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004478896238592
+    m_Localized: "Ti\u1EBFp t\u1EE5c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006895595483136
+    m_Localized: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007599135453184
+    m_Localized: "H\u1EE7y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009736175284224
+    m_Localized: "Trang ch\u1EE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014208238678016
+    m_Localized: "G\u1EE3i \xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014853897252864
+    m_Localized: "M\u1EDF kh\xF3a to\xE0n b\u1ED9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295045362413568
+    m_Localized: "Ti\u1EBFng \u1EA2 R\u1EADp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295477438640128
+    m_Localized: "Ti\u1EBFng Trung\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295657659494400
+    m_Localized: "Ti\u1EBFng Anh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295870461702144
+    m_Localized: "Ti\u1EBFng Nh\u1EADt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296031757856768
+    m_Localized: "Ti\u1EBFng H\xE0n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296221575278592
+    m_Localized: "Ti\u1EBFng B\u1ED3 \u0110\xE0o Nha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296379214000128
+    m_Localized: "Ti\u1EBFng T\xE2y Ban Nha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296555873890304
+    m_Localized: "Ti\u1EBFng Vi\u1EC7t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40578585326448640
+    m_Localized: "L\u1EE3i \xEDch t\u1ED1t nh\u1EA5t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45325740918370304
+    m_Localized: "Ch\u01A1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327233549529088
+    m_Localized: "\u0110i\u1EC1u kho\u1EA3n d\u1ECBch v\u1EE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327453456887808
+    m_Localized: "Ch\xEDnh s\xE1ch quy\u1EC1n ri\xEAng t\u01B0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47474479950917632
+    m_Localized: "C\u1EEDa h\xE0ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475259965632512
+    m_Localized: "Th\xE0nh vi\xEAn Vip"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475260796104704
+    m_Localized: "Kh\xF4ng qu\u1EA3ng c\xE1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475261702074368
+    m_Localized: "M\u1EDF kh\xF3a m\xE0n ch\u01A1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475262641598464
+    m_Localized: "10 g\u1EE3i \xFD m\u1ED7i ng\xE0y\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47477867514097664
+    m_Localized: "G\u1EE1 b\u1ECF qu\u1EA3ng c\xE1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479418056011776
+    m_Localized: "M\u1EDF kh\xF3a s\u1EDBm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419142336512
+    m_Localized: "Xem 3 video \u0111\u1EC3 m\u1EDF kh\xF3a\nt\u1EA5t c\u1EA3 m\xE0n
+      ch\u01A1i trong 24h"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419985391616
+    m_Localized: Xem video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47482779971022848
+    m_Localized: "\u0110\u1EC3 sau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076016205824
+    m_Localized: "H\u1EBFt th\u1EDDi gian"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076771180544
+    m_Localized: "Th\xEAm g\u1EE3i \xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755077475823616
+    m_Localized: Xem Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078247575552
+    m_Localized: "Th\xEAm th\u1EDDi gian"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078948024320
+    m_Localized: "Ho\xE0n th\xE0nh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755079619112960
+    m_Localized: "Ti\u1EBFp theo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755080260841472
+    m_Localized: "Th\u1EA5t b\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389103558656
+    m_Localized: "Th\u1EED l\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389845950464
+    m_Localized: "M\u1EDF kh\xF3a s\u1EDBm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757391288791040
+    m_Localized: "Xem video \u0111\u1EC3 m\u1EDF kh\xF3a m\xE0n ch\u01A1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757392022794240
+    m_Localized: "Gi\u1EA3m gi\xE1 50%"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

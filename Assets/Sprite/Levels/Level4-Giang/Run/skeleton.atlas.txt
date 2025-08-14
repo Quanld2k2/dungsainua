@@ -1,0 +1,33 @@
+skeleton.png
+size:1348,311
+filter:Linear,Linear
+pma:true
+Layer 11
+bounds:692,41,87,268
+Layer 17
+bounds:1046,2,117,115
+Layer 18
+bounds:1034,119,190,86
+rotate:90
+Layer 20
+bounds:1165,3,122,149
+rotate:90
+Layer 21
+bounds:1122,127,130,133
+Layer 7
+bounds:1165,262,47,181
+rotate:90
+Layer 8
+bounds:858,3,47,186
+rotate:90
+Layer 9
+bounds:692,13,26,164
+rotate:90
+Shape 7
+bounds:2,3,350,306
+Snake
+bounds:1254,178,90,82
+ufo
+bounds:781,52,251,257
+umbrella
+bounds:354,27,336,282

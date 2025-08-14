@@ -1,0 +1,7 @@
+skeleton.png
+size:154,303
+filter:Linear,Linear
+pma:true
+zombie4
+bounds:2,2,150,299
+offsets:9,17,168,330

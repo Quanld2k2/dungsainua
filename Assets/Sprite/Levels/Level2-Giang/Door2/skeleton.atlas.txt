@@ -1,0 +1,12 @@
+skeleton.png
+size:837,599
+filter:Linear,Linear
+pma:true
+axe
+bounds:675,11,144,161
+door2
+bounds:2,2,361,595
+door21
+bounds:365,46,308,551
+door22
+bounds:675,174,160,423

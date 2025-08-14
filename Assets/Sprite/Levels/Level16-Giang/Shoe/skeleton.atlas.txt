@@ -1,0 +1,6 @@
+skeleton.png
+size:317,239
+filter:Linear,Linear
+pma:true
+shoe
+bounds:2,2,313,235

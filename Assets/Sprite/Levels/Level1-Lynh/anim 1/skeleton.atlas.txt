@@ -1,0 +1,11 @@
+skeleton.png
+size:692,649
+filter:Linear,Linear
+pma:true
+girl
+bounds:463,387,260,227
+rotate:90
+grandma
+bounds:2,2,609,220
+grandma-win
+bounds:2,224,459,423

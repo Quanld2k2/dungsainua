@@ -1,0 +1,12 @@
+skeleton.png
+size:348,192
+filter:Linear,Linear
+pma:true
+Group 46
+bounds:2,2,232,188
+Polygon 1
+bounds:236,9,58,58
+photo
+bounds:236,69,121,110
+offsets:0,178,134,288
+rotate:90

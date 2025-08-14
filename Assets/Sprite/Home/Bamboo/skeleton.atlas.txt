@@ -1,0 +1,6 @@
+skeleton.png
+size:510,422
+filter:Linear,Linear
+pma:true
+Bamboo
+bounds:2,2,506,418

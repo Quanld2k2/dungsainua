@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Home_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 14feba25a74fa314fa11b51fba268e28, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10592645120
+    m_Localized: "Configura\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14006808576
+    m_Localized: Som
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004473460420608
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004476413210624
+    m_Localized: "L\xEDngua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004478896238592
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006895595483136
+    m_Localized: Portuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007599135453184
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009736175284224
+    m_Localized: "In\xEDcio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014208238678016
+    m_Localized: Dica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014853897252864
+    m_Localized: Desbloquear tudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295045362413568
+    m_Localized: "\xC1rabe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295477438640128
+    m_Localized: "Chin\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295657659494400
+    m_Localized: "Ingl\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295870461702144
+    m_Localized: "Japon\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296031757856768
+    m_Localized: Coreano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296221575278592
+    m_Localized: "Portugu\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296379214000128
+    m_Localized: Espanhol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296555873890304
+    m_Localized: ' Vietnamita'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40578585326448640
+    m_Localized: "Melhor benef\xEDcio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45325740918370304
+    m_Localized: 'jogar '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327233549529088
+    m_Localized: "Termos de Servi\xE7o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327453456887808
+    m_Localized: "Pol\xEDtica de Privacidade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47474479950917632
+    m_Localized: Loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475259965632512
+    m_Localized: Membro VIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475260796104704
+    m_Localized: "Sem an\xFAncios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475261702074368
+    m_Localized: Desbloquear fases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475262641598464
+    m_Localized: 10 dicas por dia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47477867514097664
+    m_Localized: "Remover an\xFAncios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479418056011776
+    m_Localized: Desbloqueio antecipado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419142336512
+    m_Localized: "Assista a 3 v\xEDdeos para desbloquear todas as fases por 24 horas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419985391616
+    m_Localized: "Assistir ao v\xEDdeo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47482779971022848
+    m_Localized: Mais tarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757392022794240
+    m_Localized: 50% de desconto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757391288791040
+    m_Localized: "Assista ao v\xEDdeo para desbloquear o n\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389845950464
+    m_Localized: Desbloquear antecipadamente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389103558656
+    m_Localized: Tentar novamente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755080260841472
+    m_Localized: Fim de jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755079619112960
+    m_Localized: "Pr\xF3ximo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078948024320
+    m_Localized: Concluir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078247575552
+    m_Localized: Adicione mais tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755077475823616
+    m_Localized: "Assistir ao v\xEDdeo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076771180544
+    m_Localized: Adicionar dica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076016205824
+    m_Localized: O tempo acabou
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

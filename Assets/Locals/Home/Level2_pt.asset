@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level2_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: b6171c58ced06034a8fc63bbe8721c37, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 217338277888
+    m_Localized: Precisa de ferramentas para mexer uniformemente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216700743680
+    m_Localized: Para que serve esta torneira?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216063209472
+    m_Localized: Afaste o perseguidor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215425675264
+    m_Localized: "Esta estrada est\xE1 fechada para carros, pegue outra estrada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214620368896
+    m_Localized: "Esta estrada \xE9 t\xE3o perigosa, por favor me ajude."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213076865024
+    m_Localized: Ajude a garota a atravessar a rua.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210329595904
+    m_Localized: "D\xEA-me alguma coisa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30842744832
+    m_Localized: "Deixe esse feiti\xE7o comigo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28460380160
+    m_Localized: "Esta faca \xE9 muito pequena para usar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26245787648
+    m_Localized: "Aqui est\xE1 o dinheiro, me ajude a abrir a porta\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21657219072
+    m_Localized: Por favor, abra a porta e me ajude a conhecer minha namorada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23796314112
+    m_Localized: "Por favor, n\xE3o incomode nossa senhora"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

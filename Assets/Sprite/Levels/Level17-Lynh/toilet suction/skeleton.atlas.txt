@@ -1,0 +1,7 @@
+skeleton.png
+size:59,125
+filter:Linear,Linear
+pma:true
+toilet suction
+bounds:2,2,55,121
+offsets:0,1,55,122

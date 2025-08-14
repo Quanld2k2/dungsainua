@@ -1,0 +1,13 @@
+skeleton.png
+size:754,192
+filter:Linear,Linear
+pma:true
+Girl22
+bounds:2,31,111,402
+rotate:90
+Group 43
+bounds:406,2,336,140
+rope
+bounds:2,144,46,750
+offsets:8,0,57,750
+rotate:90

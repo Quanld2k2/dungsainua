@@ -1,0 +1,6 @@
+skeleton.png
+size:180,251
+filter:Linear,Linear
+pma:true
+Maygiat2
+bounds:2,2,176,247

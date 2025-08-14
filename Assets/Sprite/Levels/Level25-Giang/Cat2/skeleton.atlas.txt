@@ -1,0 +1,9 @@
+skeleton.png
+size:272,132
+filter:Linear,Linear
+pma:true
+Cat
+bounds:2,9,182,121
+scissors
+bounds:186,2,128,84
+rotate:90

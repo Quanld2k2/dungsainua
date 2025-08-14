@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Play_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f6afe05a50e6b7a41996d680befc8826, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32545632256
+    m_Localized: Help them have a better life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34948968448
+    m_Localized: Find a way to open the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37155172352
+    m_Localized: Help the girl cross the road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39495593984
+    m_Localized: Chase away those who cut in line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5760913023889408
+    m_Localized: Don't let the marshal know!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198205069520896
+    m_Localized: I'm so sleepy, can I ask the dogs to do some work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198215794356224
+    m_Localized: Dad is coming to visit, please help me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198219317571584
+    m_Localized: Help the girl maintain her breath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198221641216000
+    m_Localized: Help the girl get out of here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198223746756608
+    m_Localized: Helping celebrities relax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198224484954112
+    m_Localized: Escape from the fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225160237056
+    m_Localized: Escape from zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225898434560
+    m_Localized: come with me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198226603077632
+    m_Localized: Help drain the house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198227907506176
+    m_Localized: Help the girl fill her stomach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198354680344576
+    m_Localized: Gymer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198355384987648
+    m_Localized: Find husband's secret fund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198356085436416
+    m_Localized: Help me I feel like there is something dangerous in the room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199918518202368
+    m_Localized: Clean the room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199919629692928
+    m_Localized: Garland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479183877140480
+    m_Localized: I want to eat something really spicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479184720195584
+    m_Localized: Treats hundreds of diseases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479191326224384
+    m_Localized: Rescue the child from the zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479239174844416
+    m_Localized: Help mom take care of the baby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479240651239424
+    m_Localized: Help the girl sleep warmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377855741952
+    m_Localized: Peel shrimp for your girlfriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377184653312
+    m_Localized: Retrieve the item before being discovered
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838338328621056
+    m_Localized: Rescue the girls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838336046919680
+    m_Localized: Find the disguised werewolf and capture them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838334880903168
+    m_Localized: Save the girl
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

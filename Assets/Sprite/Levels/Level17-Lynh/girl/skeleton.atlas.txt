@@ -1,0 +1,11 @@
+skeleton.png
+size:765,272
+filter:Linear,Linear
+pma:true
+chao
+bounds:609,85,154,185
+offsets:20,8,182,199
+girl_1
+bounds:2,2,268,605
+offsets:41,3,313,611
+rotate:90

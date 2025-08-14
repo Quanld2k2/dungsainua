@@ -1,0 +1,1174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hint_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 7e4faa94b025ba44fb7c80c59b5e1414, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13939699712
+    m_Localized: "D\xEA dinheiro para a velha senhora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15973937152
+    m_Localized: Puxe o dinheiro para a mesa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486895793598464
+    m_Localized: "D\xEA dinheiro para a menina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486908733026304
+    m_Localized: "D\xEA dinheiro para o cachorro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486918325399552
+    m_Localized: Puxe o dinheiro para a vela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488016264163328
+    m_Localized: Puxe o dinheiro para a janela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488023478366208
+    m_Localized: Puxe o dinheiro para a foto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488025357414400
+    m_Localized: Use uma vassoura para varrer as teias de aranha.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488027404234752
+    m_Localized: "Puxe o dinheiro para o ch\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488028746412032
+    m_Localized: Puxe o dinheiro para a parede.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426406106263552
+    m_Localized: Use a chave para abrir a porta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426407129673728
+    m_Localized: Pegue o dinheiro do cara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426408119529472
+    m_Localized: Use o dinheiro para comprar um machado novo em vez de uma faca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426409088413696
+    m_Localized: "Use dinheiro para ligar para algu\xE9m pedindo ajuda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426411617579008
+    m_Localized: Verifique a luz noturna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426415249846272
+    m_Localized: Use o dinheiro para comprar comida de cachorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426416273256448
+    m_Localized: "Reinstale a placa atr\xE1s do arbusto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426417162448896
+    m_Localized: Use pedras para afugentar o pervertido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426418827587584
+    m_Localized: Alimente o cachorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426420555640832
+    m_Localized: "Use um balde para pegar \xE1gua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426421537107968
+    m_Localized: "Despeje \xE1gua no buraco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426422539546624
+    m_Localized: Despeje cimento no buraco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426423479070720
+    m_Localized: "Use um utens\xEDlio para mexer o cimento uniformemente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426430722633728
+    m_Localized: Sopre a flauta na cesta para chamar a cobra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426429724389376
+    m_Localized: "Pegue o OVNI no p\xF4ster na parede"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426428856168448
+    m_Localized: Use o guarda-chuva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427979558912
+    m_Localized: Pegue as meias do cara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427107143680
+    m_Localized: Esvazie o lixo, use o lixo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426426159230976
+    m_Localized: Use skates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426425291010048
+    m_Localized: Use o balde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426424410206208
+    m_Localized: Puxe o fantasma para dentro do cobertor para assustar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426431666352128
+    m_Localized: Use fones de ouvido para cobrir os ouvidos do menino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426432530378752
+    m_Localized: "Coloque o bal\xE3o na foto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426433415376896
+    m_Localized: "Despeje toda a \xE1gua da garrafa no lixo, use a garrafa de \xE1gua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426434300375040
+    m_Localized: Use o ventilador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426435118264320
+    m_Localized: Use a maleta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436049399808
+    m_Localized: Use uma faca para cortar o durian e depois use-o.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436917620736
+    m_Localized: Perfume no corpo da menina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426437798424576
+    m_Localized: "Pegue o chap\xE9u do boneco de neve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426438574370816
+    m_Localized: "Pegue o chap\xE9u do boneco de neve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426439576809472
+    m_Localized: "Use o boneco de neve tamb\xE9m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426440419864576
+    m_Localized: Puxe um cachorro para a toalha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426441321639936
+    m_Localized: Puxe 1 cachorro para o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426442164695040
+    m_Localized: "Abra o arm\xE1rio, arraste um cachorro para dentro do arm\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426443821445120
+    m_Localized: ' Abra a janela, leve um cachorro para passear'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426444756774912
+    m_Localized: Abra a porta do banheiro e leve um cachorro para dentro do banheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426445666938880
+    m_Localized: Arraste um cachorro para uma teia de aranha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426446505799680
+    m_Localized: Puxe o livro para cima da mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426447407575040
+    m_Localized: Puxe o cachorro para a mesa de livros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449064325120
+    m_Localized: "Mude o ch\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449957711872
+    m_Localized: Trocar luzes de teto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426450901430272
+    m_Localized: Mudar de cachorro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426451794817024
+    m_Localized: Trocar penteadeira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426453355098112
+    m_Localized: Mude a cadeira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426454307205120
+    m_Localized: Mude a cama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426455246729216
+    m_Localized: Abra a cortina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456152698880
+    m_Localized: Mude os adesivos na parede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456991559680
+    m_Localized: Troque de roupa para a garota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426457889140736
+    m_Localized: Trocar tapetes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426458786721792
+    m_Localized: Mude seu telefone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426459680108544
+    m_Localized: Use coco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426460548329472
+    m_Localized: Use o pato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426461424939008
+    m_Localized: "Uso da \xE1rvore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426463379484672
+    m_Localized: O sapato pode ajudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953544831234048
+    m_Localized: "Flutuadores de nata\xE7\xE3o s\xE3o uma boa ideia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953545598791680
+    m_Localized: Use a garrafa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546240520192
+    m_Localized: Use a bolsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546945163264
+    m_Localized: "Experimente o bal\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516540680728576
+    m_Localized: Toque duas vezes no vaso para pegar dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516541280514048
+    m_Localized: Tire a camisa do rapaz para pegar o dinheiro e a chave do cofre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516639834075136
+    m_Localized: Pegue a chave com o rapaz para abrir o cofre e pegar o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516640672935936
+    m_Localized: Rasgue o papel de parede para pegar o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516641377579008
+    m_Localized: Levante o tapete para pegar o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642082222080
+    m_Localized: "Abra a tampa do vaso sanit\xE1rio para pegar o dinheiro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642719756288
+    m_Localized: "deslize para cima para abrir a tampa do vaso sanit\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516643390844928
+    m_Localized: 'Pressione duas vezes para abrir o gabinete '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757173923840
+    m_Localized: Deslize as roupas para a esquerda para pegar o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757912121344
+    m_Localized: "Pegue a tesoura e corte o sof\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516758583209984
+    m_Localized: Toque duas vezes para abrir a tampa do ar-condicionado e pegar o
+      dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516791332335616
+    m_Localized: deslize a imagem na parede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516792171196416
+    m_Localized: " Abra a gaveta, pegue o martelo, quebre a rachadura atr\xE1s do
+      quadro e pegue o dinheiro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515981697445888
+    m_Localized: coloque o peixe na tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983169646592
+    m_Localized: Pegue a tesoura de cabelo da menina e coloque-a na tigela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983807180800
+    m_Localized: Abra a geladeira e coloque o frango e o sorvete em uma tigela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515984545378304
+    m_Localized: "despeje um copo de \xE1gua em uma bacia vazia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515986122436608
+    m_Localized: coloque os vegetais em uma tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516536654196736
+    m_Localized: deslize para abrir a janela e pegue pepinos em uma tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516537425948672
+    m_Localized: veja a melancia na foto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516538164146176
+    m_Localized: pegue a porta e coloque na tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539237888000
+    m_Localized: pegue o ovo e coloque na tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539904782336
+    m_Localized: colher cogumelos marrons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515926831755264
+    m_Localized: "puxe o bast\xE3o para dentro da escada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515930422079488
+    m_Localized: puxe a guitarra escada acima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515932536008704
+    m_Localized: puxe o rolo de massa para a escada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515934616383488
+    m_Localized: puxe a faca para dentro da escada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515966593757184
+    m_Localized: "arraste a m\xE3o do zumbi para a escada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515970016309248
+    m_Localized: puxe a corda para a escada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515972201541632
+    m_Localized: puxe a bandeira para a escada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515974579712000
+    m_Localized: "Clique na lata de lixo para revelar 2 garrafas de \xE1gua e arraste-as
+      para o elevador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515976995631104
+    m_Localized: "abra a janela e pegue o machado para cortar a \xE1rvore primeiro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515979650625536
+    m_Localized: 'puxe o machado para a escada '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515980921499648
+    m_Localized: puxe a cobra para a escada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919164510208
+    m_Localized: Recolha todo o lixo e coloque-o na lata de lixo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919961427968
+    m_Localized: "Abra a torneira para drenar a \xE1gua para o tanque. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969920666071040
+    m_Localized: "Alimente o sapo com ma\xE7\xE3s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969921404268544
+    m_Localized: 'Arraste a menina para a mesa '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922075357184
+    m_Localized: " D\xEA uma ma\xE7\xE3 ao cachorro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922750640128
+    m_Localized: Use uma tesoura para cortar a camisa do homem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969923451088896
+    m_Localized: Aplique protetor solar no corpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924122177536
+    m_Localized: "Use uma p\xE1 para cavar um buraco no ch\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434693974487040
+    m_Localized: Pegue o crocodilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434694779793408
+    m_Localized: Use palitos de madeira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434695618654208
+    m_Localized: Jogue o machado no rio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434801919094784
+    m_Localized: 'Regando plantas '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434802825064448
+    m_Localized: "Use a ma\xE7\xE3 e um graveto de madeira para criar um degrau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434805278732288
+    m_Localized: No barco com remos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434804473425920
+    m_Localized: Tente cavar a marca X.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434803630370816
+    m_Localized: Use pares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434809976352768
+    m_Localized: Use a Apple para tentar pescar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434812857839616
+    m_Localized: Reparar o telhado com telhas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434819501617152
+    m_Localized: "Use uma chave inglesa para consertar o cano de \xE1gua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434823091941376
+    m_Localized: "Use madeira para cobrir o jato de \xE1gua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434825608523776
+    m_Localized: "Bomba de \xE1gua por m\xE1quina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434828527759360
+    m_Localized: Abra a porta com um martelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434832050974720
+    m_Localized: "Tubar\xF5es gostam de usar sapatos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434834265567232
+    m_Localized: "Limpe o ch\xE3o, por favor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842087944192
+    m_Localized: " Puxe o balde e despeje \xE1gua dentro dele"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434841379106816
+    m_Localized: "Misture 3 ma\xE7\xE3s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434838900273152
+    m_Localized: "Use objetos no ch\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434836685680640
+    m_Localized: Use barra de ferro na parede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842754838528
+    m_Localized: Verifique a imagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434843425927168
+    m_Localized: "A lata de lixo \xE9 suspeita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844101210112
+    m_Localized: "Assista no sof\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844734550016
+    m_Localized: "\uB69C\uAED1\uC744 \uC5FD\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434845472747520
+    m_Localized: Olhe embaixo do assento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443867844276224
+    m_Localized: "A chave est\xE1 debaixo do tapete para abrir o dep\xF3sito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443868582473728
+    m_Localized: Ligue o ar condicionado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869253562368
+    m_Localized: "Atr\xE1s da porta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869928845312
+    m_Localized: "Dentro do ursinho de pel\xFAcia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446048450342912
+    m_Localized: Puxe duas armas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446049188540416
+    m_Localized: Arraste para o dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924793266176
+    m_Localized: "pegue a vela, queime o pote de dinheiro e d\xEA para a bruxa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969925535657984
+    m_Localized: abra a cortina e puxe o fantasma masculino para o lugar do fantasma
+      feminino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969926336770048
+    m_Localized: "abra o arm\xE1rio e d\xEA o ursinho de pel\xFAcia ao fantasma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927012052992
+    m_Localized: "d\xEA o rel\xF3gio para a bruxa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927683141632
+    m_Localized: abra a porta e entregue a pintura para a bruxa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432842176688128
+    m_Localized: A menina abriu a bolsa, tirou a pulseira e deu para a bruxa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969928417144832
+    m_Localized: "d\xEA um sino para a bruxa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843418202112
+    m_Localized: "D\xEA a corda para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843745357824
+    m_Localized: "Pegue o vestido e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845125283840
+    m_Localized: "Pegue a peruca e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845859287040
+    m_Localized: "D\xEA o halter para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432846563930112
+    m_Localized: "D\xEA a cal\xE7a para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847268573184
+    m_Localized: "D\xEA o gato para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847943856128
+    m_Localized: "Abra o arm\xE1rio, pegue a toalha e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432848644304896
+    m_Localized: "Pegue a vassoura e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433423704354816
+    m_Localized: "Pegue a toalha e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432849286033408
+    m_Localized: "Pegue o cobertor e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433424509661184
+    m_Localized: "Pegue o porta-toalhas e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433425176555520
+    m_Localized: "D\xEA um duplo clique na garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445458966081536
+    m_Localized: "Cole o p\xF4ster na parede"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445459603615744
+    m_Localized: Abra a porta e veja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446046269304832
+    m_Localized: Use a vassoura para varrer a teia de aranha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047011696640
+    m_Localized: "Use a vassoura para limpar a \xE1gua suja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047745699840
+    m_Localized: "Frasco de spray inseticida no arm\xE1rio para espantar baratas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445460236955648
+    m_Localized: Recolha o papel e coloque no lixo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445610967658496
+    m_Localized: O travesseiro precisa ser lavado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445611739410432
+    m_Localized: O cobertor precisa ser lavado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445613249359872
+    m_Localized: "As roupas tamb\xE9m precisam ser lavadas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515909295370240
+    m_Localized: Arraste o cachorro para o telefone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446050362945536
+    m_Localized: Arraste o cachorro para o laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41634919501197312
+    m_Localized: Use o peixe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654923885998080
+    m_Localized: Use o machado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654924779384832
+    m_Localized: Use o osso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654925546942464
+    m_Localized: Use o peixe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41661651054686208
+    m_Localized: "Use a p\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41666775248465920
+    m_Localized: "Use a p\xE1 para limpar o derramamento no ch\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42658309355794432
+    m_Localized: Coloque a cenoura na tigela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663353388036096
+    m_Localized: Abra o guarda-roupa e coloque as roupas dentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354117844992
+    m_Localized: Coloque a mochila sobre a mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354843459584
+    m_Localized: Coloque o livro sobre a mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663356265328640
+    m_Localized: " Toque a campainha tr\xEAs vezes para chamar o gar\xE7om para servir
+      o prato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663357401985024
+    m_Localized: Pegue a pimenta e coloque na panela de fondue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025579101843456
+    m_Localized: "Triture a pimenta e depois d\xEA o copo para o rapaz beber"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025580238499840
+    m_Localized: Adicione alho ao caldo quente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025581245132800
+    m_Localized: "Adicione pimenta em p\xF3 ao caldo quente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025582146908160
+    m_Localized: Adicione molho de pimenta ao caldo quente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025583321313280
+    m_Localized: Adicione mostarda ao caldo quente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025584327946240
+    m_Localized: "D\xEA o vinho para o rapaz beber"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025585909198848
+    m_Localized: Use o martelo para bater na mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075360541044736
+    m_Localized: "Use a t\xE1bua quebrada para cobrir a janela"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361191161856
+    m_Localized: "Use o martelo para bater no zumbi no ch\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361736421376
+    m_Localized: "Use fita adesiva para embrulhar a caixa com a m\xE3o zumbi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363212816384
+    m_Localized: "Use o sof\xE1 para segurar a porta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363917459456
+    m_Localized: Use a furadeira para perfurar o teto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075364655656960
+    m_Localized: Use a corda para escapar daqui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098009354825728
+    m_Localized: Use as cortinas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098012613799936
+    m_Localized: Use o livro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098104687161344
+    m_Localized: "Use a \xE1rvore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098106834644992
+    m_Localized: Use a imagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098109753880576
+    m_Localized: Use a toalha na imagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098111863615488
+    m_Localized: "Use as roupas no arm\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378774734991360
+    m_Localized: Use a caixa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378780149837824
+    m_Localized: Use a agulha e a linha para tricotar um cachecol para a menina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781043224576
+    m_Localized: "Corte o p\xE3o ao meio e use"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781840142336
+    m_Localized: "Arraste o restante do p\xE3o para dentro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378782758694912
+    m_Localized: Use a tesoura para aparar o pelo do gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379206068826112
+    m_Localized: Use o pelo do gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379207356477440
+    m_Localized: "Use o len\xE7o do gato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379208346333184
+    m_Localized: Use o cobertor velho debaixo da cama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379477251551232
+    m_Localized: Use o tapete da casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379480539885568
+    m_Localized: Lembre-se de fechar a janela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617039683584
+    m_Localized: "Puxe a boia at\xE9 a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617811435520
+    m_Localized: "Puxe o peixe at\xE9 a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833618524467200
+    m_Localized: "Puxe a corda at\xE9 a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833619300413440
+    m_Localized: "Puxe a nuvem at\xE9 a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620130885632
+    m_Localized: "Use a serra para cortar a \xE1rvore e depois d\xEA o galho para
+      a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620906831872
+    m_Localized: "Use a p\xE1 para desenterrar a batata e depois d\xEA-a \xE0 menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833621590503424
+    m_Localized: "D\xEA o pato para a menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833622274174976
+    m_Localized: "Puxe o avi\xE3o at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623045926912
+    m_Localized: " Puxe a mochila at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623729598464
+    m_Localized: "Puxe o foguete at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833624631373824
+    m_Localized: "Puxe o bal\xE3o at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833625218576384
+    m_Localized: "Puxe o ovo at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133394944028672
+    m_Localized: "Pegue a meia do p\xE9 da menina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133395699003392
+    m_Localized: "Puxe o gancho at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133396433006592
+    m_Localized: "Arraste as duas nuvens para junt\xE1-las e criar uma nuvem escura"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133397242507264
+    m_Localized: "Puxe o raio at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133398614044672
+    m_Localized: "Puxe a nuvem at\xE9 a mulher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133399352242176
+    m_Localized: " Use a rosa que est\xE1 sobre a mesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400123994112
+    m_Localized: Use a teia de aranha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400962854912
+    m_Localized: "Use o br\xF3colis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133402070151168
+    m_Localized: Use a flor na imagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133403009675264
+    m_Localized: "Abra o arm\xE1rio usando o el\xE1stico de cabelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345000370176
+    m_Localized: "Toque na vassoura para revelar a flor e us\xE1-la"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345868591104
+    m_Localized: Abra a porta para pegar o dinheiro do rapaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985346673897472
+    m_Localized: "Arraste o carretel de linha at\xE9 o len\xE7o e use-o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985347412094976
+    m_Localized: Toque nos fones de ouvido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985348183846912
+    m_Localized: "Pegue os l\xE1bios da enfermeira e d\xEA-os ao paciente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985349559578624
+    m_Localized: Arraste o cacho de pimentas para o paciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985350360690688
+    m_Localized: "Pegue um vestido para o m\xE9dico vestir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985351371517952
+    m_Localized: "Use o martelo para quebrar a mesa e pegue a madeira para imobilizar
+      a cabe\xE7a do paciente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985352545923072
+    m_Localized: Deixe a enfermeira cuidar disso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985353686773760
+    m_Localized: "Toque no rapaz para descobrir quem \xE9 o verdadeiro m\xE9dico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985354726961152
+    m_Localized: "Entregue o beb\xEA para a garotinha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985355700039680
+    m_Localized: "Entregue o beb\xEA para o cachorro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985356635369472
+    m_Localized: "Entregue o beb\xEA para a m\xE3e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985357579087872
+    m_Localized: "Coloque o beb\xEA na cama do cachorro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985358552166400
+    m_Localized: "Coloque o beb\xEA no vaso de plantas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985359424581632
+    m_Localized: "Abra a porta e entregue os dois beb\xEAs para o papai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985361135857664
+    m_Localized: "Toque na foto da vov\xF3 \u2014 parece que ela sente falta do netinho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985362746470400
+    m_Localized: "Toque na foto para o vov\xF4 segurar um dos beb\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46011410963951616
+    m_Localized: Ligue a TV e envie sua mensagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369488481742848
+    m_Localized: "Toque na tela para desbloquear \u2014 pegue quem virar lobisomem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369489278660608
+    m_Localized: Pegue quem tiver os batimentos mais altos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490083966976
+    m_Localized: "Arraste o alho sobre todos \u2014 pegue quem n\xE3o tiver medo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490889273344
+    m_Localized: "Arraste a flor sobre todos \u2014 pegue quem tiver medo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369491958820864
+    m_Localized: "Arraste a cruz sobre todos \u2014 pegue quem n\xE3o tiver medo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369493808508928
+    m_Localized: "Toque na tampa do caix\xE3o \u2014 pegue quem n\xE3o estiver dormindo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369496958431232
+    m_Localized: "D\xEA o batom para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671297817538560
+    m_Localized: "D\xEA o sabonete para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671298715119616
+    m_Localized: "Abra a cortina e d\xEA o sabonete l\xEDquido para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671299520425984
+    m_Localized: "D\xEA o vestido para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671300325732352
+    m_Localized: "D\xEA a sombra de olhos para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671301164593152
+    m_Localized: "D\xEA o modelador de cabelo para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671302137671680
+    m_Localized: "Pegue o pente e d\xEA para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305056907264
+    m_Localized: "Abra o arm\xE1rio e d\xEA o perfume para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305996431360
+    m_Localized: "D\xEA a calcinha para a garota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671309989408768
+    m_Localized: Use a tesoura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098526925615104
+    m_Localized: "Use o duri\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098527785447424
+    m_Localized: Use o guarda-chuva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098529291202560
+    m_Localized: Use o taco de golfe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098530167812096
+    m_Localized: Use o taco de beisebol no quadro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098531572903936
+    m_Localized: Use o saco preto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098532483067904
+    m_Localized: "Abra o arm\xE1rio e pegue a furadeira"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098533389037568
+    m_Localized: "Abra o arm\xE1rio e pegue o cinzel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098559892844544
+    m_Localized: Use o alicate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098555228778496
+    m_Localized: Use a faca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098552179519488
+    m_Localized: "Abra a geladeira, puxe o copo de \xE1gua e use-o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098549998481408
+    m_Localized: "Abra a geladeira, puxe a garrafa de \xE1gua e use-a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098547578368000
+    m_Localized: "Abra o arm\xE1rio e pegue a chave inglesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098543484727296
+    m_Localized: "Abra o arm\xE1rio e pegue a arma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098569321639936
+    m_Localized: "Arraste os sapatos at\xE9 o rapaz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098566838611968
+    m_Localized: "Arraste os dois halteres at\xE9 o rapaz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098564527550464
+    m_Localized: "Arraste a melancia at\xE9 o rapaz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098562208100352
+    m_Localized: Una as duas rodas e arraste para o rapaz
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

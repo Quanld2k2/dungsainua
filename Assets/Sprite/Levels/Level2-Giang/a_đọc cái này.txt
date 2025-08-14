@@ -1,0 +1,24 @@
+Tìm cách mở cửa. 
+ Thoại đầu tiên: Hãy mở cửa giúp tôi gặp bạn gái
+
+1. Cái chuông cửa (doorbell) ấn vào thì có tiếng chuông và Boy2 hiện ra 
+ - Thoại: Xin ngài đừng làm phiền tiểu thư của chúng tôi
+ - Thua Game.
+
+2. Chìa khoá 1 (key1) mở cửa 1(door1). 
+ - Kéo khoá vào chạy anim.
+
+3.Bấm vào Tổng tài để rơi ra 3 cục tiền
+ - Thoại: Đây là tiền, giúp tôi mở cửa đi
+
+4. Con dao (knife) bấm vào hiện thoại: con dao này quá bé để sử dụng.
+  - Kéo tiền vào con dao, biến thành rìu (axe) để phá cửa thứ 2
+  - Anim Door2
+5. Kéo tiền vào điện thoại để gọi thấy cúng đến mở cửa số 3 (Door3)
+  - Thoại: Bùa chú này cứ để tôi lo
+  - Anim Door3
+
+6. Ấn vào cái đèn ngủ để rơi ra chìa (key2) mở Door4
+
+7. Ấn vào con chó hiện thoại: Cho tôi gì đó đi!
+  - Kéo tiền vào cho con chó để nó thả xương (Bone) mở cửa Door5, anim Door5

@@ -1,0 +1,7 @@
+skeleton.png
+size:212,246
+filter:Linear,Linear
+pma:true
+Fan_1
+bounds:2,2,208,242
+offsets:0,0,209,242

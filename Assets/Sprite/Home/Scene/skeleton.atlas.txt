@@ -1,0 +1,8 @@
+skeleton.png
+size:1085,1924
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:544,2,539,1920
+Layer 3
+bounds:2,2,540,1920

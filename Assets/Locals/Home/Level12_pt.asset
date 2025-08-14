@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level12_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: fbb6ac7c389d14140963d4fe63e5d88a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12698034176
+    m_Localized: "Un poco peligroso, pero funciona.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17018167296
+    m_Localized: "\xBFSe romper\xE1?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199205376
+    m_Localized: "Este palo es demasiado peque\xF1o para pisarlo.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21241831424
+    m_Localized: "\xA1Oh no, no hay suficientes escalones!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23494172672
+    m_Localized: Que bom, tem uma corda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771679744
+    m_Localized: "Est\xE1 calor, n\xE3o precisa usar muita roupa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28195987456
+    m_Localized: "N\xE3o precisa de peruca para dormir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30716764160
+    m_Localized: Ei, devolve isso pra mim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073222764425216
+    m_Localized: Meu Deus, tem um pervertido!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073223603286016
+    m_Localized: meo meo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073224505061376
+    m_Localized: Empresta um pouco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226048565248
+    m_Localized: Vassoura muito boa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226858065920
+    m_Localized: Ajuda um pouco, por favor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073455569268736
+    m_Localized: "Por que voc\xEA pegou minha toalha?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073456366186496
+    m_Localized: Estou com raiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073457137938432
+    m_Localized: "\xD3timo, consegui escapar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145370749136896
+    m_Localized: "A casa est\xE1 muito deteriorada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145371516694528
+    m_Localized: "O cano est\xE1 velho, por isso vaza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145372254892032
+    m_Localized: "O ch\xE3o est\xE1 todo furado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145373261524992
+    m_Localized: "Bombeie um pouco da \xE1gua para fora"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145374498844672
+    m_Localized: "A porta est\xE1 muito emperrada, \xE9 preciso usar um martelo para
+      abri-la"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927043870720
+    m_Localized: Obrigado, agora eu posso ir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927815622656
+    m_Localized: "\xC9 s\xF3 limpar bem e pronto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145928486711296
+    m_Localized: Obrigado por ajudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146382775971840
+    m_Localized: "O peixe frito est\xE1 muito cheiroso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146383652581376
+    m_Localized: 'Primeira vez que vejo pitaia no miojo
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046626530488320
+    m_Localized: Escondeu-se muito bem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046127613833216
+    m_Localized: "Aqui tamb\xE9m tem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126829498368
+    m_Localized: "\xC9 preciso verificar cada cantinho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126019997696
+    m_Localized: "Esconde a cabe\xE7a, mas mostra o rabo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046125298577408
+    m_Localized: "N\xE3o imaginei que estivesse escondido aqui tamb\xE9m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046124535214080
+    m_Localized: Sinto que ainda tem mais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046123780239360
+    m_Localized: "Tamb\xE9m tem no lixo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046122949767168
+    m_Localized: "Tem algu\xE9m escondido dentro do quadro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504840372224
+    m_Localized: "Ainda tem coragem de dizer que n\xE3o escondeu o dinheiro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504035065856
+    m_Localized: "Eu acredito em voc\xEA, voc\xEA n\xE3o escondeu nada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147503259119616
+    m_Localized: "Voc\xEA ousa esconder dinheiro para gastar \xE0 toa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147502525116416
+    m_Localized: Vou comer depois de terminar o treino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501753364480
+    m_Localized: "Tamb\xE9m \xE9 um pouco pesado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501044527104
+    m_Localized: Consigo levantar mais dez tranquilamente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147500310523904
+    m_Localized: "Assim ainda n\xE3o est\xE1 pesado o suficiente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146898176241664
+    m_Localized: "Bu\xE1\xE1\xE1 (som de choro)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146897467404288
+    m_Localized: Eu gosto de ovos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146396302602240
+    m_Localized: "Os cogumelos est\xE3o muito frescos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146395526656000
+    m_Localized: "A porta \xE9 feita de chocolate"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146386668285952
+    m_Localized: "A melancia est\xE1 bem gelada e refrescante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385833619456
+    m_Localized: O pepino ajuda a emagrecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385128976384
+    m_Localized: "Comer muitos vegetais verdes \xE9 bom para a digest\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146384386584576
+    m_Localized: As cenouras frescas e deliciosas chegaram
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,1174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hint_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7e4faa94b025ba44fb7c80c59b5e1414, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13939699712
+    m_Localized: Give money to the old lady.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15973937152
+    m_Localized: Drag the money onto the table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486895793598464
+    m_Localized: Give money to the little girl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486908733026304
+    m_Localized: Give money to the dog.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486918325399552
+    m_Localized: Pull money into the candle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488016264163328
+    m_Localized: ' Pull money into the window.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488023478366208
+    m_Localized: Pull money into the picture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488025357414400
+    m_Localized: Use a broom to sweep away cobwebs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488027404234752
+    m_Localized: Pull money onto the floor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488028746412032
+    m_Localized: Pull money onto the wall.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426406106263552
+    m_Localized: "Use the key to open the door\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426407129673728
+    m_Localized: Take the money from the guy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426408119529472
+    m_Localized: Use the money to buy a new ax instead of a knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426409088413696
+    m_Localized: Use money to call someone for help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426411617579008
+    m_Localized: Check the night light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426415249846272
+    m_Localized: "Use the money to buy dog \u200B\u200Bfood"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426416273256448
+    m_Localized: Reinstall the sign behind the bush
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426417162448896
+    m_Localized: Use rocks to chase away the pervert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426418827587584
+    m_Localized: Feed the dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426420555640832
+    m_Localized: Use a bucket to catch water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426421537107968
+    m_Localized: Pour water into the hole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426422539546624
+    m_Localized: Pour cement into the hole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426423479070720
+    m_Localized: Use a utensil to stir the cement evenly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426430722633728
+    m_Localized: Blow the flute into the basket to call the snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426429724389376
+    m_Localized: Get the UFO in the poster on the wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426428856168448
+    m_Localized: Use the umbrella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427979558912
+    m_Localized: Take the guy's socks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427107143680
+    m_Localized: Empty the trash, use the trash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426425291010048
+    m_Localized: Use the bucket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426426159230976
+    m_Localized: Use skateboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426424410206208
+    m_Localized: Pull the ghost into the blanket to scare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426431666352128
+    m_Localized: Use headphones to cover the boy's ears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426432530378752
+    m_Localized: Get the balloon on the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426433415376896
+    m_Localized: Pour all the water from the bottle into the trash, use the water
+      bottle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426434300375040
+    m_Localized: Use the fan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426435118264320
+    m_Localized: Use the briefcase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436049399808
+    m_Localized: Use a knife to cut the durian open, then use the durian.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436917620736
+    m_Localized: Perfume in the girl's body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426437798424576
+    m_Localized: Get the snowman's hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426438574370816
+    m_Localized: Get the snowman's hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426439576809472
+    m_Localized: Use the snowman too
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426440419864576
+    m_Localized: Pull a dog into the towel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426441321639936
+    m_Localized: Pull 1 dog into the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426442164695040
+    m_Localized: Open the cupboard, drag a dog into the cupboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426443821445120
+    m_Localized: ' Open the window, take a dog out'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426444756774912
+    m_Localized: Open the bathroom door and bring a dog into the toilet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426445666938880
+    m_Localized: Drag a dog into a spider web
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426446505799680
+    m_Localized: Pull the book onto the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426447407575040
+    m_Localized: Pull the dog to the book table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449064325120
+    m_Localized: Change the floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449957711872
+    m_Localized: Change ceiling lights
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426450901430272
+    m_Localized: Change dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426451794817024
+    m_Localized: Change dressing table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426453355098112
+    m_Localized: Change the chair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426454307205120
+    m_Localized: Change the bed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426455246729216
+    m_Localized: Open the curtain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456152698880
+    m_Localized: Change the stickers on the wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456991559680
+    m_Localized: Change clothes for the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426457889140736
+    m_Localized: Change floor mats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426458786721792
+    m_Localized: Change your phone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426459680108544
+    m_Localized: Use coconut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426460548329472
+    m_Localized: Use the duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426461424939008
+    m_Localized: Use of the tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426463379484672
+    m_Localized: The shoe might help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953544831234048
+    m_Localized: Swimming floats are a good idea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953545598791680
+    m_Localized: Use the bottle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546240520192
+    m_Localized: Use the bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546945163264
+    m_Localized: Try the balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516540680728576
+    m_Localized: Tap the vase twice to get money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516541280514048
+    m_Localized: Take off the boy's shirt to get the money and the key to open the
+      safe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516639834075136
+    m_Localized: Take the key from the boy to open the safe and get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516640672935936
+    m_Localized: Tear the wallpaper to get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516641377579008
+    m_Localized: Lift the carpet to get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642082222080
+    m_Localized: Open the toilet lid to get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642719756288
+    m_Localized: swipe up to open toilet lid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516643390844928
+    m_Localized: Double press to open the cabinet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757173923840
+    m_Localized: Swipe the clothes to the left to get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757912121344
+    m_Localized: Take the scissors and cut the sofa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516758583209984
+    m_Localized: Tap twice to open the AC cover and get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516791332335616
+    m_Localized: swipe up the picture on the wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516792171196416
+    m_Localized: Open the drawer, take the hammer, break the crack behind the painting,
+      and get the money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515981697445888
+    m_Localized: put fish in bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983169646592
+    m_Localized: Take the girl's hair scissors and drop it into the bowl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983807180800
+    m_Localized: Open the refrigerator and put the chicken and ice cream in a bowl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515984545378304
+    m_Localized: pour a glass of water into an empty basin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515986122436608
+    m_Localized: put vegetables in bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516536654196736
+    m_Localized: swipe open the window pick cucumbers into bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516537425948672
+    m_Localized: get the watermelon in the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516538164146176
+    m_Localized: take the door and put it in the bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539237888000
+    m_Localized: take the egg and put it in the bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539904782336
+    m_Localized: pick brown mushrooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515926831755264
+    m_Localized: pull the stick into the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515930422079488
+    m_Localized: pull the guitar up the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515932536008704
+    m_Localized: pull the rolling pin onto the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515934616383488
+    m_Localized: pull knife into ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515966593757184
+    m_Localized: drag zombie hand into ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515970016309248
+    m_Localized: pull the rope to the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515972201541632
+    m_Localized: pull the flag into the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515974579712000
+    m_Localized: Click on the trash can to reveal 2 water bottles and drag them all
+      into the elevator.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515976995631104
+    m_Localized: open the window and get the axe to cut the tree first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515979650625536
+    m_Localized: pull the axe into the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515980921499648
+    m_Localized: pull the snake into the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919164510208
+    m_Localized: Pick up all the trash and put it in the trash can.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919961427968
+    m_Localized: Open the faucet to drain water into the tank.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969920666071040
+    m_Localized: Feed the frog with apples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969921404268544
+    m_Localized: Drag the girl to the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922075357184
+    m_Localized: Feed the dog an apple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922750640128
+    m_Localized: Use scissors to cut the man's shirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969923451088896
+    m_Localized: Apply sunscreen to your body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924122177536
+    m_Localized: Use a shovel to dig a hole in the ground.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434693974487040
+    m_Localized: Catch the crocodile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434694779793408
+    m_Localized: Use wooden sticks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434695618654208
+    m_Localized: Throw the axe in the river
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434801919094784
+    m_Localized: Watering plants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434802825064448
+    m_Localized: Use the apple and wooden stick to create a step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434805278732288
+    m_Localized: On the boat with oars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434804473425920
+    m_Localized: Try digging the X mark.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434803630370816
+    m_Localized: Use pairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434809976352768
+    m_Localized: Use apple to try fishing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434812857839616
+    m_Localized: Repair the roof with tiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434819501617152
+    m_Localized: Use a wrench to fix the water pipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434823091941376
+    m_Localized: Use wood to cover the water spray.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434825608523776
+    m_Localized: Water pump by machine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434828527759360
+    m_Localized: Open the door with a hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434832050974720
+    m_Localized: Sharks like to wear shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434834265567232
+    m_Localized: Clean the floor please
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842087944192
+    m_Localized: Pull the bucket over, then pour water into it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434841379106816
+    m_Localized: Combine 3 apples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434838900273152
+    m_Localized: Use objects on the floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434836685680640
+    m_Localized: Use iron bar on wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842754838528
+    m_Localized: Check the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434843425927168
+    m_Localized: The trash can is suspicious.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844101210112
+    m_Localized: Watch on the sofa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844734550016
+    m_Localized: Open the lid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434845472747520
+    m_Localized: Look under the seat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443867844276224
+    m_Localized: The key is under the carpet to open the storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443868582473728
+    m_Localized: Turn on the air conditioner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869253562368
+    m_Localized: Behind the door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869928845312
+    m_Localized: Inside the teddy bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446048450342912
+    m_Localized: Pull in two guns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446049188540416
+    m_Localized: Drag to money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924793266176
+    m_Localized: take the candle, burn the money pot and give it to the witch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969925535657984
+    m_Localized: open the curtain and pull the male ghost into the female ghost's
+      place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969926336770048
+    m_Localized: open the cupboard and give the teddy bear to the ghost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927012052992
+    m_Localized: give the watch to the witch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927683141632
+    m_Localized: open the door and give the painting to the witch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432842176688128
+    m_Localized: The girl opened her bag and took out the bracelet and gave it to
+      the witch.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969928417144832
+    m_Localized: give the witch a bell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843418202112
+    m_Localized: Give the rope to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843745357824
+    m_Localized: Take the dress and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845125283840
+    m_Localized: Take the wig and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845859287040
+    m_Localized: Give the dumbbell to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432846563930112
+    m_Localized: Give the pants to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847268573184
+    m_Localized: Give the cat to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847943856128
+    m_Localized: Open the cabinet, take the towel, and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432848644304896
+    m_Localized: Take the broom and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433423704354816
+    m_Localized: Take the towel and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432849286033408
+    m_Localized: Take the blanket and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433424509661184
+    m_Localized: Take the towel rack and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433425176555520
+    m_Localized: Double-click on the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445458966081536
+    m_Localized: Paste the poster on the wall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445459603615744
+    m_Localized: Open the door and look
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446046269304832
+    m_Localized: Use the broom to sweep the spider web
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047011696640
+    m_Localized: Use the broom to mop the dirty water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047745699840
+    m_Localized: Insect spray bottle in the cabinet to repel cockroaches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445460236955648
+    m_Localized: Clean up the paper into the trash bin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445610967658496
+    m_Localized: The pillow needs to be washed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445611739410432
+    m_Localized: The blanket needs to be washed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445613249359872
+    m_Localized: Clothes also need to be washe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515909295370240
+    m_Localized: Drag the dog into the phone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446050362945536
+    m_Localized: Drag the dog into the laptop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41634919501197312
+    m_Localized: Use the fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654923885998080
+    m_Localized: ' Use the axe'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654924779384832
+    m_Localized: Use the bone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654925546942464
+    m_Localized: Use the fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41661651054686208
+    m_Localized: Use the shovel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41666775248465920
+    m_Localized: Use the shovel to clean up the spill on the floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42658309355794432
+    m_Localized: Drop the carrot into the bowl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663353388036096
+    m_Localized: Open the wardrobe and put the clothes inside
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354117844992
+    m_Localized: Put the bag on the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354843459584
+    m_Localized: Put the book on the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663356265328640
+    m_Localized: Ring the bell three times to call the waiter to serve the dish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663357401985024
+    m_Localized: Take the chili and put it into the hotpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025579101843456
+    m_Localized: Grind the chili, then give the cup to the guy to drink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025580238499840
+    m_Localized: Add garlic to the hotpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025581245132800
+    m_Localized: Add chili powder to the hotpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025582146908160
+    m_Localized: Add chili sauce to the hotpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025583321313280
+    m_Localized: Add mustard to the hotpot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025584327946240
+    m_Localized: Give the wine to the boy to drink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025585909198848
+    m_Localized: Use the hammer to hit the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075360541044736
+    m_Localized: Use the broken plank to cover the window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361191161856
+    m_Localized: Use the hammer to hit the zombie on the ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361736421376
+    m_Localized: Use tape to wrap the box with the zombie hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363212816384
+    m_Localized: Use the sofa to block the door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363917459456
+    m_Localized: Use the drill to drill the ceiling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075364655656960
+    m_Localized: Use the rope to escape from here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098009354825728
+    m_Localized: Use the curtains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098012613799936
+    m_Localized: Use the book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098104687161344
+    m_Localized: Use the tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098106834644992
+    m_Localized: Use the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098109753880576
+    m_Localized: Use the towel in the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098111863615488
+    m_Localized: Use the clothes in the wardrobe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378774734991360
+    m_Localized: Use the box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378780149837824
+    m_Localized: Use the needle and thread to knit a scarf for the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781043224576
+    m_Localized: Cut the bread in half and use it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781840142336
+    m_Localized: Drag the remaining bread in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378782758694912
+    m_Localized: Use scissors to trim the cat's fur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379206068826112
+    m_Localized: Use the cat's fur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379207356477440
+    m_Localized: Use the cat's scarf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379208346333184
+    m_Localized: Use the old blanket under the bed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379477251551232
+    m_Localized: Use the house carpet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379480539885568
+    m_Localized: Remember to close the window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617039683584
+    m_Localized: Drag the float to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617811435520
+    m_Localized: Drag the fish to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833618524467200
+    m_Localized: Drag the rope to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833619300413440
+    m_Localized: Drag the cloud to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620130885632
+    m_Localized: Use the saw to cut the tree, then give the stick to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620906831872
+    m_Localized: Use the shovel to dig up the potato, then give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833621590503424
+    m_Localized: Give the duck to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833622274174976
+    m_Localized: Drag the plane to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623045926912
+    m_Localized: Drag the backpack to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623729598464
+    m_Localized: Drag the rocket to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833624631373824
+    m_Localized: Drag the balloon to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833625218576384
+    m_Localized: Drag the egg to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133394944028672
+    m_Localized: Take the sock from the girl's foot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133395699003392
+    m_Localized: Drag the hook to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133396433006592
+    m_Localized: Drag the two clouds together to create a dark cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133397242507264
+    m_Localized: Drag the lightning to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133398614044672
+    m_Localized: Drag the cloud to the woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133399352242176
+    m_Localized: Use the rose on the table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400123994112
+    m_Localized: Use the spider web
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400962854912
+    m_Localized: Use the broccoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133402070151168
+    m_Localized: Use the flower in the picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133403009675264
+    m_Localized: Open the cabinet using the hair tie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345000370176
+    m_Localized: Tap the broom to reveal the flower and use it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345868591104
+    m_Localized: Open the door to take the boy's money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985346673897472
+    m_Localized: Drag the spool of thread to the scarf and use it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985347412094976
+    m_Localized: ' Tap the earphones'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985348183846912
+    m_Localized: "Take the nurse\u2019s lips and give them to the patient"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985349559578624
+    m_Localized: Drag the chili bunch to the patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985350360690688
+    m_Localized: Get a dress for the doctor to wear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985351371517952
+    m_Localized: "Use the hammer to smash the table and get wood to brace the patient\u2019s
+      head"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985352545923072
+    m_Localized: Let the nurse handle it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985353686773760
+    m_Localized: Tap the guy to find out who the real doctor is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985354726961152
+    m_Localized: Give the baby to the little girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985355700039680
+    m_Localized: Give the baby to the dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985356635369472
+    m_Localized: Give the baby to the mother
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985357579087872
+    m_Localized: "Put the baby on the dog\u2019s bed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985358552166400
+    m_Localized: Put the baby in the flower pot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985359424581632
+    m_Localized: Open the door and give the two babies to daddy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985361135857664
+    m_Localized: "Tap on grandma\u2019s photo \u2014 she seems to miss her grandchild"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985362746470400
+    m_Localized: Tap the photo so grandpa holds one baby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46011410963951616
+    m_Localized: Turn on the TV and send your message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369488481742848
+    m_Localized: "Tap the screen to unlock \u2014 catch whoever turns into a wolf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369489278660608
+    m_Localized: Catch the one with the higher heartbeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490083966976
+    m_Localized: "Drag the garlic onto everyone \u2014 catch whoever isn\u2019t afraid"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490889273344
+    m_Localized: "Drag the flower onto everyone \u2014 catch whoever is scared"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369491958820864
+    m_Localized: "Drag the cross onto everyone \u2014 catch whoever isn\u2019t scared"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369493808508928
+    m_Localized: "Tap the coffin lid \u2014 catch whoever isn\u2019t asleep"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369496958431232
+    m_Localized: Give the lipstick to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671297817538560
+    m_Localized: Give the soap to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671298715119616
+    m_Localized: Open the curtain and give the body wash to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671299520425984
+    m_Localized: Give the dress to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671300325732352
+    m_Localized: Give the eyeshadow to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671301164593152
+    m_Localized: Give the hair crimper to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671302137671680
+    m_Localized: Pick up the comb and give it to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305056907264
+    m_Localized: Open the cabinet and give the perfume to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305996431360
+    m_Localized: Give the panties to the girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671309989408768
+    m_Localized: Use the scissors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098526925615104
+    m_Localized: Use the durian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098527785447424
+    m_Localized: Use the umbrella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098529291202560
+    m_Localized: Use the golf club
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098530167812096
+    m_Localized: Use the baseball bat on the painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098531572903936
+    m_Localized: Use the black bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098532483067904
+    m_Localized: Open the cabinet and take the drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098533389037568
+    m_Localized: Open the cabinet and take the chisel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098559892844544
+    m_Localized: Use the pliers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098555228778496
+    m_Localized: Use the knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098552179519488
+    m_Localized: Open the fridge, pull in the glass of water, and use it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098549998481408
+    m_Localized: Open the fridge, pull in the water bottle, and use it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098547578368000
+    m_Localized: Open the cabinet and take the wrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098543484727296
+    m_Localized: Open the cabinet and take the gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098569321639936
+    m_Localized: Drag the shoes to the boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098566838611968
+    m_Localized: Drag the two dumbbells to the boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098564527550464
+    m_Localized: Drag the watermelon to the boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098562208100352
+    m_Localized: Combine the two wheels, then drag them to the boy
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

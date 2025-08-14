@@ -1,0 +1,16 @@
+skeleton.png
+size:1481,919
+filter:Linear,Linear
+pma:true
+Board
+bounds:2,2,1012,915
+Vector Smart Object
+bounds:1016,44,208,103
+offsets:7,7,222,116
+Vector Smart Object copy
+bounds:1016,149,291,73
+Vector Smart Object-2
+bounds:1016,340,577,463
+rotate:90
+Vector Smart Object-3
+bounds:1016,224,454,114

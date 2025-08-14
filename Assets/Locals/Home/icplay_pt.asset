@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: icplay_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 076b2f1091ffd5a43a970f0aa9f686b2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6796800000
+    m_Localized: Pobreza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9443405824
+    m_Localized: Paquerar garotas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5734131494912
+    m_Localized: Ir para casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5736492888064
+    m_Localized: Ficar na fila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222040388071424
+    m_Localized: Estou com muita dor de barriga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222043231809536
+    m_Localized: "Criar animais de estima\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222048701181952
+    m_Localized: Meu pai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051049992192
+    m_Localized: Zumbi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051955961856
+    m_Localized: Noiva fantasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222052660604928
+    m_Localized: Aproveitar / Desfrutar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222053436551168
+    m_Localized: "Est\xE1 pegando fogo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222054812282880
+    m_Localized: Zumbi 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222055680503808
+    m_Localized: Atravessar a ponte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222056586473472
+    m_Localized: "Inunda\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222190468657152
+    m_Localized: "Patrim\xF4nio / Bem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222191307517952
+    m_Localized: Fique atento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192045715456
+    m_Localized: Embelezar / Beleza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192951685120
+    m_Localized: Desafio Picante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222241739829248
+    m_Localized: "M\xE9dico Estranho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222242616438784
+    m_Localized: Zumbi 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473516516798464
+    m_Localized: Responsabilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473517691203584
+    m_Localized: Sono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473518664282112
+    m_Localized: Ceifador / Morte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473519536697344
+    m_Localized: Fique alerta / Mantenha-se acordado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610133663744
+    m_Localized: Preso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610938970112
+    m_Localized: "Bagun\xE7a / Desordem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473611706527744
+    m_Localized: "Caf\xE9 da manh\xE3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473612344061952
+    m_Localized: "Treinamento / Pr\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45191622960279552
+    m_Localized: Mimar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473647546855424
+    m_Localized: "\xC0s escondidas"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

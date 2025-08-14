@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level1_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 1ae83413c3acd7545a06a72fddeda8f5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15254614372352
+    m_Localized: "De repente, o corpo fica saud\xE1vel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15256019464192
+    m_Localized: "T\xE3o caloroso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15258334720000
+    m_Localized: "As roupas novas s\xE3o lindas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15259207135232
+    m_Localized: Uau au au
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15318900469760
+    m_Localized: "N\xE3o h\xE1 mais medo do vento frio soprando"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22741077913600
+    m_Localized: "Ele est\xE1 de volta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743992954880
+    m_Localized: "\xC9 in\xFAtil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22745939111936
+    m_Localized: "Dourado em ouro para fazer seda de aranha... Que desperd\xEDcio"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

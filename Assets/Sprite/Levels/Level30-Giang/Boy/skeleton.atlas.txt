@@ -1,0 +1,6 @@
+skeleton.png
+size:293,488
+filter:Linear,Linear
+pma:true
+Boy
+bounds:2,2,289,484

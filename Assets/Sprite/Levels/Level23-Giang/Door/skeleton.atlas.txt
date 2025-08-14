@@ -1,0 +1,7 @@
+skeleton.png
+size:138,765
+filter:Linear,Linear
+pma:true
+Door
+bounds:2,2,134,761
+offsets:0,3,134,766

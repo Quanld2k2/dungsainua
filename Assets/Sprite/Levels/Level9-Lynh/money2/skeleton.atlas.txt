@@ -1,0 +1,9 @@
+skeleton.png
+size:453,198
+filter:Linear,Linear
+pma:true
+lua
+bounds:280,2,171,194
+money1
+bounds:2,4,276,192
+offsets:17,21,314,223

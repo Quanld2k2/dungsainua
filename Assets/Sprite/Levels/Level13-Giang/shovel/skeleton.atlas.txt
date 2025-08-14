@@ -1,0 +1,6 @@
+skeleton.png
+size:85,238
+filter:Linear,Linear
+pma:true
+shovel
+bounds:2,2,81,234

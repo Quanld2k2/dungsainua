@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Play_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: f6afe05a50e6b7a41996d680befc8826, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32545632256
+    m_Localized: Ajude-os a ter uma vida melhor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34948968448
+    m_Localized: Encontre uma maneira de abrir a porta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37155172352
+    m_Localized: Ajude a garota a atravessar o caminho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39495593984
+    m_Localized: Afaste aqueles que furam a fila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5760913023889408
+    m_Localized: "N\xE3o deixe o marechal saber!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198205069520896
+    m_Localized: Estou com tanto sono, posso pedir para os cachorros trabalharem
+      um pouco?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198215794356224
+    m_Localized: "Papai est\xE1 vindo me visitar, por favor me ajude."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198219317571584
+    m_Localized: "Ajude a menina a manter a respira\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198221641216000
+    m_Localized: Ajude a garota a sair daqui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198223746756608
+    m_Localized: Ajudando celebridades a relaxar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198224484954112
+    m_Localized: Fuga do fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225160237056
+    m_Localized: Fuja dos zumbis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198225898434560
+    m_Localized: Venha comigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198226603077632
+    m_Localized: Ajude a drenar a casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198227907506176
+    m_Localized: Ajude a menina a encher a barriga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198354680344576
+    m_Localized: Gymer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198355384987648
+    m_Localized: Encontre o fundo secreto do marido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24198356085436416
+    m_Localized: "Me ajude, sinto que h\xE1 algo perigoso na sala"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199918518202368
+    m_Localized: Limpe o quarto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24199919629692928
+    m_Localized: Guirnalda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479183877140480
+    m_Localized: Quero comer algo bem apimentado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479184720195584
+    m_Localized: "Trata centenas de doen\xE7as"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479191326224384
+    m_Localized: "Resgatar a crian\xE7a dos zumbis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479239174844416
+    m_Localized: "Ajude a m\xE3e a cuidar do beb\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43479240651239424
+    m_Localized: Ajude a menina a dormir mais aquecida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377855741952
+    m_Localized: "Descasque camar\xF5es para sua namorada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838377184653312
+    m_Localized: Recupere o objeto antes de ser descoberto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838338328621056
+    m_Localized: Resgatar as garotas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838336046919680
+    m_Localized: "Encontre o lobisomem disfar\xE7ado e capture-o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43838334880903168
+    m_Localized: Salve a garota
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,12 @@
+skeleton.png
+size:1437,228
+filter:Linear,Linear
+pma:true
+Lv8Girl
+bounds:2,2,224,667
+rotate:90
+Lv8Girl2
+bounds:671,2,224,667
+rotate:90
+bb
+bounds:1340,92,95,134

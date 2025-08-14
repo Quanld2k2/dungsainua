@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b6171c58ced06034a8fc63bbe8721c37, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21657219072
+    m_Localized: Please open the door and help me meet my girlfriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23796314112
+    m_Localized: Please don't bother our lady
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26245787648
+    m_Localized: 'Here''s the money, help me open the door
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28460380160
+    m_Localized: This knife is too small to use.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30842744832
+    m_Localized: Leave this spell to me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210329595904
+    m_Localized: Give me something!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213076865024
+    m_Localized: Help the girl cross the road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214620368896
+    m_Localized: This road is so dangerous, please help me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215425675264
+    m_Localized: This road is closed to cars, take another road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216063209472
+    m_Localized: Chase the stalker away
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216700743680
+    m_Localized: What is this faucet used for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217338277888
+    m_Localized: Need tools to stir evenly.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

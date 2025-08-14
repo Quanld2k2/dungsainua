@@ -1,0 +1,6 @@
+skeleton.png
+size:224,402
+filter:Linear,Linear
+pma:true
+water14
+bounds:2,2,220,398

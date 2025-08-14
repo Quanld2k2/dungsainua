@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level20_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0c6ae511d297f1742866bfb8887afedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12043874304
+    m_Localized: Make the hot pot spicier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16229789696
+    m_Localized: This chili is really spicy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18985447424
+    m_Localized: Chili sauce is normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21900488704
+    m_Localized: Mustard is already eaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27004956672
+    m_Localized: Chili powder is fine too.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30087770112
+    m_Localized: Garlic makes my eyes sting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33778757632
+    m_Localized: The waiter is also hot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37100646400
+    m_Localized: Today's hot pot is delicious.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35590696960
+    m_Localized: Is it okay to pour alcohol in?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36366643200
+    m_Localized: Drink the chili water straight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720172412928
+    m_Localized: This chair is heavy enough to block the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720973524992
+    m_Localized: Smash the old table to get the broken pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722080821248
+    m_Localized: Reinforce the window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722819018752
+    m_Localized: Seal the box, it's dangerous.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724131835904
+    m_Localized: The helicopter saved the baby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723490107392
+    m_Localized: We can get out of this hole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 724765175808
+    m_Localized: The curtains are a bit thin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725440458752
+    m_Localized: Cat, please give me some of your fur.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726811996160
+    m_Localized: This clothing can be used as a temporary cover.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727554387968
+    m_Localized: Knowledge is power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728321945600
+    m_Localized: Knit a warm blanket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729026588672
+    m_Localized: I have 2 loaves of bread now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 729764786176
+    m_Localized: Not warm enough, need more bread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8284549345280
+    m_Localized: Blanket in the picture?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8285316902912
+    m_Localized: Get the whole picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8286654885888
+    m_Localized: The box can also be used temporarily.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8287426637824
+    m_Localized: Carpets can also be used.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288101920768
+    m_Localized: Borrow the cat's blanket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8288735260672
+    m_Localized: Trees can also be built.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8289444098048
+    m_Localized: doctor i cant hear anything
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290115186688
+    m_Localized: oh what a miracle doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8290786275328
+    m_Localized: Doctor, my mouth hurts a lot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291419615232
+    m_Localized: One kiss and you'll feel better instantly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292124258304
+    m_Localized: Add a bit of red to the blue, and everything will be normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292698877952
+    m_Localized: Doctor, my heart aches because of a broken heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8293202194432
+    m_Localized: Let me dance for you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159457762996224
+    m_Localized: No, I'm already fine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159458559913984
+    m_Localized: Doctor, I'm feeling dizzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159459436523520
+    m_Localized: "Doctor, I don\u2019t feel right"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2159460141166592
+    m_Localized: Doctor, I'm so cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160213433970688
+    m_Localized: Come on, give me a hug!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160214205722624
+    m_Localized: I'm the doctor here, who are you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160215044583424
+    m_Localized: Hehehe, I've been caught!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175270402322432
+    m_Localized: Doctor, what's wrong with my skin?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536507615145984
+    m_Localized: I have to babysit again, but I want to go out and play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536508646944768
+    m_Localized: It's also very soft.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536509552914432
+    m_Localized: My bed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536510425329664
+    m_Localized: Even the dog has to babysit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536512136605696
+    m_Localized: I can't take care of any more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536513248096256
+    m_Localized: "Ah, Dad\u2019s back!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536514149871616
+    m_Localized: Why am I being forced to babysit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536515190059008
+    m_Localized: No, the baby has been stolen!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

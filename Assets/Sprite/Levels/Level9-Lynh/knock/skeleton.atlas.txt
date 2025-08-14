@@ -1,0 +1,8 @@
+skeleton.png
+size:125,71
+filter:Linear,Linear
+pma:true
+dui
+bounds:74,12,49,57
+mo
+bounds:2,2,70,67

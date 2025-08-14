@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476702863914",
+    "project_id": "weird-things-brain-puzzle-2",
+    "storage_bucket": "weird-things-brain-puzzle-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476702863914:android:b41d3cef2532ad6bbcc953",
+        "android_client_info": {
+          "package_name": "com.com.vnstart.weird.brain2.WeirdThingsBrainPuzzle2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5x024XNcUQhDsgl6jt0gzTvwXP9FT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476702863914:android:85e19e2643bdd5eebcc953",
+        "android_client_info": {
+          "package_name": "com.vnstart.weird.brain2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5x024XNcUQhDsgl6jt0gzTvwXP9FT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

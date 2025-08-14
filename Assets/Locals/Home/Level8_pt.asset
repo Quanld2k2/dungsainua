@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level8_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 48c744b2682ce4f43befff6425e01f93, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 186044575744
+    m_Localized: "Aqui est\xE3o mais ingressos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188556963840
+    m_Localized: "O que h\xE1 nisso?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192952594432
+    m_Localized: "Fazer isso n\xE3o ser\xE1 detectado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195104272384
+    m_Localized: "Apresse-se, papai est\xE1 prestes a voltar para casa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707874713600
+    m_Localized: "Isso \xE9 muito caro, mas precisa ser mudado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 712069017600
+    m_Localized: 'Ocultar isto '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805167554560
+    m_Localized: Espero que haja ingressos suficientes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808288116736
+    m_Localized: Isso pode durar um tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3407454597120
+    m_Localized: " Espero que n\xE3o fa\xE7a barulho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3408264097792
+    m_Localized: "Sinto que deveria plantar mais \xE1rvores no futuro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3408998100992
+    m_Localized: Um pouco fedorento, mas melhor que nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3410273169408
+    m_Localized: "Isso \xE9 t\xE3o bom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3412215132160
+    m_Localized: " Nunca pensei que o desperd\xEDcio me ajudaria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4084989882368
+    m_Localized: "O que isso cont\xE9m?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4085858103296
+    m_Localized: "Vamos, voc\xEA est\xE1 prestes a escapar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636801455026176
+    m_Localized: "\xBFPor qu\xE9 quieres hacerme da\xF1o?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636802423910400
+    m_Localized: Amo la riqueza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636803594121216
+    m_Localized: "Meu cavalheiro chegou para escoltar-me; \xE9 hora de partir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636805372506112
+    m_Localized: "Lo he buscado por mucho tiempo.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636806546911232
+    m_Localized: "Llegu\xE9 tarde a la cita, tengo que irme ya.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636807759065088
+    m_Localized: Tu belleza es tan deslumbrante como una estrella celestial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636809063493632
+    m_Localized: Este sentimiento de paz es profundo, como si todas las cargas se
+      desvanecieran.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646553970995200
+    m_Localized: Me atraen las cosas que brillan, como estrellas iluminando mi camino.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4646556357554176
+    m_Localized: "Parece que ya est\xE1 limpio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648688099979264
+    m_Localized: "Oh no, todo est\xE1 sucio ahora.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648688934645760
+    m_Localized: "La piscina est\xE1 tan limpia que puedo ver el fondo ahora.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648689739952128
+    m_Localized: "Soy instructor de nataci\xF3n.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648690713030656
+    m_Localized: "Yo tambi\xE9n puedo hacer esto, \xA1es pan comido!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648691887435776
+    m_Localized: "La mascota tambi\xE9n debe verse limpia.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4648694169137152
+    m_Localized: "Esto ya est\xE1 c\xF3modo.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650877484724224
+    m_Localized: "El protector solar ayuda a prevenir las quemaduras solares.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650878319390720
+    m_Localized: "\xA1Oh no, me fotografiaron a escondidas!\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4650879795785728
+    m_Localized: "El momento m\xE1s relajante es cuando tienes mucho dinero.\t"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

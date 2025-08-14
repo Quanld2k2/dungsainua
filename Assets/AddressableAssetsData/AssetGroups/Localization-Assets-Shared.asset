@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 0c16430b73184694bbadacfb18118ee6
+  m_SerializeEntries:
+  - m_GUID: 076b2f1091ffd5a43a970f0aa9f686b2
+    m_Address: Assets/Locals/Home/icplay Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c6ae511d297f1742866bfb8887afedf
+    m_Address: Assets/Locals/Home/Level20 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14feba25a74fa314fa11b51fba268e28
+    m_Address: Assets/Locals/Home/Home Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ae83413c3acd7545a06a72fddeda8f5
+    m_Address: Assets/Locals/LocalSetting/Level1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48c744b2682ce4f43befff6425e01f93
+    m_Address: Assets/Locals/Home/Level8 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e4faa94b025ba44fb7c80c59b5e1414
+    m_Address: Assets/Locals/Home/Hint Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8846f4cfc32140a43bce723093e21ee7
+    m_Address: Assets/Locals/LocalSetting/a1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92bbda2ffe4735a4c9115ae1e47ce2a8
+    m_Address: Assets/Locals/Home/Level4 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6171c58ced06034a8fc63bbe8721c37
+    m_Address: Assets/Locals/Home/Level2 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6afe05a50e6b7a41996d680befc8826
+    m_Address: Assets/Locals/Home/Play Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb6ac7c389d14140963d4fe63e5d88a
+    m_Address: Assets/Locals/Home/Level12 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: eb01ce4a14517824084bc9afd7d4f7d3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 50a64d4368c64af468be61f415543509, type: 2}
+    - {fileID: 11400000, guid: 72c764eab1b6a8247bab5fc4509569f5, type: 2}

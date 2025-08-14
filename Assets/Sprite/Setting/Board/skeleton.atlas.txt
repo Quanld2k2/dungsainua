@@ -1,0 +1,14 @@
+skeleton.png
+size:912,622
+filter:Linear,Linear
+pma:true
+Group 38
+bounds:805,279,105,341
+Vector Smart Object
+bounds:2,60,801,560
+Vector Smart Object copy
+bounds:2,2,56,750
+rotate:90
+Vector Smart Object-2
+bounds:2,2,56,750
+rotate:90

@@ -1,0 +1,9 @@
+skeleton.png
+size:251,170
+filter:Linear,Linear
+pma:true
+Rectangle 8971
+bounds:2,2,175,166
+offsets:0,4,176,174
+perfume
+bounds:179,88,70,80

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: icplay_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 076b2f1091ffd5a43a970f0aa9f686b2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6796800000
+    m_Localized: Pobreza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9443405824
+    m_Localized: Coquetear con chicas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5734131494912
+    m_Localized: Ir a casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5736492888064
+    m_Localized: Hacer fila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222040388071424
+    m_Localized: "Me duele mucho el est\xF3mago"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222043231809536
+    m_Localized: Criar mascotas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222048701181952
+    m_Localized: Mi padre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051049992192
+    m_Localized: Zombi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222051955961856
+    m_Localized: Novia fantasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222052660604928
+    m_Localized: Disfrute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222053436551168
+    m_Localized: "\xA1Se est\xE1 quemando!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222054812282880
+    m_Localized: Zombi 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222055680503808
+    m_Localized: Cruza el puente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222056586473472
+    m_Localized: "Inundaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222190468657152
+    m_Localized: Patrimonio / Bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222191307517952
+    m_Localized: Mantente alerta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192045715456
+    m_Localized: Embellecer / Belleza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222192951685120
+    m_Localized: "Desaf\xEDo Picante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222241739829248
+    m_Localized: "Doctor Extra\xF1o / M\xE9dico Raro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36222242616438784
+    m_Localized: Zombi 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473516516798464
+    m_Localized: Responsabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473517691203584
+    m_Localized: "Sue\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473518664282112
+    m_Localized: La Muerte / Segador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473519536697344
+    m_Localized: Mantente alerta / Mantente despierto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610133663744
+    m_Localized: Atascado / Atrapado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473610938970112
+    m_Localized: Desorden / Caos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473611706527744
+    m_Localized: Desayuno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473612344061952
+    m_Localized: "Entrenamiento / Pr\xE1ctica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45191622960279552
+    m_Localized: "Mimar \t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43473647546855424
+    m_Localized: A escondidas
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

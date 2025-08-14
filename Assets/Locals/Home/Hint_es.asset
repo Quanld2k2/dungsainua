@@ -1,0 +1,1181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hint_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 7e4faa94b025ba44fb7c80c59b5e1414, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13939699712
+    m_Localized: Dale dinero a la anciana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15973937152
+    m_Localized: Arrastra el dinero a la mesa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486895793598464
+    m_Localized: "Dale dinero a la ni\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486908733026304
+    m_Localized: Dale dinero al perro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2486918325399552
+    m_Localized: Arrastra el dinero a la vela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488016264163328
+    m_Localized: Arrastra el dinero a la ventana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488023478366208
+    m_Localized: Arrastra el dinero a la foto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488025357414400
+    m_Localized: "Usa una escoba para barrer las telara\xF1as."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488027404234752
+    m_Localized: Arrastra el dinero al suelo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488028746412032
+    m_Localized: Arrastra el dinero a la pared.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426406106263552
+    m_Localized: Usa la llave para abrir la puerta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426407129673728
+    m_Localized: Toma el dinero del chico.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426408119529472
+    m_Localized: Usa el dinero para comprar un hacha nueva en lugar de un cuchillo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426409088413696
+    m_Localized: Usar dinero para pedir ayuda a alguien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426411617579008
+    m_Localized: Comprueba la luz nocturna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426415249846272
+    m_Localized: Usa el dinero para comprar comida para perros.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426416273256448
+    m_Localized: "Vuelva a instalar el letrero detr\xE1s del arbusto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426417162448896
+    m_Localized: Usa piedras para ahuyentar al pervertido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426418827587584
+    m_Localized: alimentar al perro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426420555640832
+    m_Localized: Usa un balde para recoger agua.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426421537107968
+    m_Localized: Vierta agua en el agujero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426422539546624
+    m_Localized: Vierta cemento en el agujero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426423479070720
+    m_Localized: Utilice un utensilio para revolver el cemento de manera uniforme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426430722633728
+    m_Localized: Sopla la flauta en la canasta para llamar a la serpiente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426429724389376
+    m_Localized: Consigue el OVNI en el cartel de la pared.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426428856168448
+    m_Localized: usa el paraguas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427979558912
+    m_Localized: Toma los calcetines del chico.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426427107143680
+    m_Localized: Vaciar la basura, usar la basura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426426159230976
+    m_Localized: usar patinetas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426425291010048
+    m_Localized: usa el balde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426424410206208
+    m_Localized: Mete al fantasma dentro de la manta para asustarlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426431666352128
+    m_Localized: "Usa auriculares para tapar los o\xEDdos del ni\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426432530378752
+    m_Localized: Consigue el globo en la imagen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426433415376896
+    m_Localized: Vierte toda el agua de la botella en la basura, usa la botella de
+      agua.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426434300375040
+    m_Localized: usa el ventilador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426435118264320
+    m_Localized: "usa el malet\xEDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436049399808
+    m_Localized: "Utilice un cuchillo para cortar el durian y luego \xFAselo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426436917620736
+    m_Localized: "Perfume en el cuerpo de la ni\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426437798424576
+    m_Localized: "Consigue el sombrero del mu\xF1eco de nieve."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426438574370816
+    m_Localized: "Consigue el sombrero del mu\xF1eco de nieve."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426439576809472
+    m_Localized: "Usa el mu\xF1eco de nieve tambi\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426440419864576
+    m_Localized: Meter a un perro en la toalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426441321639936
+    m_Localized: Introduce 1 perro en el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426442164695040
+    m_Localized: Abre el armario, arrastra un perro al armario.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426443821445120
+    m_Localized: ' Abre la ventana, saca un perro.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426444756774912
+    m_Localized: "Abre la puerta del ba\xF1o y trae un perro al ba\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426445666938880
+    m_Localized: "Arrastra un perro a una telara\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426446505799680
+    m_Localized: Coloca el libro sobre la mesa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426447407575040
+    m_Localized: Lleva al perro a la mesa de libros.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449064325120
+    m_Localized: cambiar el piso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426449957711872
+    m_Localized: Cambiar luces de techo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426450901430272
+    m_Localized: cambiar de perro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426451794817024
+    m_Localized: Cambiar tocador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426453355098112
+    m_Localized: cambiar la silla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426454307205120
+    m_Localized: cambiar la cama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426455246729216
+    m_Localized: abre la cortina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456152698880
+    m_Localized: Cambia las pegatinas de la pared.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426456991559680
+    m_Localized: "Cambiarse de ropa a la ni\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426457889140736
+    m_Localized: Cambiar tapetes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426458786721792
+    m_Localized: "Cambia tu tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426459680108544
+    m_Localized: Use coco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426460548329472
+    m_Localized: usa el pato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426461424939008
+    m_Localized: uso del arbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5426463379484672
+    m_Localized: "El zapato podr\xEDa ayudar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953544831234048
+    m_Localized: Los flotadores para nadar son una buena idea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953545598791680
+    m_Localized: usa la botella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546240520192
+    m_Localized: usa la bolsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953546945163264
+    m_Localized: prueba el globo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516540680728576
+    m_Localized: "Toca dos veces el jarr\xF3n para conseguir dinero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516541280514048
+    m_Localized: "Qu\xEDtale la camisa al chico para conseguir el dinero y la llave
+      de la caja fuerte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516639834075136
+    m_Localized: Toma la llave del chico para abrir la caja fuerte y conseguir el
+      dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516640672935936
+    m_Localized: Rompe el papel tapiz para conseguir el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516641377579008
+    m_Localized: Levanta la alfombra para conseguir el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642082222080
+    m_Localized: Abre la tapa del inodoro para conseguir el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516642719756288
+    m_Localized: Deslice hacia arriba para abrir la tapa del inodoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516643390844928
+    m_Localized: 'Presione dos veces para abrir el gabinete '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757173923840
+    m_Localized: Desliza la ropa hacia la izquierda para conseguir el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516757912121344
+    m_Localized: "Toma las tijeras y corta el sof\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516758583209984
+    m_Localized: Pulsa dos veces para abrir la tapa del aire acondicionado y coger
+      el dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516791332335616
+    m_Localized: Desliza hacia arriba la imagen en la pared
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516792171196416
+    m_Localized: "Abre el caj\xF3n, toma el martillo, rompe la grieta detr\xE1s del
+      cuadro y coge el dinero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515981697445888
+    m_Localized: poner pescado en una pecera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983169646592
+    m_Localized: "Toma las tijeras de pelo de la ni\xF1a y d\xE9jalas caer en el
+      recipiente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515983807180800
+    m_Localized: Abra el refrigerador y coloque el pollo y el helado en un bol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515984545378304
+    m_Localized: "Vierta un vaso de agua en un recipiente vac\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515986122436608
+    m_Localized: poner las verduras en un bol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516536654196736
+    m_Localized: "Abra la ventana y recoja pepinos en un taz\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516537425948672
+    m_Localized: "Consigue la sand\xEDa en la foto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516538164146176
+    m_Localized: Toma la puerta y ponla en el cuenco.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539237888000
+    m_Localized: toma el huevo y ponlo en el bol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23516539904782336
+    m_Localized: recoger setas marrones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515926831755264
+    m_Localized: Tire el palo hacia la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515930422079488
+    m_Localized: sube la guitarra por la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515932536008704
+    m_Localized: Coloque el rodillo sobre la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515934616383488
+    m_Localized: Mete el cuchillo en la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515966593757184
+    m_Localized: Arrastra la mano del zombi hacia la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515970016309248
+    m_Localized: tira de la cuerda hasta la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515972201541632
+    m_Localized: Tira de la bandera hacia la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515974579712000
+    m_Localized: "Haz clic en el bote de basura para revelar 2 botellas de agua y
+      arr\xE1stralas todas al ascensor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515976995631104
+    m_Localized: "Abre la ventana y coge el hacha para cortar el \xE1rbol primero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515979650625536
+    m_Localized: 'mete el hacha en la escalera '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515980921499648
+    m_Localized: Tira de la serpiente hacia la escalera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919164510208
+    m_Localized: Recoge toda la basura y ponla en el bote de basura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969919961427968
+    m_Localized: 'Abra el grifo para drenar el agua en el tanque. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969920666071040
+    m_Localized: Alimenta a la rana con manzanas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969921404268544
+    m_Localized: 'Arrastra a la chica a la mesa. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922075357184
+    m_Localized: ' Dale una manzana al perro'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969922750640128
+    m_Localized: Usa tijeras para cortar la camisa del hombre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969923451088896
+    m_Localized: Aplica protector solar en tu cuerpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924122177536
+    m_Localized: Utilice una pala para cavar un hoyo en el suelo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434693974487040
+    m_Localized: Atrapa al cocodrilo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434694779793408
+    m_Localized: Utilice palos de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434695618654208
+    m_Localized: "Tira el hacha al r\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434801919094784
+    m_Localized: 'Regar las plantas '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434802825064448
+    m_Localized: "Usa la manzana y el palo de madera para crear un escal\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434805278732288
+    m_Localized: En el barco con remos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434804473425920
+    m_Localized: Intente cavar la marca X.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434803630370816
+    m_Localized: Utilice pares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434809976352768
+    m_Localized: Usa la manzana para intentar pescar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434812857839616
+    m_Localized: Reparar el techo con tejas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434819501617152
+    m_Localized: "Utilice una llave para fijar la tuber\xEDa de agua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434823091941376
+    m_Localized: "Utilice madera para cubrir el roc\xEDo de agua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434825608523776
+    m_Localized: "Utilice madera para cubrir el roc\xEDo de agua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434828527759360
+    m_Localized: "Bomba de agua por m\xE1quina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434832050974720
+    m_Localized: A los tiburones les gusta usar zapatos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434834265567232
+    m_Localized: Limpia el piso por favor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842087944192
+    m_Localized: Arrastra el cubo y vierte agua dentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434841379106816
+    m_Localized: Combine 3 manzanas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434838900273152
+    m_Localized: Utilice objetos en el suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434836685680640
+    m_Localized: Utilice una barra de hierro en la pared
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434842754838528
+    m_Localized: Mira la imagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434843425927168
+    m_Localized: El bote de basura es sospechoso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844101210112
+    m_Localized: "Mira en el sof\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434844734550016
+    m_Localized: Abra la tapa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434845472747520
+    m_Localized: Mira debajo del asiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443867844276224
+    m_Localized: " La llave est\xE1 debajo de la alfombra para abrir el almac\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443868582473728
+    m_Localized: Enciende el aire acondicionado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869253562368
+    m_Localized: "Detr\xE1s de la puerta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27443869928845312
+    m_Localized: Dentro del osito de peluche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446048450342912
+    m_Localized: Trae dos armas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446049188540416
+    m_Localized: Arrastrar al dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969924793266176
+    m_Localized: "Toma la vela, quema el bote de dinero y d\xE1selo a la bruja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969925535657984
+    m_Localized: Abre la cortina y atrae al fantasma masculino hacia el lugar del
+      fantasma femenino.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969926336770048
+    m_Localized: Abre el armario y dale el osito de peluche al fantasma.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927012052992
+    m_Localized: dale el reloj a la bruja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969927683141632
+    m_Localized: Abre la puerta y dale el cuadro a la bruja.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432842176688128
+    m_Localized: "La ni\xF1a abri\xF3 su bolso, sac\xF3 la pulsera y se la dio a
+      la bruja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24969928417144832
+    m_Localized: Dale una campana a la bruja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843418202112
+    m_Localized: Dale la cuerda a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432843745357824
+    m_Localized: "Toma el vestido y d\xE1selo a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845125283840
+    m_Localized: "Toma la peluca y d\xE1sela a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432845859287040
+    m_Localized: Dale la pesa a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432846563930112
+    m_Localized: "Dale el pantal\xF3n a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847268573184
+    m_Localized: Dale el gato a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432847943856128
+    m_Localized: "Abre el armario, toma la toalla y d\xE1sela a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432848644304896
+    m_Localized: "Toma la escoba y d\xE1sela a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433423704354816
+    m_Localized: "Toma la toalla y d\xE1sela a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27432849286033408
+    m_Localized: "Toma la manta y d\xE1sela a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433424509661184
+    m_Localized: "Toma el toallero y d\xE1selo a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27433425176555520
+    m_Localized: Haz doble clic en la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445458966081536
+    m_Localized: "Pega el p\xF3ster en la pared"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445459603615744
+    m_Localized: Abre la puerta y mira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446046269304832
+    m_Localized: "Usa la escoba para quitar la telara\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047011696640
+    m_Localized: Usa la escoba para limpiar el agua sucia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446047745699840
+    m_Localized: Aerosol insecticida en el armario para ahuyentar cucarachas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445460236955648
+    m_Localized: "Recoge el papel y t\xEDralo a la basura"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445610967658496
+    m_Localized: La almohada necesita ser lavada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445611739410432
+    m_Localized: La manta necesita ser lavada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27445613249359872
+    m_Localized: "La ropa tambi\xE9n necesita lavarse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23515909295370240
+    m_Localized: "Arrastra al perro al tel\xE9fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27446050362945536
+    m_Localized: "Arrastra al perro al port\xE1til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41634919501197312
+    m_Localized: Usa el pez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654923885998080
+    m_Localized: Usa el hacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654924779384832
+    m_Localized: Usa el hueso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41654925546942464
+    m_Localized: Usa el pez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41661651054686208
+    m_Localized: Usa la pala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41666775248465920
+    m_Localized: Usa la pala para limpiar el derrame en el suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42658309355794432
+    m_Localized: Echa la zanahoria en el cuenco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663353388036096
+    m_Localized: Abre el armario y guarda la ropa dentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354117844992
+    m_Localized: Pon la mochila sobre la mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663354843459584
+    m_Localized: Pon el libro sobre la mesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663356265328640
+    m_Localized: Toca el timbre tres veces para llamar al camarero a servir el plato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42663357401985024
+    m_Localized: "Toma el chile y \xE9chalo en la olla caliente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025579101843456
+    m_Localized: Tritura el chile y luego dale el vaso al chico para que lo beba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025580238499840
+    m_Localized: "A\xF1ade ajo a la olla caliente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025581245132800
+    m_Localized: "A\xF1ade chile en polvo a la olla caliente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025582146908160
+    m_Localized: "A\xF1ade salsa picante a la olla caliente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025583321313280
+    m_Localized: "A\xF1ade mostaza a la olla caliente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025584327946240
+    m_Localized: Dale el vino al chico para que lo beba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43025585909198848
+    m_Localized: 'Usa el martillo para golpear la mesa
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075360541044736
+    m_Localized: Usa la tabla rota para tapar la ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361191161856
+    m_Localized: Usa el martillo para golpear al zombi en el suelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075361736421376
+    m_Localized: Usa cinta adhesiva para envolver la caja con la mano del zombi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363212816384
+    m_Localized: "Usa el sof\xE1 para bloquear la puerta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075363917459456
+    m_Localized: Usa el taladro para perforar el techo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43075364655656960
+    m_Localized: "Usa la cuerda para escapar de aqu\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098009354825728
+    m_Localized: Usa las cortinas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098012613799936
+    m_Localized: Usa el libro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098104687161344
+    m_Localized: "Usa el \xE1rbol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098106834644992
+    m_Localized: Usa la imagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098109753880576
+    m_Localized: Usa la toalla en la imagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43098111863615488
+    m_Localized: Usa la ropa en el armario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378774734991360
+    m_Localized: Usa la caja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378780149837824
+    m_Localized: "Usa la aguja y el hilo para tejer una bufanda para la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781043224576
+    m_Localized: "Corta el pan por la mitad y \xFAsalo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378781840142336
+    m_Localized: ' Arrastra el resto del pan hacia dentro'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43378782758694912
+    m_Localized: Usa las tijeras para recortar el pelo del gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379206068826112
+    m_Localized: Usa el pelo del gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379207356477440
+    m_Localized: Usa la bufanda del gato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379208346333184
+    m_Localized: "Usa la manta vieja que est\xE1 debajo de la cama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379477251551232
+    m_Localized: Usa la alfombra de la casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43379480539885568
+    m_Localized: Recuerda cerrar la ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617039683584
+    m_Localized: "Arrastra el flotador hacia la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833617811435520
+    m_Localized: "Arrastra el pez hacia la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833618524467200
+    m_Localized: "Arrastra la cuerda hacia la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833619300413440
+    m_Localized: "Arrastra la nube hacia la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620130885632
+    m_Localized: "Usa la sierra para cortar el \xE1rbol y luego dale la rama a la
+      ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833620906831872
+    m_Localized: "Usa la pala para desenterrar la papa y luego d\xE1sela a la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833621590503424
+    m_Localized: "Dale el pato a la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833622274174976
+    m_Localized: "Arrastra el avi\xF3n hacia la mujer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623045926912
+    m_Localized: Arrastra la mochila hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833623729598464
+    m_Localized: Arrastra el cohete hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833624631373824
+    m_Localized: Arrastra el globo hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43833625218576384
+    m_Localized: Arrastra el huevo hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133394944028672
+    m_Localized: "Toma el calcet\xEDn del pie de la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133395699003392
+    m_Localized: Arrastra el gancho hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133396433006592
+    m_Localized: Arrastra las dos nubes para juntarlas y crear una nube negra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133397242507264
+    m_Localized: Arrastra el rayo hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133398614044672
+    m_Localized: Arrastra la nube hacia la mujer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133399352242176
+    m_Localized: "Usa la rosa que est\xE1 sobre la mesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400123994112
+    m_Localized: "Usa la telara\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133400962854912
+    m_Localized: "Usa el br\xF3coli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133402070151168
+    m_Localized: Usa la flor en la imagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44133403009675264
+    m_Localized: Abre el armario usando la goma del pelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345000370176
+    m_Localized: "Pulsa la escoba para que aparezca la flor y \xFAsala\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985345868591104
+    m_Localized: Abre la puerta para tomar el dinero del chico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985346673897472
+    m_Localized: "Arrastra el carrete de hilo hacia la bufanda y \xFAsalo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985347412094976
+    m_Localized: ' Pulsa los auriculares'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985348183846912
+    m_Localized: "Toma los labios de la enfermera y d\xE1selos al paciente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985349559578624
+    m_Localized: Arrastra el racimo de chiles hacia el paciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985350360690688
+    m_Localized: Consigue un vestido para que el doctor se lo ponga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985351371517952
+    m_Localized: Usa el martillo para romper la mesa y toma la madera para sujetar
+      la cabeza del paciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985352545923072
+    m_Localized: Deja que la enfermera se encargue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985353686773760
+    m_Localized: "Pulsa al chico para saber qui\xE9n es el verdadero doctor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985354726961152
+    m_Localized: "Dale el beb\xE9 a la ni\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985355700039680
+    m_Localized: "Dale el beb\xE9 al perro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985356635369472
+    m_Localized: "Dale el beb\xE9 a la madre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985357579087872
+    m_Localized: "Pon al beb\xE9 en la cama del perro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985358552166400
+    m_Localized: "Pon al beb\xE9 en la maceta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985359424581632
+    m_Localized: "Abra a porta e entregue os dois beb\xEAs para o papai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985361135857664
+    m_Localized: "Toca la foto de la abuela, parece que extra\xF1a a su nieto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45985362746470400
+    m_Localized: "Toca la foto para que el abuelo cargue a un beb\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46011410963951616
+    m_Localized: Enciende la tele y transmite tu mensaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369488481742848
+    m_Localized: Toca la pantalla para desbloquear y atrapa al que se convierta en
+      lobo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369489278660608
+    m_Localized: "Atrapa al que tenga las pulsaciones m\xE1s altas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490083966976
+    m_Localized: Arrastra el ajo sobre todos y atrapa al que no le tema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369490889273344
+    m_Localized: Arrastra la flor sobre todos y atrapa al que tenga miedo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369491958820864
+    m_Localized: Arrastra la cruz sobre todos y atrapa al que no le tema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369493808508928
+    m_Localized: "Presiona la tapa del ata\xFAd y atrapa al que no est\xE9 dormido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46369496958431232
+    m_Localized: "Dale el l\xE1piz labial a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671297817538560
+    m_Localized: "Dale el jab\xF3n a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671298715119616
+    m_Localized: "Abre la cortina y dale el gel de ba\xF1o a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671299520425984
+    m_Localized: Dale el vestido a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671300325732352
+    m_Localized: Dale la sombra de ojos a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671301164593152
+    m_Localized: Dale la plancha de ondas a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671302137671680
+    m_Localized: "Toma el peine y d\xE1selo a la chica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305056907264
+    m_Localized: Abre el armario y dale el perfume a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671305996431360
+    m_Localized: Dale las bragas a la chica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46671309989408768
+    m_Localized: Usa las tijeras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098526925615104
+    m_Localized: "Usa el duri\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098527785447424
+    m_Localized: Usa el paraguas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098529291202560
+    m_Localized: Usa el palo de golf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098530167812096
+    m_Localized: "Usa el bate de b\xE9isbol en la pintura"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098531572903936
+    m_Localized: Usa la bolsa negra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098532483067904
+    m_Localized: Abre el armario y toma el taladro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098533389037568
+    m_Localized: Abre el armario y toma el cincel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098559892844544
+    m_Localized: Usa los alicates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098555228778496
+    m_Localized: Usa el cuchillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098552179519488
+    m_Localized: "Abre la nevera, acerca el vaso de agua y \xFAsalo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098549998481408
+    m_Localized: "Abre la nevera, acerca la botella de agua y \xFAsala"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098547578368000
+    m_Localized: Abre el armario y toma la llave inglesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098543484727296
+    m_Localized: Abre el armario y toma la pistola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098569321639936
+    m_Localized: Arrastra los zapatos hacia el chico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098566838611968
+    m_Localized: Arrastra las dos pesas hacia el chico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098564527550464
+    m_Localized: "Arrastra la sand\xEDa hacia el chico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48098562208100352
+    m_Localized: "Une las dos ruedas y arr\xE1stralas hacia el chico"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,9 @@
+skeleton.png
+size:350,210
+filter:Linear,Linear
+pma:true
+Ellipse 3
+bounds:2,15,193,193
+Layer 30
+bounds:197,2,206,151
+rotate:90

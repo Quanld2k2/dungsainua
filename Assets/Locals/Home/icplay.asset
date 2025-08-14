@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: icplay
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 076b2f1091ffd5a43a970f0aa9f686b2, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 2f87c1ac4eeb42c4fa2bff2494689701, type: 2}
+  - {fileID: 11400000, guid: 7d2da2da03d189d4dbc507c90ed4063d, type: 2}
+  - {fileID: 11400000, guid: 1767f250362f68c48bd28a4ea5311152, type: 2}
+  - {fileID: 11400000, guid: 7c24aac4146f556469ee565b12997f5b, type: 2}
+  - {fileID: 11400000, guid: e22e7d023adff58488462160edd465a9, type: 2}
+  - {fileID: 11400000, guid: 52d766f0589ceea448e31d7a24cbd388, type: 2}
+  - {fileID: 11400000, guid: 1826803161711c94aa8852d2598f45ba, type: 2}
+  - {fileID: 11400000, guid: 4042f928586532647a8ade4fdaaf4f3c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

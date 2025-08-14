@@ -1,0 +1,9 @@
+skeleton.png
+size:250,165
+filter:Linear,Linear
+pma:true
+Bottle_1
+bounds:204,36,44,127
+aaaa
+bounds:2,2,161,200
+rotate:90

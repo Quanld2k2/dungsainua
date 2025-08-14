@@ -1,0 +1,14 @@
+skeleton.png
+size:563,322
+filter:Linear,Linear
+pma:true
+eye
+bounds:521,229,91,40
+rotate:90
+girl1_1
+bounds:2,2,318,517
+offsets:0,0,318,523
+rotate:90
+mieng
+bounds:521,196,35,31
+offsets:6,0,45,39

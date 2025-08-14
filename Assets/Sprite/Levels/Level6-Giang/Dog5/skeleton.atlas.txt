@@ -1,0 +1,6 @@
+skeleton.png
+size:233,279
+filter:Linear,Linear
+pma:true
+Dog5
+bounds:2,2,229,275

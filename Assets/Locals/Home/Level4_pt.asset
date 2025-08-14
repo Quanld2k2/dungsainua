@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level4_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 92bbda2ffe4735a4c9115ae1e47ce2a8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31698382848
+    m_Localized: "Eles n\xE3o podiam me ver"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33938141184
+    m_Localized: Toque flauta para chamar a cobra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35951407104
+    m_Localized: "Socorro, n\xE3o consigo ver nada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40112156672
+    m_Localized: "De quem \xE9 isso?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42561630208
+    m_Localized: "cheira t\xE3o mal "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44612644864
+    m_Localized: "O cheiro \xE9 nojento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46693019648
+    m_Localized: salve-me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48408489984
+    m_Localized: "Usar isso reduzir\xE1 o odor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1075836809216
+    m_Localized: "Esta garrafa vazia \xE9 muito \xFAtil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076876996608
+    m_Localized: Desculpe, boneco de neve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077749411840
+    m_Localized: "N\xE3o sei de quem \xE9, mas vou us\xE1-lo temporariamente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1078525358080
+    m_Localized: "Este \xE9 o meu perfume"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497079148544
+    m_Localized: Ventilador para tirar o cheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1497884454912
+    m_Localized: "De quem \xE9 esse par?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498656206848
+    m_Localized: "De quem \xE9 esse par?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378642699841536
+    m_Localized: "N\xE3o deixe o marechal saber!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177462202986496
+    m_Localized: "Trabalhe, deixe-me ajud\xE1-lo "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177463167676416
+    m_Localized: "Ol\xE1, diga alguma coisa "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177464174309376
+    m_Localized: "Deixe-me limpar a casa para voc\xEA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177465050918912
+    m_Localized: Estou de volta do mercado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177466221129728
+    m_Localized: "O guarda-roupa est\xE1 muito bagun\xE7ado para eu reorganizar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177467936600064
+    m_Localized: "Deixe-me entregar para voc\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177469073256448
+    m_Localized: " Eu tamb\xE9m posso ajudar com isso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2177470054723584
+    m_Localized: Eu vou te ajudar a limpar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178287360995328
+    m_Localized: Os livros devem ser colocados no lugar certo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178288707366912
+    m_Localized: "Por que voc\xEA me faz estudar? "
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

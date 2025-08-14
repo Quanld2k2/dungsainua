@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level12_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: fbb6ac7c389d14140963d4fe63e5d88a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12698034176
+    m_Localized: "Um pouco perigoso, mas funciona.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17018167296
+    m_Localized: "Ser\xE1 que vai quebrar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199205376
+    m_Localized: "Este graveto \xE9 pequeno demais para pisar.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21241831424
+    m_Localized: "Ai, n\xE3o h\xE1 degraus suficientes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23494172672
+    m_Localized: "Qu\xE9 bien, hay una cuerda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771679744
+    m_Localized: Hace calor, no necesitas ponerte mucha ropa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28195987456
+    m_Localized: No necesitas peluca para dormir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30716764160
+    m_Localized: "Oye, devu\xE9lvemelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073222764425216
+    m_Localized: "\xA1Dios m\xEDo, hay un pervertido!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073223603286016
+    m_Localized: meo meo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073224505061376
+    m_Localized: "Pr\xE9stamelo un momento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226048565248
+    m_Localized: Escoba muy buena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226858065920
+    m_Localized: "Ay\xFAdame un poco, por favor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073455569268736
+    m_Localized: "\xBFPor qu\xE9 tomaste mi toalla?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073456366186496
+    m_Localized: Estoy enojado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073457137938432
+    m_Localized: "\xA1Genial, me escap\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145370749136896
+    m_Localized: "La casa est\xE1 muy deteriorada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145371516694528
+    m_Localized: "La tuber\xEDa es vieja, por eso tiene fugas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145372254892032
+    m_Localized: "El piso est\xE1 lleno de agujeros"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145373261524992
+    m_Localized: Saca un poco de agua con la bomba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145374498844672
+    m_Localized: "La puerta est\xE1 muy trabada, hay que usar un martillo para abrirla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927043870720
+    m_Localized: Gracias, ahora puedo irme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927815622656
+    m_Localized: "Solo hay que limpiar bien y ya est\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145928486711296
+    m_Localized: Gracias por tu ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146382775971840
+    m_Localized: El pescado frito huele muy bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146383652581376
+    m_Localized: "Primera vez que veo pitahaya en los fideos instant\xE1neos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046626530488320
+    m_Localized: "Se escondi\xF3 muy bien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046127613833216
+    m_Localized: "Aqu\xED tambi\xE9n hay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126829498368
+    m_Localized: "Hay que revisar cada rinc\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126019997696
+    m_Localized: Esconde la cabeza pero deja ver la cola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046125298577408
+    m_Localized: "No pens\xE9 que tambi\xE9n se escondiera aqu\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046124535214080
+    m_Localized: "Siento que todav\xEDa hay m\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046123780239360
+    m_Localized: "Tambi\xE9n hay en el basurero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046122949767168
+    m_Localized: Hay alguien escondido en la pintura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504840372224
+    m_Localized: "\xBFTodav\xEDa te atreves a decir que no escondiste el dinero?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504035065856
+    m_Localized: Te creo, no escondiste nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147503259119616
+    m_Localized: "\xBFTe atreves a esconder dinero para derrocharlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147502525116416
+    m_Localized: "Lo comer\xE9 despu\xE9s de entrenar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501753364480
+    m_Localized: "Tambi\xE9n est\xE1 un poco pesado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501044527104
+    m_Localized: "Puedo levantar diez m\xE1s sin problema"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147500310523904
+    m_Localized: "As\xED todav\xEDa no es lo suficientemente pesado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146898176241664
+    m_Localized: Buaaa (sonido de llanto)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146897467404288
+    m_Localized: Me gustan los huevos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146396302602240
+    m_Localized: "Los hongos est\xE1n muy frescos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146395526656000
+    m_Localized: "La puerta est\xE1 hecha de chocolate"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146386668285952
+    m_Localized: "La sand\xEDa est\xE1 bien fr\xEDa y refrescante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385833619456
+    m_Localized: El pepino ayuda a bajar de peso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385128976384
+    m_Localized: "Comer muchas verduras verdes es bueno para la digesti\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146384386584576
+    m_Localized: Llegaron las zanahorias frescas y deliciosas
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

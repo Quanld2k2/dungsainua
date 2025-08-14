@@ -1,0 +1,6 @@
+skeleton.png
+size:179,99
+filter:Linear,Linear
+pma:true
+Duck
+bounds:2,2,175,95

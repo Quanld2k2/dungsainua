@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Home Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Home
+  m_TableCollectionNameGuidString: 14feba25a74fa314fa11b51fba268e28
+  m_Entries:
+  - m_Id: 10592645120
+    m_Key: setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14006808576
+    m_Key: sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004473460420608
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004476413210624
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4004478896238592
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006895595483136
+    m_Key: nngu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4007599135453184
+    m_Key: cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4009736175284224
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014208238678016
+    m_Key: hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4014853897252864
+    m_Key: mokhoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295045362413568
+    m_Key: Arabic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295477438640128
+    m_Key: Chinese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295657659494400
+    m_Key: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4295870461702144
+    m_Key: Japanese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296031757856768
+    m_Key: Korean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296221575278592
+    m_Key: Portuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296379214000128
+    m_Key: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4296555873890304
+    m_Key: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40578585326448640
+    m_Key: loiich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45325740918370304
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327233549529088
+    m_Key: ter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45327453456887808
+    m_Key: pri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47474479950917632
+    m_Key: shp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475259965632512
+    m_Key: tvv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475260796104704
+    m_Key: rmads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475261702074368
+    m_Key: lokm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47475262641598464
+    m_Key: hday
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47477867514097664
+    m_Key: radsH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479418056011776
+    m_Key: mks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419142336512
+    m_Key: x3v
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47479419985391616
+    m_Key: xvd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47482779971022848
+    m_Key: dsau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076016205824
+    m_Key: hetthoigian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755076771180544
+    m_Key: themgoiy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755077475823616
+    m_Key: xemvideo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078247575552
+    m_Key: themthoigian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755078948024320
+    m_Key: s2hoanthanh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755079619112960
+    m_Key: s2tieptheo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55755080260841472
+    m_Key: s2thatbai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389103558656
+    m_Key: s3thulai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757389845950464
+    m_Key: s3mokhoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757391288791040
+    m_Key: s3vidoe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757392022794240
+    m_Key: s4giamgia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55758440095477760
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55758440938532864
+    m_Key: New Entry 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55758441706090496
+    m_Key: New Entry 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55758442377179136
+    m_Key: New Entry 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55758443119570944
+    m_Key: New Entry 7
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9189722745764053323
+  references:
+    version: 2
+    RefIds:
+    - rid: 9189722745764053323
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741333232149

@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Level12 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Level12
+  m_TableCollectionNameGuidString: fbb6ac7c389d14140963d4fe63e5d88a
+  m_Entries:
+  - m_Id: 12698034176
+    m_Key: lev13_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17018167296
+    m_Key: lev13_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199205376
+    m_Key: lev13_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21241831424
+    m_Key: lev13_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23494172672
+    m_Key: lev11_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25771679744
+    m_Key: lev11_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28195987456
+    m_Key: lev11_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30716764160
+    m_Key: lev11_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073222764425216
+    m_Key: lev11_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073223603286016
+    m_Key: lev11_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073224505061376
+    m_Key: lev11_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226048565248
+    m_Key: lev11_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073226858065920
+    m_Key: lev11_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073455569268736
+    m_Key: lev11_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073456366186496
+    m_Key: lev11_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20073457137938432
+    m_Key: lev11_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145370749136896
+    m_Key: lev14_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145371516694528
+    m_Key: lev14_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145372254892032
+    m_Key: lev14_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145373261524992
+    m_Key: lev14_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145374498844672
+    m_Key: lev14_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927043870720
+    m_Key: lev14_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145927815622656
+    m_Key: lev14_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145928486711296
+    m_Key: lev14_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146382775971840
+    m_Key: lev15_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146383652581376
+    m_Key: lev15_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146384386584576
+    m_Key: lev15_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385128976384
+    m_Key: lev15_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146385833619456
+    m_Key: lev15_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146386668285952
+    m_Key: lev15_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146395526656000
+    m_Key: lev15_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146396302602240
+    m_Key: lev15_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146897467404288
+    m_Key: lev15_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20146898176241664
+    m_Key: lev15_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147500310523904
+    m_Key: lev16_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501044527104
+    m_Key: lev16_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147501753364480
+    m_Key: lev16_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147502525116416
+    m_Key: lev16_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147503259119616
+    m_Key: lev17_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504035065856
+    m_Key: lev17_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20147504840372224
+    m_Key: lev17_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046122949767168
+    m_Key: lev18_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046123780239360
+    m_Key: lev18_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046124535214080
+    m_Key: lev18_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046125298577408
+    m_Key: lev18_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126019997696
+    m_Key: lev18_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046126829498368
+    m_Key: lev18_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046127613833216
+    m_Key: lev18_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046626530488320
+    m_Key: lev18_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046627331600384
+    m_Key: New Entry 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23046628275318784
+    m_Key: New Entry 9
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4409899375564685408
+  references:
+    version: 2
+    RefIds:
+    - rid: 4409899375564685408
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1746465229245

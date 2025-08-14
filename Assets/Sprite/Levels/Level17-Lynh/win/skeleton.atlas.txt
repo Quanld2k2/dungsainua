@@ -1,0 +1,16 @@
+skeleton.png
+size:518,647
+filter:Linear,Linear
+pma:true
+boy
+bounds:245,219,271,426
+offsets:21,24,302,457
+chan
+bounds:401,2,95,215
+offsets:10,1,114,218
+chao
+bounds:245,32,154,185
+offsets:20,8,182,199
+girl2
+bounds:2,40,241,605
+offsets:5,13,246,620

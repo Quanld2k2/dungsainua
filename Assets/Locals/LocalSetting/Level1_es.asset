@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Level1_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 1ae83413c3acd7545a06a72fddeda8f5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15254614372352
+    m_Localized: De repente el cuerpo se vuelve saludable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15256019464192
+    m_Localized: tan abundante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15258334720000
+    m_Localized: La ropa nueva es hermosa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15259207135232
+    m_Localized: Guau guau guau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15318900469760
+    m_Localized: "No m\xE1s miedo al viento fr\xEDo que sopla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22741077913600
+    m_Localized: el ha vuelto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743992954880
+    m_Localized: "Es in\xFAtil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22745939111936
+    m_Localized: "Dorado en oro para hacer seda de ara\xF1a... Que desperdicio"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
