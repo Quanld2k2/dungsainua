@@ -40,7 +40,7 @@ public class NativeBanner : MonoBehaviour
         // AdLoaded3.SetActive(false);
         //  Pop.SetActive(false);
 
-        string nativeId = "ca-app-pub-3940256099942544/2247696110";
+        string nativeId = "ca-app-pub-5342144217301971/6710847536";
         AdLoader adLoader = new AdLoader.Builder(nativeId)
             .ForNativeAd()
             .Build();

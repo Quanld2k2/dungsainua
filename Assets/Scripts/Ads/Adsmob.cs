@@ -182,7 +182,7 @@ public class Adsmob : MonoBehaviour
     private void CreateBannerView()
     {
         DestroyBannerAd(); // Hủy banner cũ nếu có
-        string bannerId = "ca-app-pub-3940256099942544/6300978111"; // Thay ID nếu cần
+        string bannerId = "ca-app-pub-5342144217301971/1506606405"; // Thay ID nếu cần
         bannerView = new BannerView(bannerId, AdSize.Banner, AdPosition.Bottom);
     }
 
@@ -258,7 +258,7 @@ public class Adsmob : MonoBehaviour
         while (Time.time - startTime < retryTimeoutSeconds && !adLoaded)
         {
             bool waiting = true;
-            string interId = "ca-app-pub-3940256099942544/1033173712";
+            string interId = "ca-app-pub-5342144217301971/9193524733";
 
             InterstitialAd.Load(interId, new AdRequest(),
                 (InterstitialAd ad, LoadAdError error) =>
@@ -319,7 +319,7 @@ public class Adsmob : MonoBehaviour
         {
             bool waiting = true;
 
-            string interId = "ca-app-pub-3940256099942544/1033173712";
+            string interId = "ca-app-pub-5342144217301971/9193524733";
 
             InterstitialAd.Load(interId, new AdRequest(),
                 (InterstitialAd ad, LoadAdError error) =>
@@ -457,7 +457,7 @@ public class Adsmob : MonoBehaviour
     public void LoadRewardHint()
     {
         var request = new AdRequest();
-        string rewardedidhint = "ca-app-pub-3940256099942544/5224354917";
+        string rewardedidhint = "ca-app-pub-5342144217301971/3941198056";
 
         RewardedAd.Load(rewardedidhint, request, (RewardedAd ad, LoadAdError error) =>
         {
@@ -473,7 +473,7 @@ public class Adsmob : MonoBehaviour
     public void LoadRewardTime()
     {
         var request = new AdRequest();
-        string rewardedidtime = "ca-app-pub-3940256099942544/5224354917";
+        string rewardedidtime = "ca-app-pub-5342144217301971/3941198056";
 
         RewardedAd.Load(rewardedidtime, request, (RewardedAd ad, LoadAdError error) =>
         {
@@ -489,7 +489,7 @@ public class Adsmob : MonoBehaviour
     public void LoadRewardUnlock()
     {
         var request = new AdRequest();
-        string rewardedidtime = "ca-app-pub-3940256099942544/5224354917";
+        string rewardedidtime = "ca-app-pub-5342144217301971/3941198056";
 
         RewardedAd.Load(rewardedidtime, request, (RewardedAd ad, LoadAdError error) =>
         {
@@ -504,7 +504,7 @@ public class Adsmob : MonoBehaviour
     public void LoadRewardDaily()
     {
         var request = new AdRequest();
-        string rewardedidtime = "ca-app-pub-3940256099942544/5224354917";
+        string rewardedidtime = "ca-app-pub-5342144217301971/3941198056";
 
         RewardedAd.Load(rewardedidtime, request, (RewardedAd ad, LoadAdError error) =>
         {
@@ -668,7 +668,7 @@ public class Adsmob : MonoBehaviour
             splashOpenAd.Destroy();
             splashOpenAd = null;
         }
-        string adUnitId = "ca-app-pub-3940256099942544/9257395921";
+        string adUnitId = "ca-app-pub-5342144217301971/1315034710";
         var adRequest = new AdRequest();
 
         AppOpenAd.Load(adUnitId, adRequest, (ad, error) =>
@@ -700,7 +700,7 @@ public class Adsmob : MonoBehaviour
             resumeOpenAd.Destroy();
             resumeOpenAd = null;
         }
-        string adUnitId = "ca-app-pub-3940256099942544/9257395921";
+        string adUnitId = "ca-app-pub-5342144217301971/1315034710";
         var adRequest = new AdRequest();
 
         AppOpenAd.Load(adUnitId, adRequest, (ad, error) =>

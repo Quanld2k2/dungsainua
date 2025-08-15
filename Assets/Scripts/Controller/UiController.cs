@@ -5,8 +5,8 @@ using Spine.Unity;
 using Spine;
 using System.Collections;
 using System;
-//using Firebase;
-//using Firebase.Analytics;
+using Firebase;
+using Firebase.Analytics;
 
 public class UiController : MonoBehaviour
 {
@@ -58,7 +58,7 @@ public class UiController : MonoBehaviour
         win.gameObject.SetActive(true);
         lose.gameObject.SetActive(true);
         timePop.gameObject.SetActive(true);
-        ShopPop.gameObject.SetActive(true);
+        ShopPop.gameObject.SetActive(false);
         ShopVipPop.gameObject.SetActive(true);
         sale.gameObject.SetActive(true);
         hintpop.gameObject.SetActive(true);
@@ -154,11 +154,13 @@ public class UiController : MonoBehaviour
             // N2ShowPrefab();
 
             //  amob.LoadBannerAd();
-            amob.LoadInterRetry();
-            amob.LoadRewardHint();
-            amob.LoadRewardTime();
-            amob.LoadRewardUnlock();
-            amob.LoadRewardDaily();
+
+
+        //   amob.LoadInterRetry();
+        //   amob.LoadRewardHint();
+        //   amob.LoadRewardTime();
+        //    amob.LoadRewardUnlock();
+        //    amob.LoadRewardDaily();
 
         }
 
@@ -362,11 +364,13 @@ public class UiController : MonoBehaviour
     IEnumerator StartInter()
     {
         yield return new WaitForSeconds(2f);
-        amob.ShowInterRetry();
+       // amob.ShowInterRetry();
     }
     public void StartGamePlay()
     {
         Debug.Log("📺 BStartGamePlayStartGamePlayStartGamePlay");
+        Debug.Log(id_level);
+
         uiplay.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
         uiplay.gameObject.SetActive(true);
 
@@ -963,7 +967,8 @@ public class UiController : MonoBehaviour
     GameObject newObject;
     public void SpawnMoveAndDestroy(GameObject prefabToSpawn)
     {
-       // firebaseLog2(id_level);
+        // firebaseLog2(id_level);
+        FirebaseAnalytics.LogEvent("Level");
 
         if (parentCanvas == null)
         {
@@ -1417,7 +1422,7 @@ public class UiController : MonoBehaviour
     // Hiện lại prefab 
     public void N1ShowPrefab()
     {
-       // FirebaseAnalytics.LogEvent("Native_Start");
+        FirebaseAnalytics.LogEvent("Native_Start");
 
         int cremove = PlayerPrefs.GetInt("W2_removeads");
         if (cremove != 1)
