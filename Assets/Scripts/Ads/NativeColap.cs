@@ -24,7 +24,7 @@ public class NativeColap : MonoBehaviour
          GameManager.ins.N2ADS = false;
         GameManager.ins.navi2 = false;
         a = 0;
-        RequestNativeAd3();
+      //  RequestNativeAd3();
     }
     public int a = 0;
     IEnumerator YourFunction3()

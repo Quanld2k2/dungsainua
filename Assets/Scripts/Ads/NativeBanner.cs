@@ -23,7 +23,7 @@ public class NativeBanner : MonoBehaviour
         Debug.Log("StartN1SpawnOnePrefab");
         GameManager.ins.N1ADS = false;
         GameManager.ins.navi1 = false;
-        RequestNativeAd3();
+     //   RequestNativeAd3();
     }
 
     IEnumerator YourFunction3()

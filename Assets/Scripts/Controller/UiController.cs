@@ -99,10 +99,10 @@ public class UiController : MonoBehaviour
         //........iap
         if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
         {
-            N1SpawnOnePrefab();
-            N2SpawnOnePrefab();
-            amob.LoadSplashAd();
-            StartCoroutine(ShowAppOpenAds());
+           // N1SpawnOnePrefab();
+           // N2SpawnOnePrefab();
+           // amob.LoadSplashAd();
+           // StartCoroutine(ShowAppOpenAds());
         }
     }
     public void langGA()
@@ -147,7 +147,7 @@ public class UiController : MonoBehaviour
         if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
         {
             //  N1ShowPrefab();
-            StartCoroutine(ShowNative());
+           // StartCoroutine(ShowNative());
 
 
 
@@ -289,11 +289,11 @@ public class UiController : MonoBehaviour
                     Destroy(newObject);
                     Debug.Log(newObject);
                     HomeUI.gameObject.SetActive(true);
-                    N1DestroyPrefab();
-                    N2DestroyPrefab();
+                   // N1DestroyPrefab();
+                   // N2DestroyPrefab();
 
-                    N1SpawnOnePrefab();
-                    N2SpawnOnePrefab();
+                 //  N1SpawnOnePrefab();
+                  //  N2SpawnOnePrefab();
 
                     startGame();
                     a_scene.AnimationState.ClearTrack(1);
@@ -341,7 +341,7 @@ public class UiController : MonoBehaviour
                     if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
                     {
                         Debug.Log("Iap_RemoveadsIap_RemoveadsIap_Removeads");
-                        StartCoroutine(StartInter());
+                      //  StartCoroutine(StartInter());
 
                       //  amob.ShowInterRetry();
                       //  amob.LoadBannerAd();
