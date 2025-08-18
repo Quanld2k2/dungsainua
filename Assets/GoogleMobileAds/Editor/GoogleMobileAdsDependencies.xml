@@ -5,13 +5,6 @@
         <repository>https://maven.google.com/</repository>
       </repositories>
     </androidPackage>
-<!-- Google Play Billing -->
-    <androidPackage spec="com.android.billingclient:billing:6.2.1">
-      <repositories>
-        <repository>https://maven.google.com/</repository>
-      </repositories>
-    </androidPackage>
-	  
     <androidPackage spec="androidx.constraintlayout:constraintlayout:2.1.4">
       <repositories>
         <repository>https://maven.google.com/</repository>

@@ -108,6 +108,7 @@ public class iap : MonoBehaviour
 
     void Start()
     {
+     
         InitializeIAP();
     }
 
@@ -193,19 +194,20 @@ public class iap : MonoBehaviour
 
     async void InitializeIAP()
     {
+        Debug.Log("InitializeIAP.......");
         storeController = UnityIAPServices.StoreController();
         storeController.OnPurchaseConfirmed += OnPurchaseConfirmed;
         storeController.OnPurchasePending += OnPurchasePending;
         storeController.OnStoreDisconnected += OnStoreDisconnected;
         storeController.OnPurchaseFailed += OnPurchaseFailed;
         storeController.OnPurchaseDeferred += OnPurchaseDeferred;
-        await storeController.Connect();
+        
 
         storeController.OnProductsFetched += OnProductsFetched;
         storeController.OnProductsFetchFailed += OnProductsFetchFailed;
         storeController.OnPurchasesFetched += OnPurchasesFetched;
         storeController.OnPurchasesFetchFailed += OnPurchasesFetchFailed;
-
+        await storeController.Connect();
         var initialProductsToFetch = new List<ProductDefinition>
         {
             new(starterBundle.Id, ProductType.Consumable),
@@ -224,7 +226,7 @@ public class iap : MonoBehaviour
         };
 
         storeController.FetchProducts(initialProductsToFetch);
-        Debug.Log(storeController);
+        Debug.Log("InitializeIAP---------"+storeController);
     }
 
     void OnPurchasePending(PendingOrder pendingOrder)
