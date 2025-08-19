@@ -111,6 +111,33 @@ public class AudioManager : MonoBehaviour
        // AudioManager.ins.play2(AudioManager.ins.level15[0]);
       // plMusic();
     }
+    public static void Vibrate(long milliseconds = 250)
+    {
+#if UNITY_ANDROID && !UNITY_EDITOR
+        AndroidJavaClass unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
+        AndroidJavaObject currentActivity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
+        AndroidJavaObject vibrator = currentActivity.Call<AndroidJavaObject>("getSystemService", "vibrator");
+        
+        if (vibrator != null)
+        {
+            vibrator.Call("vibrate", milliseconds);
+        }
+#endif
+    }
+
+    public static void Cancel()
+    {
+#if UNITY_ANDROID && !UNITY_EDITOR
+        AndroidJavaClass unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
+        AndroidJavaObject currentActivity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
+        AndroidJavaObject vibrator = currentActivity.Call<AndroidJavaObject>("getSystemService", "vibrator");
+        
+        if (vibrator != null)
+        {
+            vibrator.Call("cancel");
+        }
+#endif
+    }
     public void plMusic()
     {
         Debug.Log("vplMusic");

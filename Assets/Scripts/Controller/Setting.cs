@@ -208,8 +208,11 @@ public class Setting : MonoBehaviour
             btsound.sprite = off;
             PlayerPrefs.SetInt("sound", 1);
             PlayerPrefs.Save();
-         //   AudioListener.volume = 1f; // Âm thanh bật
-
+            //   AudioListener.volume = 1f; // Âm thanh bật
+            GetComponent<Button>().onClick.AddListener(() =>
+            {
+                VibrationManager.Vibrate();
+            });
         }
     }
     public void music()
@@ -229,7 +232,10 @@ public class Setting : MonoBehaviour
                 btmusic.sprite = off;
                 PlayerPrefs.SetInt("music", 1);
                 PlayerPrefs.Save();
-
+                GetComponent<Button>().onClick.AddListener(() =>
+                {
+                    VibrationManager.Vibrate();
+                });
             }
             else
             {

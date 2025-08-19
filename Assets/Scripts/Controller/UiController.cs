@@ -99,9 +99,9 @@ public class UiController : MonoBehaviour
         //........iap
         if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
         {
-           // N1SpawnOnePrefab();
-           // N2SpawnOnePrefab();
-           // amob.LoadSplashAd();
+            N1SpawnOnePrefab();
+            N2SpawnOnePrefab();
+            amob.LoadSplashAd();
            // StartCoroutine(ShowAppOpenAds());
         }
     }
@@ -147,7 +147,7 @@ public class UiController : MonoBehaviour
         if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
         {
             //  N1ShowPrefab();
-           // StartCoroutine(ShowNative());
+            StartCoroutine(ShowNative());
 
 
 
@@ -156,18 +156,18 @@ public class UiController : MonoBehaviour
             //  amob.LoadBannerAd();
 
 
-        //   amob.LoadInterRetry();
-        //   amob.LoadRewardHint();
-        //   amob.LoadRewardTime();
-        //    amob.LoadRewardUnlock();
-        //    amob.LoadRewardDaily();
+           amob.LoadInterRetry();
+           amob.LoadRewardHint();
+           amob.LoadRewardTime();
+            amob.LoadRewardUnlock();
+            amob.LoadRewardDaily();
 
         }
 
     }
     IEnumerator ShowNative()
     {
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(1f);
         if (GameManager.ins.N1ADS == true && GameManager.ins.navi1 == true)
         {
             N1ShowPrefab();
@@ -289,11 +289,11 @@ public class UiController : MonoBehaviour
                     Destroy(newObject);
                     Debug.Log(newObject);
                     HomeUI.gameObject.SetActive(true);
-                   // N1DestroyPrefab();
-                   // N2DestroyPrefab();
+                    N1DestroyPrefab();
+                    N2DestroyPrefab();
 
-                 //  N1SpawnOnePrefab();
-                  //  N2SpawnOnePrefab();
+                   N1SpawnOnePrefab();
+                    N2SpawnOnePrefab();
 
                     startGame();
                     a_scene.AnimationState.ClearTrack(1);
@@ -341,7 +341,7 @@ public class UiController : MonoBehaviour
                     if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
                     {
                         Debug.Log("Iap_RemoveadsIap_RemoveadsIap_Removeads");
-                      //  StartCoroutine(StartInter());
+                        StartCoroutine(StartInter());
 
                       //  amob.ShowInterRetry();
                       //  amob.LoadBannerAd();
@@ -728,7 +728,7 @@ public class UiController : MonoBehaviour
         AudioManager.ins.stop3shot();
         AudioManager.ins.stopmusicgame();
 
-      //  firebaseLog(id_level);
+        firebaseLog(id_level);
 
         Home.ins.AddValue2(id_level);
         Home.ins.SaveData22();
@@ -967,7 +967,7 @@ public class UiController : MonoBehaviour
     GameObject newObject;
     public void SpawnMoveAndDestroy(GameObject prefabToSpawn)
     {
-        // firebaseLog2(id_level);
+         firebaseLog2(id_level);
         FirebaseAnalytics.LogEvent("Level");
 
         if (parentCanvas == null)
@@ -1536,5 +1536,69 @@ public class UiController : MonoBehaviour
         }
 
 
+    }
+
+
+
+    void firebaseLog(int id)
+    {
+        //Firebase.Analytics.FirebaseAnalytics.LogEvent("level_complete", "level_number", id);
+        string userName = System.Environment.UserName;
+        Firebase.Analytics.FirebaseAnalytics.LogEvent(
+        Firebase.Analytics.FirebaseAnalytics.EventLevelUp,
+        new Firebase.Analytics.Parameter[] {
+            new Firebase.Analytics.Parameter(
+            Firebase.Analytics.FirebaseAnalytics.ParameterCharacter, userName),
+            new Firebase.Analytics.Parameter(
+            Firebase.Analytics.FirebaseAnalytics.ParameterLevel, id),
+             });
+
+        LogAllUsersProgress(id);
+    }
+    void LogAllUsersProgress(int level)
+    {
+        for (int i = 1; i <= 30; i++)
+        {
+            string userName = "User" + i;
+            int currentLevel = level;  // Giả sử mỗi người dùng hoàn thành cấp độ ngẫu nhiên từ 1 đến 10
+                                       // LogLevelProgress(userName, currentLevel);
+            if (i == level)
+            {
+                Firebase.Analytics.FirebaseAnalytics.LogEvent("hoanthanhLev_" + i, "level_number", 1);
+
+            }
+
+        }
+    }
+    void firebaseLog2(int id)
+    {
+        Debug.Log("firebaseLog2firebaseLog2firebaseLog2");
+        //Firebase.Analytics.FirebaseAnalytics.LogEvent("level_complete", "level_number", id);
+        string userName = System.Environment.UserName;
+        Firebase.Analytics.FirebaseAnalytics.LogEvent(
+        Firebase.Analytics.FirebaseAnalytics.EventLevelUp,
+        new Firebase.Analytics.Parameter[] {
+            new Firebase.Analytics.Parameter(
+            Firebase.Analytics.FirebaseAnalytics.ParameterCharacter, userName),
+            new Firebase.Analytics.Parameter(
+            Firebase.Analytics.FirebaseAnalytics.ParameterLevel, id),
+             });
+
+        LogAllUsersProgress2(id);
+    }
+    void LogAllUsersProgress2(int level)
+    {
+        for (int i = 1; i <= 30; i++)
+        {
+            string userName = "User" + i;
+            int currentLevel = level;  // Giả sử mỗi người dùng hoàn thành cấp độ ngẫu nhiên từ 1 đến 10
+                                       // LogLevelProgress(userName, currentLevel);
+            if (i == level)
+            {
+                Firebase.Analytics.FirebaseAnalytics.LogEvent("Lev_" + i, "level_number", 1);
+
+            }
+
+        }
     }
 }

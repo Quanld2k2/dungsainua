@@ -67,7 +67,8 @@ public class LocalSelector : MonoBehaviour
                 case "SA":
                 case "EG":
                 case "AE": // Ả Rập (Saudi, UAE, Ai Cập)
-                    languageCode = "ar"; abc = 1     ; break;
+                    languageCode = "ar"; 
+                    abc = 1     ; break;
                 default:
                     languageCode = "en"; // Mặc định là tiếng Anh
                     abc = 1;
@@ -170,9 +171,14 @@ public class LocalSelector : MonoBehaviour
 
     private void ApplyLocale(int _localeID)
     {
-        _localeID += 1;
-        LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[_localeID];
-        _localeID -= 1;
+
+        var a = _localeID + 1;
+        if (a > 6)
+        {
+            //_localeID -= 1;
+        }
+        LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[a];
+        //_localeID ;
         PlayerPrefs.SetInt(CodeKey, _localeID);
         PlayerPrefs.Save();
     }
