@@ -14,8 +14,10 @@ public class GameManager : MonoBehaviour
         OP2 = false; iapiter = false;
 
         N1ADS = false; N2ADS = false;
-        navi1 = false; navi2 = false; sod = false; alang = false;
+        navi1 = false; navi2 = false; sod = false; alang = false; subs = false;
     }
+    public bool subs = false;
+
     public bool alang = false;
     public bool N1ADS = false, N2ADS = false;
     public bool navi1 = false, navi2 = false;

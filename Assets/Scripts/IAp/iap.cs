@@ -8,6 +8,7 @@ using UnityEngine;
 using UnityEngine.Purchasing;
 using UnityEngine.Purchasing.Extension;
 using UnityEngine.UI;
+using DG.Tweening;
 
 
 // [System.Serializable]
@@ -109,6 +110,22 @@ public class iap : MonoBehaviour
 
     public Text vipPasstxt;
 
+    public Image hint5btn;
+    public Image hint10btn;
+    public Image hint25btn;
+
+    public Image hint50btn;
+    public Image hint100btn;
+    public Image hint250btn;
+
+    public Image removeAdsbtn;
+
+    public Image benefitAdsbtn;
+    public Image saleAdsbtn;
+
+    public Image vipPassbtn;
+
+
 
     // private bool allowToShowShopBanner = true;
 
@@ -125,27 +142,13 @@ public class iap : MonoBehaviour
 
     void Start()
     {
-        bool hasSub = HasSubscription();
-        Debug.Log("Người dùng có sub: " + hasSub);
 
         InitializeIAP();
     }
     /// <summary>
     /// Hàm check user có sub chưa
     /// </summary>
-    public bool HasSubscription()
-    {
-        if (storeController == null) return false;
 
-        Product sub = storeController2.products.WithID(vipPass.Id);
-        if (sub != null && sub.hasReceipt)
-        {
-
-            return true; // User đã có sub active
-        }
-
-        return false;
-    }
 
     private void OnDestroy()
     {
@@ -162,7 +165,7 @@ public class iap : MonoBehaviour
 
     public void ConnumableBtn(string val)
     {
-        Debug.Log("ConnumableBtn");
+        Debug.Log("ConnumableBtn"+ this.name);
 
         // audioManager.PlaySFX("click");
         if (storeController == null)
@@ -171,32 +174,134 @@ public class iap : MonoBehaviour
             return;
         }
 
-        if (val == hint5.Id) storeController.PurchaseProduct(hint5.Id);
-        else if (val == hint10.Id) storeController.PurchaseProduct(hint10.Id);
-        else if (val == hint25.Id) storeController.PurchaseProduct(hint25.Id);
+        if (val == hint5.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint5btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint5btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint5.Id);
+                });
+            });
+        }
+        else if (val == hint10.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint10btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint10btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint10.Id);
+                });
+            });
+        }
 
-        else if (val == hint50.Id) storeController.PurchaseProduct(hint50.Id);
-        else if (val == hint100.Id) storeController.PurchaseProduct(hint100.Id);
-        else if (val == hint250.Id) storeController.PurchaseProduct(hint250.Id);
+        else if (val == hint25.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint25btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint25btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint25.Id);
+                });
+            });
+        }
+        
+        else if (val == hint50.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint50btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint50btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint50.Id);
+                });
+            });
+        }
+       
+        else if (val == hint100.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint100btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint100btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint100.Id);
+                });
+            });
+        }
+        
+        else if (val == hint250.Id)
+        {
+            AudioManager.ins.playClickshot();
+            hint250btn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                hint250btn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(hint250.Id);
+                });
+            });
+        }
+        
 
        // else if (val == vipPass.Id) storeController.PurchaseProduct(vipPass.Id);
 
     }
     public void SubscriptBtn()
     {
-        Debug.Log("SubscriptBtn");
-
-        storeController.PurchaseProduct(vipPass.Id);
-       
-
+        AudioManager.ins.playClickshot();
+        vipPassbtn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+        {
+            vipPassbtn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+            {
+                Debug.Log("SubscriptBtn");
+                storeController.PurchaseProduct(vipPass.Id);
+            });
+        });
     }
     public void NonConnumableBtn(string val)
     {
         Debug.Log("NonConnumableBtn");
 
-        if (val == removeAds.Id) storeController.PurchaseProduct(removeAds.Id);
-        else if (val == benefitAds.Id) storeController.PurchaseProduct(benefitAds.Id);
-        else if (val == saleAds.Id) storeController.PurchaseProduct(saleAds.Id);
+        if (val == removeAds.Id)
+        {
+            AudioManager.ins.playClickshot();
+            removeAdsbtn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                removeAdsbtn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(removeAds.Id);
+                });
+            });
+        }
+
+           
+        else if (val == benefitAds.Id)
+        {
+            AudioManager.ins.playClickshot();
+            benefitAdsbtn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                benefitAdsbtn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(benefitAds.Id);
+                });
+            });
+        }
+           
+        else if (val == saleAds.Id)
+        {
+            AudioManager.ins.playClickshot();
+            saleAdsbtn.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+            {
+                saleAdsbtn.transform.DOScale(1f, 0.1f).OnComplete(() =>
+                {
+                    storeController.PurchaseProduct(saleAds.Id);
+                });
+            });
+        }
+            
 
     }
 
@@ -304,7 +409,7 @@ public class iap : MonoBehaviour
 
     IEnumerator ConfirmWhenReady(PendingOrder pendingOrder)
     {
-        float timeout = 0.5f; // tối đa 5 giây chờ
+        float timeout = 1f; // tối đa 5 giây chờ
         float elapsed = 0f;
 
         while (pendingOrder.Info.PurchasedProductInfo.Count == 0 && elapsed < timeout)
@@ -394,34 +499,7 @@ public class iap : MonoBehaviour
             }
             else
             {
-                try
-                {
-                    var unifiedReceipt = JsonUtility.FromJson<UnifiedReceipt>(order.Info.Receipt);
-
-                    // Parse lớp thứ 2 (Payload)
-                    var googleWrapper = JsonUtility.FromJson<GooglePayloadWrapper>(unifiedReceipt.Payload);
-
-                    // Parse lớp thứ 3 (json)
-                    var purchaseData = JsonUtility.FromJson<GooglePurchaseData>(googleWrapper.json);
-
-                    Debug.Log($"Product: {purchaseData.productId}, Quantity: {purchaseData.quantity}");
-
-                    // shop.AddPackage(productId, purchaseData.quantity);
-                    if (productId == "sale_classic")
-                    {
-                        //  saveDataJson.SaveData("RemoveAds", true);
-                        RemoveAds();
-                    }
-                }
-                catch
-                {
-                    // shop.AddPackage(productId, 1);
-                    if (productId == "sale_classic")
-                    {
-                        // saveDataJson.SaveData("RemoveAds", true);
-                        RemoveAds();
-                    }
-                }
+               
             }
 
             Product product = storeController.GetProductById(productId);
@@ -490,10 +568,10 @@ public class iap : MonoBehaviour
 
         foreach (var product in products)
         {
-            Debug.Log($"ID: {product.definition.id}");
-            Debug.Log($"Localized Price: {product.metadata.localizedPriceString}");
-            Debug.Log($"Currency: {product.metadata.isoCurrencyCode}");
-            Debug.Log($"Raw Price: {product.metadata.localizedPrice}");
+           /// Debug.Log($"ID: {product.definition.id}");
+          //  Debug.Log($"Localized Price: {product.metadata.localizedPriceString}");
+          //  Debug.Log($"Currency: {product.metadata.isoCurrencyCode}");
+          //  Debug.Log($"Raw Price: {product.metadata.localizedPrice}");
 
             string priceText = product.metadata.localizedPriceString;
 
@@ -572,17 +650,42 @@ public class iap : MonoBehaviour
             if (isRemoveAds) break;
         }
 
+        bool isRemoveAds2 = false;
+        foreach (var order in orders.ConfirmedOrders)
+        {
+            foreach (var product in order.Info.PurchasedProductInfo)
+            {
+                if (product.productId == vipPass.Id)
+                {
+                    isRemoveAds2 = true;
+                }
+            }
+            if (isRemoveAds2) break;
+        }
         // if(isSubscription) ActivateElitePass();
         // else DeActivateElitePass();
 
-        //if (isRemoveAds || (bool)saveDataJson.GetData("RemoveAds"))
-        // {
-        //     RemoveAds();
-        //  }
-        // else
-        // {
-        //     ShowAds();
-        // }
+        Debug.Log("Người dùng có remove: " + isRemoveAds);
+
+        int hiNum = PlayerPrefs.GetInt("Iap_Removeads");
+        if (isRemoveAds == true || hiNum != 0)
+        {
+            ui.IAP_BTRemoveAds();
+
+        }
+        Debug.Log("Người dùng có sub: " + isRemoveAds2);
+
+        if (isRemoveAds2 == true)
+        {
+            
+            ui.IAP_BTVip();
+        }
+        else
+        {
+            ui.IAP_ResetVip2();
+        }
+
+
     }
 
     void OnPurchasesFetchFailed(PurchasesFetchFailureDescription PurchasesFetchFailureDescription)

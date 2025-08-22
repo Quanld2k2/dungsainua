@@ -23,7 +23,7 @@ public class NativeBanner : MonoBehaviour
         Debug.Log("StartN1SpawnOnePrefab");
         GameManager.ins.N1ADS = false;
         GameManager.ins.navi1 = false;
-     //   RequestNativeAd3();
+       RequestNativeAd3();
     }
 
     IEnumerator YourFunction3()
@@ -62,11 +62,16 @@ public class NativeBanner : MonoBehaviour
     {
         nativeAd = args.nativeAd;
         GameManager.ins.navi1 = true;
-        Debug.Log("Native ad loaded........oooooooooooooooooooooooooooooooooooooooo");
+        Debug.Log("Native ad loaded........111111111111111");
         if (nativeAd.GetIconTexture() != null)
         {
             Debug.Log("Icon texture loaded.");
-            icon2.texture = nativeAd.GetIconTexture();
+
+
+                if (icon2 != null)
+                    icon2.texture = nativeAd.GetIconTexture();
+            
+
         }
         else
         {
@@ -76,7 +81,7 @@ public class NativeBanner : MonoBehaviour
 
         if (nativeAd.GetHeadlineText() != null)
         {
-            Debug.Log("Icon texture loaded.");
+            Debug.Log("Icon GetHeadlineText loaded.");
             AdHeadline4.text = nativeAd.GetHeadlineText();
 
         }

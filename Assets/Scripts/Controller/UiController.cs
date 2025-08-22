@@ -88,6 +88,15 @@ public class UiController : MonoBehaviour
         // StartCoroutine(StartLoop());
         //  txt_gold.text = "0";
 
+        int Vip_game_second = PlayerPrefs.GetInt("Vip_game_second");
+
+        if (Vip_game_second == 0) 
+        {
+            PlayerPrefs.SetInt("Vip_game_second", 1);
+        }
+
+        loadelevelactive = 0;
+        lo2 = 0;
         addGold();
 
         if (newObject != null)
@@ -102,7 +111,7 @@ public class UiController : MonoBehaviour
             N1SpawnOnePrefab();
             N2SpawnOnePrefab();
             amob.LoadSplashAd();
-           // StartCoroutine(ShowAppOpenAds());
+            StartCoroutine(ShowAppOpenAds());
         }
     }
     public void langGA()
@@ -143,31 +152,56 @@ public class UiController : MonoBehaviour
         icon_V.gameObject.SetActive(false);
 
         GameManager.ins.alang = false;
-        //........iap
-        if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
+
+        int Vip_game_second = PlayerPrefs.GetInt("Vip_game_second");
+
+        if (Vip_game_second != 0)
         {
-            //  N1ShowPrefab();
-            StartCoroutine(ShowNative());
+            int aload = PlayerPrefs.GetInt("anoyme1");
+            int aload2 = loadelevelactive + aload;
+            if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
+            {
+                if (lo2 == 100)
+                {
+                    if (aload2 >= 4)
+                    {
+                        Home.ins.a_sale.gameObject.SetActive(true);
 
+                        sale.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
+                        sale.gameObject.SetActive(true);
+                        Sale.ins.sale_up_lev4true();
+                    }
+                }
 
+                StartCoroutine(ShowNative());
+                amob.LoadInterRetry();
+                amob.LoadRewardHint();
+                amob.LoadRewardTime();
+                amob.LoadRewardUnlock();
+             //   amob.LoadRewardDaily();
 
-            // N2ShowPrefab();
+            }
+            if (lo2 == 0)
+            {
+                lo2 = 100; 
+                int vipIap = PlayerPrefs.GetInt("vipIap");
 
-            //  amob.LoadBannerAd();
-
-
-           amob.LoadInterRetry();
-           amob.LoadRewardHint();
-           amob.LoadRewardTime();
-            amob.LoadRewardUnlock();
-            amob.LoadRewardDaily();
-
+                if (vipIap == 0) 
+                {
+                    ShopVipPop.gameObject.SetActive(true);
+                    ShopVip.ins.ShowPopupFromButton();
+                }
+           
+            }
         }
 
+        //........iap
     }
     IEnumerator ShowNative()
     {
-        yield return new WaitForSeconds(1f);
+        Debug.Log("ShowNativeShowNativeShowNativeShowNative ok");
+
+        yield return new WaitForSeconds(2f);
         if (GameManager.ins.N1ADS == true && GameManager.ins.navi1 == true)
         {
             N1ShowPrefab();
@@ -255,6 +289,8 @@ public class UiController : MonoBehaviour
 
                 if (GameManager.ins.SHome == true)
                 {
+                  //  amob.LoadInterRetry();
+
                     Debug.Log("Play-----Active");
 
                     AudioManager.ins.musicSource.mute = true;
@@ -268,15 +304,11 @@ public class UiController : MonoBehaviour
                     StartGamePlay();
                     a_scene.AnimationState.ClearTrack(1);
                     a_scene.AnimationState.SetAnimation(1, "Open", false);
-
-
-
                     // GameManager.ins.SHome = false;
                 }
                 else if (GameManager.ins.SPlay == true)
                 {
                     Debug.Log("Home-----Active");
-
                     AudioManager.ins.musicSource.mute = false;
                     //  AudioManager.ins.Click.mute = false;
                     GameManager.ins.sod = false;
@@ -292,7 +324,7 @@ public class UiController : MonoBehaviour
                     N1DestroyPrefab();
                     N2DestroyPrefab();
 
-                   N1SpawnOnePrefab();
+                    N1SpawnOnePrefab();
                     N2SpawnOnePrefab();
 
                     startGame();
@@ -302,6 +334,8 @@ public class UiController : MonoBehaviour
                 }
                 else if (GameManager.ins.RSET == true)
                 {
+                  //  amob.LoadInterRetry();
+
                     Destroy(newObject);
                     StartGamePlay();
                     a_scene.AnimationState.ClearTrack(1);
@@ -333,38 +367,47 @@ public class UiController : MonoBehaviour
             {
                 if (GameManager.ins.RSET == true || GameManager.ins.SHome == true)
                 {
+                    int aload = PlayerPrefs.GetInt("anoyme1");
+                    int aload2 = loadelevelactive + aload;
+                    if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
+                    {
+                        if (aload2 == 4)
+                        {
+                            sale.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
+                            sale.gameObject.SetActive(true);
+                            Sale.ins.sale_up_lev4true();
+                        }
+                    }
+                   
+                    
+                    Debug.Log("levelloading..   " + aload2);
+
                     GameManager.ins.SHome = false;
                     GameManager.ins.RSET = false;
 
                     time.ins.StartCountdown();
 
-                    if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
-                    {
-                        Debug.Log("Iap_RemoveadsIap_RemoveadsIap_Removeads");
-                        StartCoroutine(StartInter());
-
-                      //  amob.ShowInterRetry();
-                      //  amob.LoadBannerAd();
-                    }
+                   // if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
+                    //{
+                    //    StartCoroutine(StartInter());
+                    //}
                 }
-
                 a_scene.gameObject.SetActive(false);
                 
                 if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0 && (GameManager.ins.SPlay == true))
                 {
                    // amob.LoadBannerAd();
                 }
-               
-
                 //  a_scene.AnimationState.ClearTrack(1);
                 // a_scene.AnimationState.SetAnimation(1, "Open", false);
             }
         }
     }
+    int loadelevelactive = 0, lo2 = 0;
     IEnumerator StartInter()
     {
-        yield return new WaitForSeconds(2f);
-       // amob.ShowInterRetry();
+        yield return new WaitForSeconds(1.5f);
+        amob.ShowInterRetry();
     }
     public void StartGamePlay()
     {
@@ -401,7 +444,6 @@ public class UiController : MonoBehaviour
         GameManager.ins.alang = true;
         GameManager.ins.HintActive();
 
-
     }
     public ScrollRect scrollRect;
 
@@ -429,13 +471,20 @@ public class UiController : MonoBehaviour
     public void OpenSale()
     {
         AudioManager.ins.playClickshot();
-
-        sale.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
-        sale.gameObject.SetActive(true);
-        Sale.ins.Saleup();
+        Home.ins.a_sale.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+        {
+            Home.ins.a_sale.transform.DOScale(1f, 0.1f).OnComplete(() =>
+            {
+                sale.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
+                sale.gameObject.SetActive(true);
+                Sale.ins.Saleup();
+            });
+        });
     }
     public void CloseSale()
     {
+        Sale.ins.bt2.DOKill();                  // hủy tween
+        Sale.ins.bt2.transform.localScale = Vector3.one;  // trả về scale gốc
         sale.GetComponent<RectTransform>().anchoredPosition = new Vector3(-8000f, 0f, 0f);
         sale.gameObject.SetActive(false);
     }
@@ -481,15 +530,31 @@ public class UiController : MonoBehaviour
     }
     public void OpenShopVip()
     {
-        AudioManager.ins.playClickshot();
-
-        ShopVipPop.gameObject.SetActive(true);
-        ShopVip.ins.ShowPopupFromButton();
+       AudioManager.ins.playClickshot();
+       Home.ins.bt_Vip.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+        {
+            Home.ins.bt_Vip.transform.DOScale(1f, 0.1f).OnComplete(() =>
+            {
+                ShopVipPop.gameObject.SetActive(true);
+                ShopVip.ins.ShowPopupFromButton();
+            });
+        });
+       
     }
     public void CloseShopVip()
     {
-        ShopVipPop.GetComponent<RectTransform>().anchoredPosition = new Vector3(-4000f, 0f, 0f);
-        ShopVipPop.gameObject.SetActive(false);
+        AudioManager.ins.playClickshot();
+        ShopVip.ins.bt2.transform.DOScale(1.1f, 0.1f).OnComplete(() =>
+        {
+            ShopVip.ins.bt2.transform.DOScale(1f, 0.1f).OnComplete(() =>
+            {
+                ShopVip.ins.bt1.DOKill();                  // hủy tween
+                ShopVip.ins.bt1.transform.localScale = Vector3.one;  // trả về scale gốc
+                ShopVipPop.GetComponent<RectTransform>().anchoredPosition = new Vector3(-4000f, 0f, 0f);
+                ShopVipPop.gameObject.SetActive(false);
+            });
+        });
+        
     }
     public void Bt_Privacy()
     {
@@ -739,7 +804,10 @@ public class UiController : MonoBehaviour
         icon_V.rectTransform.localScale = Vector3.zero;
         icon_V.rectTransform.DOScale(1f, 0.7f).SetEase(Ease.OutBack).OnComplete(() =>
         {
-            DOVirtual.DelayedCall(0.6f, () =>
+            //StartCoroutine(StartInter());
+            amob.ShowInterRetry();
+
+            DOVirtual.DelayedCall(0.7f, () =>
             {
                 OpenWin();
             });
@@ -768,6 +836,7 @@ public class UiController : MonoBehaviour
                 {
                     Home.ins.AddValue(id_level);
                     Home.ins.SaveData();
+                    loadelevelactive += 1;
                 }
                 else
                 {
@@ -798,6 +867,7 @@ public class UiController : MonoBehaviour
         Win.ins.OpenWin(idf);
         BG_XV.gameObject.SetActive(false);
         icon_V.gameObject.SetActive(false);
+
     }
 
     public void CloseWin()
@@ -1005,16 +1075,11 @@ public class UiController : MonoBehaviour
         rect.localScale = Vector3.one;
     }
     //IAP
-    public void IapRemoveAds()
-    {
-
-    }
-
     public void IapVip()
     {
-        PlayerPrefs.SetInt("anoyme1", 20);
-        Home.ins.STHome();
-        LogOncePerDay();
+       // PlayerPrefs.SetInt("anoyme1", 20);
+        //Home.ins.STHome();
+       // LogOncePerDay();
     }
     void LogOncePerDay()
     {
@@ -1031,7 +1096,9 @@ public class UiController : MonoBehaviour
         {
             // Chưa log hôm nay -> log 100
             Debug.Log(100);
-
+            int hiNum = PlayerPrefs.GetInt("hiGame");
+            hiNum += 10;
+            PlayerPrefs.SetInt("hiGame", hiNum);
             // Lưu ngày hôm nay để ngày mai mới log lại
             PlayerPrefs.SetString(lastLogDateKey, todayDate);
             PlayerPrefs.Save();
@@ -1054,14 +1121,10 @@ public class UiController : MonoBehaviour
         Home.ins.unLockAll();
 
         IAP_BTRemoveAds();
-
-        int hiNum = PlayerPrefs.GetInt("hiGame");
-        hiNum += 10;
-        PlayerPrefs.SetInt("hiGame", hiNum);
-
+        GameManager.ins.subs = true;
         PlayerPrefs.SetInt("vipIap", 1);
         PlayerPrefs.Save();
-
+        LogOncePerDay();
     }
     public void IAP_BTBenefit()
     {
@@ -1122,8 +1185,14 @@ public class UiController : MonoBehaviour
         PlayerPrefs.Save();
 
         Home.ins.STHome();
-      //  amob.LoadBannerAd();
+        //  amob.LoadBannerAd();
 
+    }
+    public void IAP_ResetVip2()
+    {
+        PlayerPrefs.SetInt("anoyme1", 0);
+        PlayerPrefs.Save();
+        Home.ins.STHome();
     }
 
     public void PauseGame()

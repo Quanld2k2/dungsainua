@@ -24,7 +24,7 @@ public class NativeColap : MonoBehaviour
          GameManager.ins.N2ADS = false;
         GameManager.ins.navi2 = false;
         a = 0;
-      //  RequestNativeAd3();
+        RequestNativeAd3();
     }
     public int a = 0;
     IEnumerator YourFunction3()
@@ -77,9 +77,12 @@ public class NativeColap : MonoBehaviour
         Debug.Log("Native ad loaded........oooooooooooooooooooooooooooooooooooooooo");
         if (nativeAd.GetIconTexture() != null)
         {
-            Debug.Log("Icon texture loaded.");
-            icon1.texture = nativeAd.GetIconTexture();
-            icon2.texture = nativeAd.GetIconTexture();
+            Debug.Log("Icon GetIconTexture loaded.");
+            if (icon1 != null)
+                icon1.texture = nativeAd.GetIconTexture();
+
+            if (icon2 != null)
+                icon2.texture = nativeAd.GetIconTexture();
         }
         else
         {

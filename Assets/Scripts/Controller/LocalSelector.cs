@@ -19,7 +19,7 @@ public class LocalSelector : MonoBehaviour
     private void Awake()
     {
         LocalSelector.ins = this;
-        //PlayerPrefs.DeleteAll();
+    //  PlayerPrefs.DeleteAll();
 
     }
     void Start()
@@ -177,6 +177,9 @@ public class LocalSelector : MonoBehaviour
         {
             //_localeID -= 1;
         }
+        Debug.Log("ApplyLocale" + LocalizationSettings.AvailableLocales.Locales.Count);
+        Debug.Log("ApplyLocale" + LocalizationSettings.SelectedLocale);
+
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[a];
         //_localeID ;
         PlayerPrefs.SetInt(CodeKey, _localeID);
@@ -194,10 +197,10 @@ public class LocalSelector : MonoBehaviour
 
     public void SetLocal2(int _localeID)
     {
-        _localeID += 1;
+        var a = _localeID + 1;
 
-        LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[_localeID];
-        _localeID -= 1;
+        LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[a];
+        //_localeID -= 1;
         PlayerPrefs.SetInt(CodeKey, _localeID);
         PlayerPrefs.Save();
     }

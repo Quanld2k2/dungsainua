@@ -54,7 +54,7 @@ public class ShopVip : MonoBehaviour
         icon.gameObject.SetActive(true);
 
         // Scale từ 0 → 1
-        popup.DOScale(Vector3.one, 0.3f).SetEase(Ease.OutBack).OnComplete(() =>
+        popup.DOScale(Vector3.one, 0.5f).SetEase(Ease.OutBack).OnComplete(() =>
         {
             txt1.gameObject.SetActive(true);
 
@@ -62,27 +62,35 @@ public class ShopVip : MonoBehaviour
             {
                 txt2.gameObject.SetActive(true);
                 ic1.gameObject.SetActive(true);
-                txt2.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.3f);
-                ic1.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack).OnComplete(() =>
+                txt2.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.2f);
+                ic1.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack).OnComplete(() =>
                 {
                     txt3.gameObject.SetActive(true);
                     ic2.gameObject.SetActive(true);
-                    txt3.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.3f);
-                    ic2.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack).OnComplete(() =>
+                    txt3.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.2f);
+                    ic2.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack).OnComplete(() =>
                     {
                         txt4.gameObject.SetActive(true);
                         ic3.gameObject.SetActive(true);
-                        txt4.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.3f);
-                        ic3.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack).OnComplete(() =>
+                        txt4.gameObject.GetComponent<RectTransform>().DOAnchorPos(new Vector3(60f, 0f, 0f), 0.2f);
+                        ic3.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack).OnComplete(() =>
                         {
                             bt1.gameObject.SetActive(true);
                             bt2.gameObject.SetActive(true);
                             txt5.gameObject.SetActive(true);
                             txt6.gameObject.SetActive(true);
-                            bt1.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack);
-                            bt2.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack);
-                            txt5.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack);
-                            txt6.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack);
+                            bt1.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack).OnComplete(() =>
+                            {
+                                bt1.transform.DOScale(1.1f, 0.7f)
+                               .SetLoops(-1, LoopType.Yoyo) // loop vô hạn, kiểu đi tới rồi quay về
+                               .SetEase(Ease.InOutSine);
+                            });
+                            bt2.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack);
+                            txt5.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack);
+                            txt6.transform.DOScale(1f, 0.3f).SetEase(Ease.OutBack);
+
+                            // Scale to lên 1.1 rồi thu nhỏ về 1.0, lặp vô hạn
+                              // chuyển động mượt
                         });
                     });
                 });

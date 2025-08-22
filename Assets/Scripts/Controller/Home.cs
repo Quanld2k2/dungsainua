@@ -30,22 +30,29 @@ public class Home : MonoBehaviour
         // PrintValues();
 
         Home.ins.a_shop.gameObject.SetActive(true);
-        if (PlayerPrefs.GetInt("vipIap", 0) == 0)
-        {
+       // if (PlayerPrefs.GetInt("vipIap", 0) == 0)
+       // {
             //    PlayerPrefs.SetInt("vipIap", 1);
             Home.ins.a_lock.gameObject.SetActive(true);
             Home.ins.bt_Vip.gameObject.SetActive(true);
-        }
-        else
-        {
-            Home.ins.a_lock.gameObject.SetActive(false);
-            Home.ins.bt_Vip.gameObject.SetActive(false);
-        }
+       // }
+       // else
+        //{
+        //    Home.ins.a_lock.gameObject.SetActive(false);
+         //   Home.ins.bt_Vip.gameObject.SetActive(false);
+        //}
 
         if (PlayerPrefs.GetInt("Iap_Removeads", 0) == 0)
         {
-            Home.ins.a_sale.gameObject.SetActive(true);
-
+            int aload = PlayerPrefs.GetInt("anoyme1");
+            if (aload >= 4)
+            {
+                Home.ins.a_sale.gameObject.SetActive(true);
+            }
+            else
+            {
+                Home.ins.a_sale.gameObject.SetActive(false);
+            }
         }
         else
         {
@@ -140,10 +147,10 @@ public class Home : MonoBehaviour
         a_lock.gameObject.SetActive(false);
         int loadedScore = PlayerPrefs.GetInt("anoyme1");
         loadedScore = level.Length;
-      // PlayerPrefs.SetInt("anoyme1", 23);
+         PlayerPrefs.SetInt("anoyme1", 23);
          PlayerPrefs.SetInt("anoyme1", loadedScore);
-        PlayerPrefs.Save();
-
+         PlayerPrefs.Save();
+        Debug.Log("unlockkelwlwl");
         for (int i = 0; i < level.Length; i++)
         {
             Button button = level[i];
@@ -338,8 +345,12 @@ public class Home : MonoBehaviour
         {
             bt_VideoAllUn.gameObject.SetActive(true);
             bt_VideoAllUn.transform.localScale = new Vector3(0.5f, 1f, 1f);
-            bt_VideoAllUn.transform.DOScale(1f, 0.2f).SetEase(Ease.OutBack);
-
+            bt_VideoAllUn.transform.DOScale(1f, 0.2f).SetEase(Ease.OutBack).OnComplete(() =>
+            {
+                bt_VideoAllUn.transform.DOScale(1.1f, 0.7f)
+                              .SetLoops(-1, LoopType.Yoyo) // loop vô hạn, kiểu đi tới rồi quay về
+                              .SetEase(Ease.InOutSine);
+            });
             bt_CloseAllUn.gameObject.SetActive(true);
             bt_CloseAllUn.transform.localScale = new Vector3(0.5f, 1f, 1f);
             bt_CloseAllUn.transform.DOScale(1f, 0.2f).SetEase(Ease.OutBack);
@@ -348,6 +359,7 @@ public class Home : MonoBehaviour
     public void CloseUnlockAllLevel()
     {
         boardAllUn.gameObject.SetActive(false);
-
+        bt_VideoAllUn.DOKill();                  // hủy tween
+        bt_VideoAllUn.transform.localScale = Vector3.one;  // trả về scale gốc
     }
 }

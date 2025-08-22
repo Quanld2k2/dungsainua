@@ -197,7 +197,7 @@ public class Level5 : MonoBehaviour
     }
     public void OnAnimationComplete2(TrackEntry trackEntry)
     {
-        Debug.Log("OnAnimationComplete2OnAnimationComplete2OnAnimationComplete2OnAnimationComplete2");
+     //   Debug.Log("OnAnimationComplete2OnAnimationComplete2OnAnimationComplete2OnAnimationComplete2");
         if (bot1 == true)
         {
             bot1 = false;

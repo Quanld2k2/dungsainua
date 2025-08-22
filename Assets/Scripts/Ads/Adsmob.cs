@@ -7,7 +7,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using GoogleMobileAds.Ump;
 using GoogleMobileAds.Ump.Api;
-
+using Firebase;
+using Firebase.Analytics;
 
 public enum RewardType
 {
@@ -45,10 +46,6 @@ public class Adsmob : MonoBehaviour
     private void Awake()
     {
         Adsmob.ins = this;
-    }
-    
-    private void Start()
-    {
         int checkIntDate = PlayerPrefs.GetInt("quanDatewho");
         MobileAds.RaiseAdEventsOnUnityMainThread = true;
 
@@ -57,6 +54,11 @@ public class Adsmob : MonoBehaviour
             Debug.Log("✅ AdMob SDK đã khởi tạo xong!");
             AppStateEventNotifier.AppStateChanged += OnAppStateChanged;
         });
+    }
+    
+    private void Start()
+    {
+        
     }
     public void RequestConsentInfoUpdate()
     {
@@ -376,7 +378,9 @@ public class Adsmob : MonoBehaviour
     public void ShowInterRetry()
     {
         if (interAd_Retry != null && interAd_Retry.CanShowAd() && !isShowingInterRetry)
-        {
+        {          
+            FirebaseAnalytics.LogEvent("ShowInterRetry");
+
             isShowingInterRetry = true;
             currentInterType = InterstitialType.Retry;
             interAd_Retry.Show();
@@ -434,7 +438,7 @@ public class Adsmob : MonoBehaviour
                 LoadInterRetry();
                 break;
             case InterstitialType.After2Round:
-                LoadInterAfter2Round();
+               // LoadInterAfter2Round();
                 break;
             default:
                 Debug.LogWarning("Unknown interstitial type when closed.");
@@ -531,22 +535,22 @@ public class Adsmob : MonoBehaviour
         switch (type)
         {
             case RewardType.Hint:
-                // FirebaseAnalytics.LogEvent("reward_hint");
+                 FirebaseAnalytics.LogEvent("reward_hint");
 
                 adToShow = reward_hint;
                 break;
             case RewardType.Time:
-                //  FirebaseAnalytics.LogEvent("reward_time");
+                  FirebaseAnalytics.LogEvent("reward_time");
 
                 adToShow = reward_time;
                 break;
             case RewardType.Unlock:
-                // FirebaseAnalytics.LogEvent("Reward_Daily");
+                 FirebaseAnalytics.LogEvent("Reward_Daily");
 
                 adToShow = reward_unlock;
                 break;
             case RewardType.Daily:
-                // FirebaseAnalytics.LogEvent("resume_all");
+                FirebaseAnalytics.LogEvent("resume_all");
 
                 adToShow = reward_daily;
                 break;

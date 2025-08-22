@@ -209,10 +209,10 @@ public class Setting : MonoBehaviour
             PlayerPrefs.SetInt("sound", 1);
             PlayerPrefs.Save();
             //   AudioListener.volume = 1f; // Âm thanh bật
-            GetComponent<Button>().onClick.AddListener(() =>
-            {
-                VibrationManager.Vibrate();
-            });
+          //  GetComponent<Button>().onClick.AddListener(() =>
+          //  {
+           //     VibrationManager.Vibrate();
+           // });
         }
     }
     public void music()

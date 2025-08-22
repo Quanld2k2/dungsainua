@@ -70,8 +70,17 @@ public class unlockLevel : MonoBehaviour
         }
         else
         {
-            Home.ins.STHome();
+            Debug.Log("STHomeSTHomeSTHomeSTHomeSTHome");
 
+            if (GameManager.ins.subs == false)
+            {
+                Home.ins.STHome();
+
+            }
+            else
+            {
+                Home.ins.unLockAll();
+            }
         }
     }
     public void ResetImageTime()

@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
 using Spine.Unity;
@@ -39,10 +39,49 @@ public class Sale : MonoBehaviour
             bt2.transform.localScale = new Vector3(0.5f, 1f, 1f);
             bt2.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack).OnComplete(() =>
             {
-               // StartCounting();
+                // StartCounting();
+
+                bt2.transform.DOScale(1.1f, 0.7f)
+                              .SetLoops(-1, LoopType.Yoyo) // loop vô hạn, kiểu đi tới rồi quay về
+                              .SetEase(Ease.InOutSine);
             });
         });
     }
+
+    public void sale_up_lev4true()
+    {
+        black.gameObject.SetActive(true);
+        vip.gameObject.SetActive(false);
+        // Đặt alpha về 0 trước (trong suốt)
+        Color c = black.color;
+        c.a = 0;
+        black.color = c;
+        // Fade lên alpha = 1 trong 0.5s
+        black.DOFade(0.8f, 0.5f).OnComplete(() =>
+        {
+            vip.gameObject.SetActive(true);
+            bt1.gameObject.SetActive(false);
+            bt2.gameObject.SetActive(false);
+            vip.transform.localScale = new Vector3(1.4f, 1.4f, 1.4f);
+            vip.transform.DOScale(1f, 0.4f).SetEase(Ease.OutBack).OnComplete(() =>
+            {
+                bt1.gameObject.SetActive(true);
+                bt1.transform.localScale = new Vector3(0.5f, 1f, 1f);
+                bt1.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack);
+
+                bt2.gameObject.SetActive(true);
+                bt2.transform.localScale = new Vector3(0.5f, 1f, 1f);
+                bt2.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack).OnComplete(() =>
+                {
+                    // StartCounting();
+                    bt2.transform.DOScale(1.1f, 0.7f)
+                             .SetLoops(-1, LoopType.Yoyo) // loop vô hạn, kiểu đi tới rồi quay về
+                             .SetEase(Ease.InOutSine);
+                });
+            });
+        });
+    }
+
     public Text moneyText;
 
     public void StartCounting()
