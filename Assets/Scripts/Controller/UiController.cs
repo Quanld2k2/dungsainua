@@ -303,7 +303,7 @@ public class UiController : MonoBehaviour
                     
                     StartGamePlay();
                     a_scene.AnimationState.ClearTrack(1);
-                    a_scene.AnimationState.SetAnimation(1, "Open", false);
+                   // a_scene.AnimationState.SetAnimation(1, "Open", false);
                     // GameManager.ins.SHome = false;
                 }
                 else if (GameManager.ins.SPlay == true)
@@ -329,7 +329,7 @@ public class UiController : MonoBehaviour
 
                     startGame();
                     a_scene.AnimationState.ClearTrack(1);
-                    a_scene.AnimationState.SetAnimation(1, "Open", false);
+                   // a_scene.AnimationState.SetAnimation(1, "Open", false);
                     GameManager.ins.SPlay = false;
                 }
                 else if (GameManager.ins.RSET == true)
@@ -339,7 +339,7 @@ public class UiController : MonoBehaviour
                     Destroy(newObject);
                     StartGamePlay();
                     a_scene.AnimationState.ClearTrack(1);
-                    a_scene.AnimationState.SetAnimation(1, "Open", false);
+                  //  a_scene.AnimationState.SetAnimation(1, "Open", false);
                     //GameManager.ins.RSET = false;
                 }
                 else
@@ -353,7 +353,7 @@ public class UiController : MonoBehaviour
 
                     Setting.ins.SLanguague_close();
                     a_scene.AnimationState.ClearTrack(1);
-                    a_scene.AnimationState.SetAnimation(1, "Open", false);
+                   // a_scene.AnimationState.SetAnimation(1, "Open", false);
                     if (GameManager.ins.alang == false)
                     {
                         uiplay.GetComponent<RectTransform>().anchoredPosition = Vector3.zero;
@@ -407,7 +407,7 @@ public class UiController : MonoBehaviour
     IEnumerator StartInter()
     {
         yield return new WaitForSeconds(1.5f);
-        amob.ShowInterRetry();
+     //   amob.ShowInterRetry();
     }
     public void StartGamePlay()
     {
@@ -805,7 +805,7 @@ public class UiController : MonoBehaviour
         icon_V.rectTransform.DOScale(1f, 0.7f).SetEase(Ease.OutBack).OnComplete(() =>
         {
             //StartCoroutine(StartInter());
-            amob.ShowInterRetry();
+          //  amob.ShowInterRetry();
 
             DOVirtual.DelayedCall(0.7f, () =>
             {
